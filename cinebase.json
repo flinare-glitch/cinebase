@@ -1,5 +1,103 @@
 [
   {
+    "id": 11289,
+    "title": "NOCHE EN EL MUSEO: EL SECRETO DEL FARAON (2014)",
+    "year": "2014",
+    "duration": "97 min",
+    "director": "Shawn Levy",
+    "actors": "Ben Stiller, Robin Williams, Owen Wilson, Steve Coogan, Ricky Gervais",
+    "genre": "Aventura, Comedia, Fantasia, Familia",
+    "rating": "6.2 / 10",
+    "telegramLink": "https://t.me/c/2474087426/11289",
+    "fileMessageId": "https://t.me/c/2474087426/11290",
+    "fileName": "Noche en el museo - El secreto del faraón (2014).mp4",
+    "fileSize": "3,23 Gb"
+  },
+  {
+    "id": 11286,
+    "title": "NOCHE EN EL MUSEO 2 (2009)",
+    "year": "2009",
+    "duration": "105 min",
+    "director": "Shawn Levy",
+    "actors": "Ben Stiller, Amy Adams, Owen Wilson, Hank Azaria, Robin Williams",
+    "genre": "Aventura, Fantasia, Accion, Comedia, Familia",
+    "rating": "6.2 / 10",
+    "telegramLink": "https://t.me/c/2474087426/11286",
+    "fileMessageId": "https://t.me/c/2474087426/11287",
+    "fileName": "Noche en el museo 2 (2009).mp4",
+    "fileSize": "3,82 Gb"
+  },
+  {
+    "id": 11283,
+    "title": "NOCHE EN EL MUSEO (2006)",
+    "year": "2006",
+    "duration": "108 min",
+    "director": "Shawn Levy",
+    "actors": "Ben Stiller, Carla Gugino, Dick Van Dyke, Mickey Rooney, Bill Cobbs",
+    "genre": "Fantasia, Familia, Comedia",
+    "rating": "6.6 / 10",
+    "telegramLink": "https://t.me/c/2474087426/11283",
+    "fileMessageId": "https://t.me/c/2474087426/11284",
+    "fileName": "Noche en el museo 2006.mp4",
+    "fileSize": "3,28 Gb"
+  },
+  {
+    "id": 11280,
+    "title": "EL HOMBRE CON UN ZAPATO ROJO (1985)",
+    "year": "1985",
+    "duration": "92 min",
+    "director": "Stan Dragoti",
+    "actors": "Tom Hanks, Dabney Coleman, Lori Singer, Charles Durning, Carrie Fisher",
+    "genre": "Accion, Comedia",
+    "rating": "5.7 / 10",
+    "telegramLink": "https://t.me/c/2474087426/11280",
+    "fileMessageId": null,
+    "fileName": null,
+    "fileSize": ""
+  },
+  {
+    "id": 11277,
+    "title": "DAVE, PRESIDENTE POR UN DIA (1993)",
+    "year": "1993",
+    "duration": "110 min",
+    "director": "Ivan Reitman",
+    "actors": "Kevin Kline, Sigourney Weaver, Frank Langella, Kevin Dunn, Ving Rhames",
+    "genre": "Comedia",
+    "rating": "6.6 / 10",
+    "telegramLink": "https://t.me/c/2474087426/11277",
+    "fileMessageId": "https://t.me/c/2474087426/11278",
+    "fileName": "Dave. Presidente por un día (1993).mp4",
+    "fileSize": "3,87 Gb"
+  },
+  {
+    "id": 11274,
+    "title": "INDIANA JONES Y EL REINO DE LA CALAVERA DE CRISTAL (2008)",
+    "year": "2008",
+    "duration": "123 min",
+    "director": "Steven Spielberg",
+    "actors": "Harrison Ford, Cate Blanchett, Karen Allen, Shia LaBeouf, Ray Winstone",
+    "genre": "Aventura, Accion",
+    "rating": "6.0 / 10",
+    "telegramLink": "https://t.me/c/2474087426/11274",
+    "fileMessageId": "https://t.me/c/2474087426/11275",
+    "fileName": "Indiana Jones y el reino de la calavera de cristal (2008).mp4",
+    "fileSize": "2,89 Gb"
+  },
+  {
+    "id": 11271,
+    "title": "ETERNITY (2025)",
+    "year": "2025",
+    "duration": "114 min",
+    "director": "David Freyne",
+    "actors": "Elizabeth Olsen, Miles Teller, Callum Turner, Da'Vine Joy Randolph, John Early",
+    "genre": "Romance, Comedia, Drama",
+    "rating": "7.0 / 10",
+    "telegramLink": "https://t.me/c/2474087426/11271",
+    "fileMessageId": "https://t.me/c/2474087426/11272",
+    "fileName": "Eternity (2025).mp4",
+    "fileSize": "3,90 Gb"
+  },
+  {
     "id": 11268,
     "title": "TROYA (2004)",
     "year": "2004",
@@ -1944,20 +2042,6 @@
     "fileMessageId": "https://t.me/c/2474087426/10848",
     "fileName": "Luces Rojas @Todogram.mp4",
     "fileSize": "2,00 Gb"
-  },
-  {
-    "id": 10844,
-    "title": "PEARL HARBOR (2001)",
-    "year": "2001",
-    "duration": "184 min",
-    "director": "Michael Bay",
-    "actors": "Ben Affleck, Kate Beckinsale, Josh Hartnett, Cuba Gooding Jr., Jon Voight",
-    "genre": "Belica, Romance, Historia, Accion",
-    "rating": "6.9 / 10",
-    "telegramLink": "https://t.me/c/2474087426/10844",
-    "fileMessageId": "https://t.me/c/2474087426/10845",
-    "fileName": "Pearl Harbor (2001).mp4",
-    "fileSize": "1,91 Gb"
   },
   {
     "id": 10841,
@@ -13048,20 +13132,6 @@
     "fileSize": "3,36 Gb"
   },
   {
-    "id": 8377,
-    "title": "DIARIO DE UN REBELDE (1995)",
-    "year": "1995",
-    "duration": "102 min",
-    "director": "Scott Kalvert",
-    "actors": "Leonardo DiCaprio, Bruno Kirby, Lorraine Bracco, Ernie Hudson, Patrick McGaw",
-    "genre": "Drama, Crimen",
-    "rating": "7.4 / 10",
-    "telegramLink": "https://t.me/c/2474087426/8377",
-    "fileMessageId": "https://t.me/c/2474087426/8378",
-    "fileName": "diario-de-un-rebelde-1995.mp4",
-    "fileSize": "1,76 Gb"
-  },
-  {
     "id": 8374,
     "title": "JUANA DE ARCO (1999)",
     "year": "1999",
@@ -13424,20 +13494,6 @@
     "fileMessageId": "https://t.me/c/2474087426/8291",
     "fileName": "Ángeles y demonios.mp4",
     "fileSize": "2,76 Gb"
-  },
-  {
-    "id": 8287,
-    "title": "TROYA (2004)",
-    "year": "2004",
-    "duration": "163 min",
-    "director": "Wolfgang Petersen",
-    "actors": "Brad Pitt, Orlando Bloom, Eric Bana, Brian Cox, Sean Bean",
-    "genre": "Belica, Accion, Historia",
-    "rating": "7.2 / 10",
-    "telegramLink": "https://t.me/c/2474087426/8287",
-    "fileMessageId": "https://t.me/c/2474087426/8288",
-    "fileName": "Troya (2004).mp4",
-    "fileSize": "1,93 Gb"
   },
   {
     "id": 8284,
@@ -14698,20 +14754,6 @@
     "fileMessageId": "https://t.me/c/2474087426/8012",
     "fileName": "Godzilla Minus One.mp4",
     "fileSize": "2,26 Gb"
-  },
-  {
-    "id": 8008,
-    "title": "CLERKS (1994)",
-    "year": "1994",
-    "duration": "92 min",
-    "director": "Kevin Smith",
-    "actors": "Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer, Jason Mewes",
-    "genre": "Comedia",
-    "rating": "7.4 / 10",
-    "telegramLink": "https://t.me/c/2474087426/8008",
-    "fileMessageId": "https://t.me/c/2474087426/8009",
-    "fileName": "video_8009.mp4",
-    "fileSize": "1,07 Gb"
   },
   {
     "id": 8005,
@@ -27076,20 +27118,6 @@
     "fileSize": "3,79 Gb"
   },
   {
-    "id": 4825,
-    "title": "LAS VACACIONES EUROPEAS DE UNA CHIFLADA FAMILIA AMERICANA (1985)",
-    "year": "1985",
-    "duration": "95 min",
-    "director": "Amy Heckerling",
-    "actors": "Chevy Chase, Beverly D'Angelo, Dana Hill, Jason Lively, Victor Lanoux",
-    "genre": "Aventura, Comedia, Romance",
-    "rating": "6.2 / 10",
-    "telegramLink": "https://t.me/c/2474087426/4825",
-    "fileMessageId": "https://t.me/c/2474087426/4826",
-    "fileName": "Las_vacaciones_europeas_de_una_chiflada_familia_americana_1985.mp4",
-    "fileSize": "1,04 Gb"
-  },
-  {
     "id": 4822,
     "title": "LOCAS VACACIONES DE UNA FAMILIA AMERICANA (1983)",
     "year": "1983",
@@ -30574,20 +30602,6 @@
     "fileMessageId": "https://t.me/c/2474087426/3967",
     "fileName": "Morbius.2022.PLACEBO.FULL.1080P..mp4.mp4",
     "fileSize": "1,77 Gb"
-  },
-  {
-    "id": 3963,
-    "title": "EL ULTIMO DUELO (2021)",
-    "year": "2021",
-    "duration": "152 min",
-    "director": "Ridley Scott",
-    "actors": "Matt Damon, Adam Driver, Jodie Comer, Ben Affleck, Harriet Walter",
-    "genre": "Historia, Drama, Accion",
-    "rating": "7.4 / 10",
-    "telegramLink": "https://t.me/c/2474087426/3963",
-    "fileMessageId": "https://t.me/c/2474087426/3964",
-    "fileName": "video_3964.mp4",
-    "fileSize": "1,95 Gb"
   },
   {
     "id": 3954,
@@ -36484,20 +36498,6 @@
     "fileSize": "1,75 Gb"
   },
   {
-    "id": 2497,
-    "title": "ABIERTO HASTA EL AMANECER (1996)",
-    "year": "1996",
-    "duration": "110 min",
-    "director": "Robert Rodriguez",
-    "actors": "George Clooney, Quentin Tarantino, Harvey Keitel, Juliette Lewis, Ernest Liu",
-    "genre": "Terror, Accion, Suspense, Crimen",
-    "rating": "7.0 / 10",
-    "telegramLink": "https://t.me/c/2474087426/2497",
-    "fileMessageId": "https://t.me/c/2474087426/2498",
-    "fileName": "Abierto hasta el amanecer (1996).mp4",
-    "fileSize": "1,41 Gb"
-  },
-  {
     "id": 2482,
     "title": "TIBURON 4: LA VENGANZA (1987)",
     "year": "1987",
@@ -41914,20 +41914,6 @@
     "fileMessageId": "https://t.me/c/2474087426/1005",
     "fileName": "Sonido De Libertad @Todogram.mp4",
     "fileSize": "2,15 Gb"
-  },
-  {
-    "id": 1001,
-    "title": "UNCHARTED (2022)",
-    "year": "2022",
-    "duration": "Duración: 115 min",
-    "director": "Ruben Fleischer",
-    "actors": "Tom Holland, Mark Wahlberg, Sophia Ali, Tati Gabrielle, Antonio Banderas",
-    "genre": "Género: Accion, Aventura",
-    "rating": "Puntuación: 6.9 / 10",
-    "telegramLink": "https://t.me/c/2474087426/1001",
-    "fileMessageId": "https://t.me/c/2474087426/1002",
-    "fileName": "UNCHARTED.@CineNcasaa.mp4",
-    "fileSize": "1,48 Gb"
   },
   {
     "id": 989,
