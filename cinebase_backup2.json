@@ -638,5 +638,45 @@
     "plot": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
     "cover": "https://image.tmdb.org/t/p/w500/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
     "trailerKey": null
+  },
+  {
+    "id": 883,
+    "title": "Obsesión fatal",
+    "year": "2016",
+    "duration": "107 minutos",
+    "director": "Jon Cassar",
+    "actors": [
+      {
+        "name": "Morris Chestnut",
+        "photo": "https://image.tmdb.org/t/p/w185/lbWJ1mIgAamsREnbKLoj1GdH0sr.jpg"
+      },
+      {
+        "name": "Regina Hall",
+        "photo": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+      },
+      {
+        "name": "Jaz Sinclair",
+        "photo": "https://image.tmdb.org/t/p/w185/zR4d8spIkln8EddaK85VLRnU1YQ.jpg"
+      },
+      {
+        "name": "Romany Malco",
+        "photo": "https://image.tmdb.org/t/p/w185/q5f1rvnTGDnxsNCSSZoYXYDbu0I.jpg"
+      },
+      {
+        "name": "Michael Kenneth Williams",
+        "photo": "https://image.tmdb.org/t/p/w185/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+      }
+    ],
+    "genre": "Drama, Suspense",
+    "rating": "5.8",
+    "telegramLink": "https://t.me/c/2486339488/883",
+    "fileMessageId": "https://t.me/c/2486339488/884",
+    "fileName": "Obsesión Fatal@Todogram.mp4",
+    "fileSize": "1,90 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "John y Laura Taylor son una joven y exitosa pareja que buscan desesperadamente tener un hijo. Después de agotar todas las opciones finalmente encuentran a Anna, la mujer perfecta para ser su madre de alquiler. Pero a medida que el embarazo avanza, también lo hace su peligrosa y psicótica obsesión por el marido. Entonces John y Laura se ven metidos en el mortal juego de Anna y lucharán por recuperar el control de su futuro antes de que sea demasiado tarde.",
+    "cover": "https://image.tmdb.org/t/p/w500/4QqhN9jZkY33yMvknGI4YpM3TYv.jpg",
+    "trailerKey": null
   }
 ]
