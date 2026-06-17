@@ -72652,6 +72652,46 @@
     "trailerKey": null
   },
   {
+    "id": 6792,
+    "title": "Bullet Train",
+    "year": "2022",
+    "duration": "126 minutos",
+    "director": "David Leitch",
+    "actors": [
+      {
+        "name": "Brad Pitt",
+        "photo": "https://image.tmdb.org/t/p/w185/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg"
+      },
+      {
+        "name": "Joey King",
+        "photo": "https://image.tmdb.org/t/p/w185/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+      },
+      {
+        "name": "Aaron Taylor-Johnson",
+        "photo": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+      },
+      {
+        "name": "Brian Tyree Henry",
+        "photo": "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+      },
+      {
+        "name": "Andrew Koji",
+        "photo": "https://image.tmdb.org/t/p/w185/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg"
+      }
+    ],
+    "genre": "Acción, Comedia, Suspense",
+    "rating": "7.4",
+    "telegramLink": "https://t.me/c/2474087426/6792",
+    "fileMessageId": "https://t.me/c/2474087426/6793",
+    "fileName": "Bullet train @CineNcasa.mp4",
+    "fileSize": "1,99 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.",
+    "cover": "https://image.tmdb.org/t/p/w500/ybSIUt48PsM08F4UZwHdjL9ZVG2.jpg",
+    "trailerKey": "qHkZeaepqtU"
+  },
+  {
     "id": 6798,
     "title": "Los hermanos demolición",
     "year": "2026",
@@ -145079,46 +145119,6 @@
     "plot": "Horas depués de su calamitoso debut como diseñador industrial, Drew Baylor se entera de la repentina muerte de su padre y viaja a Elizabethtown, en Kentucky, para asistir al funeral. Durante el vuelo, conoce a Claire, una azafata que le ayudará a superar los momentos difíciles que le esperan y que le demostrará que las cosas más asombrosas suceden cuando uno menos lo espera.",
     "cover": "https://image.tmdb.org/t/p/w500/cTMYZV28aj6pYS6PPWAN8sgg3IA.jpg",
     "trailerKey": "yw9wv7YDd-4"
-  },
-  {
-    "id": 12819,
-    "title": "La desconocida",
-    "year": "2026",
-    "duration": "109 minutos",
-    "director": "Gabe Ibáñez",
-    "actors": [
-      {
-        "name": "Candela Peña",
-        "photo": "https://image.tmdb.org/t/p/w185/dEVevcKQrgTJ9IQ9i7GF0GiNg47.jpg"
-      },
-      {
-        "name": "Ana Rujas",
-        "photo": "https://image.tmdb.org/t/p/w185/fGqYh1AJDcqXe3EoRCoNS8RSfWW.jpg"
-      },
-      {
-        "name": "Pol López",
-        "photo": "https://image.tmdb.org/t/p/w185/368WhG9jONooXjBla3SznuTf76Z.jpg"
-      },
-      {
-        "name": "Manolo Solo",
-        "photo": "https://image.tmdb.org/t/p/w185/hp422wUkCWW2lsitzJrANv4N92u.jpg"
-      },
-      {
-        "name": "Kira Miró",
-        "photo": "https://image.tmdb.org/t/p/w185/5hMVeXmpcSKlmEfV1A4Ls44yXqo.jpg"
-      }
-    ],
-    "genre": "Suspense, Crimen",
-    "rating": "4.9",
-    "telegramLink": "https://t.me/c/2474087426/12819",
-    "fileMessageId": "https://t.me/c/2474087426/12820",
-    "fileName": "La desconocida.mp4",
-    "fileSize": "2,23 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Cuando la vida de una mujer amnésica vuelve a estar en peligro tras un intento de asesinato, dos investigadores de la ley se embarcan en una carrera a contrarreloj por descubrir la identidad de esta misteriosa mujer y los secretos ocultos en su memoria.",
-    "cover": "https://image.tmdb.org/t/p/w500/wrjKPBd4ieJMSxO7n5GothE9WAB.jpg",
-    "trailerKey": "3Mg9tnGi6ZQ"
   },
   {
     "id": 12822,
