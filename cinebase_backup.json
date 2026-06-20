@@ -138365,46 +138365,6 @@
     "trailerKey": null
   },
   {
-    "id": 12293,
-    "title": "Extraños en un tren",
-    "year": "1951",
-    "duration": "101 minutos",
-    "director": "Alfred Hitchcock",
-    "actors": [
-      {
-        "name": "Farley Granger",
-        "photo": "https://image.tmdb.org/t/p/w185/4Tqi22qSxBdeWGDAOVvfa8pDX8E.jpg"
-      },
-      {
-        "name": "Ruth Roman",
-        "photo": "https://image.tmdb.org/t/p/w185/ukEJhllnfHQQRyIELk2NHFS28rr.jpg"
-      },
-      {
-        "name": "Robert Walker",
-        "photo": "https://image.tmdb.org/t/p/w185/c4vtXpzvEXs7xzpiSTaBi0UIPIn.jpg"
-      },
-      {
-        "name": "Leo G. Carroll",
-        "photo": "https://image.tmdb.org/t/p/w185/56ND35pQZetw5xpagHDKFZjMeuE.jpg"
-      },
-      {
-        "name": "Patricia Hitchcock",
-        "photo": "https://image.tmdb.org/t/p/w185/bgMYy4SJLFcFex91an1D593pBY9.jpg"
-      }
-    ],
-    "genre": "Crimen, Suspense, Drama",
-    "rating": "7.7",
-    "telegramLink": "https://t.me/c/2474087426/12293",
-    "fileMessageId": "https://t.me/c/2474087426/12294",
-    "fileName": "Extraños En Un Tren (Alfred Hitchcock) 1951 Hdrip.mp4",
-    "fileSize": "1,60 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Inspirada en la novela homónima de Patricia Higsmith. Durante un viaje en tren, Guy, un joven campeón de tenis (Farley Granger), es abordado por Bruno (Walker), un joven que conoce su vida y milagros a través de la prensa y que, inesperadamente, le propone un doble asesinato, pero intercambiando las víctimas con el fin de garantizarse recíprocamente la impunidad. Así podrían resolver sus respectivos problemas: él suprimiría a la mujer de Guy (que no quiere concederle el divorcio) y, a cambio, Guy debería asesinar al padre de Bruno para que éste pudiera heredar una gran fortuna y vivir a su aire.",
-    "cover": "https://image.tmdb.org/t/p/w500/4o0mXvFkVBr7lzH5sOsHGKmsNI5.jpg",
-    "trailerKey": null
-  },
-  {
     "id": 12296,
     "title": "Con la muerte en los talones",
     "year": "1959",
