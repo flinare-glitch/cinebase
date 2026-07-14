@@ -30828,46 +30828,6 @@
     "trailerKey": null
   },
   {
-    "id": 2791,
-    "title": "La novia cadáver",
-    "year": "2005",
-    "duration": "77 minutos",
-    "director": "Mike Johnson",
-    "actors": [
-      {
-        "name": "Johnny Depp",
-        "photo": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
-      },
-      {
-        "name": "Helena Bonham Carter",
-        "photo": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
-      },
-      {
-        "name": "Emily Watson",
-        "photo": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
-      },
-      {
-        "name": "Tracey Ullman",
-        "photo": "https://image.tmdb.org/t/p/w185/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
-      },
-      {
-        "name": "Paul Whitehouse",
-        "photo": "https://image.tmdb.org/t/p/w185/4aacb6fRghFwrT636cYmAYqQ35o.jpg"
-      }
-    ],
-    "plot": "Ambientada en un pueblecito europeo en el siglo XIX, esta película de animación fotograma a fotograma cuenta la historia de Victor, un joven que es llevado de repente al infierno, donde se casa con una misteriosa Novia Cadáver, mientras que su verdadera novia, Victoria espera en el mundo de los vivos. A pesar de que la tierra de los muertos resulta ser más colorista que su estricta educación victoriana, Victor aprende que no hay nada en este mundo, ni en el siguiente, que pueda separarle de su único y verdadero amor.",
-    "cover": "https://image.tmdb.org/t/p/w500/3ALM0VeZjGUryAqWo6pqohzbLDh.jpg",
-    "telegramLink": "https://t.me/c/2474087426/2791",
-    "rating": "7.6",
-    "genre": "Romance, Fantasía, Animación",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "fileSize": "1,64 Gb",
-    "fileMessageId": "https://t.me/c/2474087426/2792",
-    "fileName": "la-novia-cadáver-2005-castellano.mp4",
-    "trailerKey": "6wcj_aJ15gI"
-  },
-  {
     "id": 2794,
     "title": "Íntimo y personal",
     "year": "1996",
@@ -38142,86 +38102,6 @@
     "fileMessageId": "https://t.me/c/2474087426/3496",
     "fileName": "1999-goya-en-burdeos.mp4",
     "trailerKey": null
-  },
-  {
-    "id": 3501,
-    "title": "Niños grandes",
-    "year": "2010",
-    "duration": "102 minutos",
-    "director": "Dennis Dugan",
-    "actors": [
-      {
-        "name": "Adam Sandler",
-        "photo": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
-      },
-      {
-        "name": "Kevin James",
-        "photo": "https://image.tmdb.org/t/p/w185/3WPW5duZyQcjveefxwLULgIyhM0.jpg"
-      },
-      {
-        "name": "Chris Rock",
-        "photo": "https://image.tmdb.org/t/p/w185/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
-      },
-      {
-        "name": "David Spade",
-        "photo": "https://image.tmdb.org/t/p/w185/vKU8JKKjluUrEIGHTvitdZBtZBc.jpg"
-      },
-      {
-        "name": "Rob Schneider",
-        "photo": "https://image.tmdb.org/t/p/w185/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
-      }
-    ],
-    "plot": "Después de muchos años, su antiguo entrenador de basquet muere y cincos amigos deciden pasar un fin de semanas -ahora con sus respectivas familias- en la casa donde celebraron, antaño, el campeonato.",
-    "cover": "https://image.tmdb.org/t/p/w500/r1mDA1SLjw2yiYhhLiAjrd2Pt1l.jpg",
-    "telegramLink": "https://t.me/c/2474087426/3501",
-    "rating": "6.4",
-    "genre": "Comedia",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "fileSize": "1,72 Gb",
-    "fileMessageId": "https://t.me/c/2474087426/3502",
-    "fileName": "video_3502.mp4",
-    "trailerKey": "fhOA5vsop4M"
-  },
-  {
-    "id": 3504,
-    "title": "Niños grandes 2",
-    "year": "2013",
-    "duration": "100 minutos",
-    "director": "Dennis Dugan",
-    "actors": [
-      {
-        "name": "Adam Sandler",
-        "photo": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
-      },
-      {
-        "name": "Kevin James",
-        "photo": "https://image.tmdb.org/t/p/w185/3WPW5duZyQcjveefxwLULgIyhM0.jpg"
-      },
-      {
-        "name": "Chris Rock",
-        "photo": "https://image.tmdb.org/t/p/w185/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
-      },
-      {
-        "name": "David Spade",
-        "photo": "https://image.tmdb.org/t/p/w185/vKU8JKKjluUrEIGHTvitdZBtZBc.jpg"
-      },
-      {
-        "name": "Salma Hayek Pinault",
-        "photo": "https://image.tmdb.org/t/p/w185/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
-      }
-    ],
-    "plot": "Lenny se ha trasladado con su familia a la pequeña ciudad donde tanto él como sus amigos se criaron. En esta ocasión, los adultos serán quienes reciban toda una lección de sus propios hijos.",
-    "cover": "https://image.tmdb.org/t/p/w500/6TRhV0E6wDQjMEtvYru0Kel6juW.jpg",
-    "telegramLink": "https://t.me/c/2474087426/3504",
-    "rating": "6.1",
-    "genre": "Comedia",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "fileSize": "1,71 Gb",
-    "fileMessageId": "https://t.me/c/2474087426/3505",
-    "fileName": "video_3505.mp4",
-    "trailerKey": "0c_zXgsy3QQ"
   },
   {
     "id": 3510,
@@ -49536,46 +49416,6 @@
     "trailerKey": null
   },
   {
-    "id": 4638,
-    "title": "Kids",
-    "year": "1995",
-    "duration": "95 minutos",
-    "director": "Larry Clark",
-    "actors": [
-      {
-        "name": "Leo Fitzpatrick",
-        "photo": "https://image.tmdb.org/t/p/w185/iZG9G5DstChbwlL9mAQ727heZX.jpg"
-      },
-      {
-        "name": "Justin Pierce",
-        "photo": "https://image.tmdb.org/t/p/w185/tBOf7ySDq5ETGxLcsXfoYM853Gg.jpg"
-      },
-      {
-        "name": "Chloë Sevigny",
-        "photo": "https://image.tmdb.org/t/p/w185/eM7KGAMCmZCzYDFV8gaSfknN675.jpg"
-      },
-      {
-        "name": "Rosario Dawson",
-        "photo": "https://image.tmdb.org/t/p/w185/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
-      },
-      {
-        "name": "Yakira Peguero",
-        "photo": "https://image.tmdb.org/t/p/w185/mgixR0C4ZOdrlFRY68H3iesqVkW.jpg"
-      }
-    ],
-    "plot": "Se centra en la historia de Telly, un joven de 17 años quien suele acostarse con sus amigas vírgenes y sin protección. Casper, el mejor amigo de Telly, es el joven que representa el mayor índice de perdición en las drogas, son una pareja ideal para mostrar la realidad social de Estados Unidos en los años 90. La trama principal se da cuando Jennie, amiga de Telly, descubre que es portadora del virus del sida, y que fue Telly quien le ha transmitido dicha enfermedad, ya que es el único con quien mantuvo relaciones sexuales.",
-    "cover": "https://image.tmdb.org/t/p/w500/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
-    "telegramLink": "https://t.me/c/2474087426/4638",
-    "rating": "6.9",
-    "genre": "Drama, Crimen",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "fileSize": "1,71 Gb",
-    "fileMessageId": "https://t.me/c/2474087426/4639",
-    "fileName": "Kids.mp4",
-    "trailerKey": null
-  },
-  {
     "id": 4641,
     "title": "El instante más oscuro",
     "year": "2017",
@@ -50216,46 +50056,6 @@
     "trailerKey": null
   },
   {
-    "id": 4692,
-    "title": "Le seguían llamando Trinidad",
-    "year": "1971",
-    "duration": "127 minutos",
-    "director": "Enzo Barboni",
-    "actors": [
-      {
-        "name": "Terence Hill",
-        "photo": "https://image.tmdb.org/t/p/w185/vBkWDZh93QRUvg3oh5d96QQZWLn.jpg"
-      },
-      {
-        "name": "Bud Spencer",
-        "photo": "https://image.tmdb.org/t/p/w185/cVbBoKxRDFOdDKwdpRmxVazDWlE.jpg"
-      },
-      {
-        "name": "Yanti Somer",
-        "photo": "https://image.tmdb.org/t/p/w185/usBfySwCQyeRcl2DFPCHPoJaR1G.jpg"
-      },
-      {
-        "name": "Enzo Tarascio",
-        "photo": "https://image.tmdb.org/t/p/w185/wt9GXAuLvy1bDWDLQI3Pb5OGH4.jpg"
-      },
-      {
-        "name": "Harry Carey, Jr.",
-        "photo": "https://image.tmdb.org/t/p/w185/7O61xbnqAMDOKVCh9ZH8deW6M30.jpg"
-      }
-    ],
-    "plot": "A Trinidad y a su hermano \"el niño\" no les sale nada bien hasta el punto de que, cuando van a atracar una diligencia, nadie lleva dinero. El azar hace que se encuentren en su camino a una chica, que les conduce a un pueblo donde todos se creen que son \"rangers\". Allí viven numerosas aventuras, hasta que la situación se complica porque llegan los verdaderos \"rangers\".",
-    "cover": "https://image.tmdb.org/t/p/w500/twdVgMxBJjRj0EIzxRgiuE77YGr.jpg",
-    "telegramLink": "https://t.me/c/2474087426/4692",
-    "rating": "7.4",
-    "genre": "Comedia, Western",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "fileSize": "1,65 Gb",
-    "fileMessageId": "https://t.me/c/2474087426/4693",
-    "fileName": "Le seguian llamando trinidad (1971).mp4",
-    "trailerKey": null
-  },
-  {
     "id": 4695,
     "title": "Tú perdonas... yo no",
     "year": "1967",
@@ -50534,46 +50334,6 @@
     "fileMessageId": "https://t.me/c/2474087426/4714",
     "fileName": "Ocho apellidos Catalanes (2015) 1080p By Coriolix360.mp4",
     "trailerKey": "ebyALRLNdpA"
-  },
-  {
-    "id": 4716,
-    "title": "Ocho apellidos marroquís",
-    "year": "2023",
-    "duration": "97 minutos",
-    "director": "Álvaro Fernández Armero",
-    "actors": [
-      {
-        "name": "Julián López",
-        "photo": "https://image.tmdb.org/t/p/w185/aHbhMMVOvrPaN7ssIMezf2qVgHw.jpg"
-      },
-      {
-        "name": "Michelle Jenner",
-        "photo": "https://image.tmdb.org/t/p/w185/2F6P2UcKQvnadk2ML8xBymbrlws.jpg"
-      },
-      {
-        "name": "Elena Irureta",
-        "photo": "https://image.tmdb.org/t/p/w185/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
-      },
-      {
-        "name": "María Ramos Mouhoub",
-        "photo": "https://image.tmdb.org/t/p/w185/yj0bhlfTuks4TUTv5IRrH3dC2vD.jpg"
-      },
-      {
-        "name": "Hamza Zaidi",
-        "photo": "https://image.tmdb.org/t/p/w185/3a7dXAZL856eYu62eX4Dy7PdX9T.jpg"
-      }
-    ],
-    "plot": "La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. En su testamento, pide a su mujer que recupere el Sardinete, el primer pesquero de su flota, con el que inició sus negocios y que está criando herrumbre en un puerto marroquí. A Begoña, la hija del empresario, ir a por esa “vieja lata de sardinas” le parecen delirios de un viejo chocheando. Así que Carmen, decidida a rescatar el barco, encuentra un aliado inesperado en Guillermo, el ex de Begoña, quien confía en que un viaje romántico al sur reavive la llama del amor. Sin saber cómo van a traerse la embarcación, ponen todos rumbo a Marruecos y allí descubren que en su universo nunca nada había estado en su sitio. Y es que don José María, el patriarca, guardaba un secreto: una hija llamada Hamida.",
-    "cover": "https://image.tmdb.org/t/p/w500/g5nUFZUekNT6Wo2ZiSQmnM6yWMy.jpg",
-    "telegramLink": "https://t.me/c/2474087426/4716",
-    "rating": "5.9",
-    "genre": "Comedia, Familia",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "fileSize": "1,64 Gb",
-    "fileMessageId": "https://t.me/c/2474087426/4717",
-    "fileName": "Ocho_apellidos_marroquis_WEB_1080p_AC3_640k_S_C_Es_2023.mp4",
-    "trailerKey": "5FLMMzpmunI"
   },
   {
     "id": 4719,
@@ -106684,46 +106444,6 @@
     "trailerKey": "CAHnATci56k"
   },
   {
-    "id": 10006,
-    "title": "La avispa",
-    "year": "2024",
-    "duration": "96 minutos",
-    "director": "Guillem Morales",
-    "actors": [
-      {
-        "name": "Naomie Harris",
-        "photo": "https://image.tmdb.org/t/p/w185/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
-      },
-      {
-        "name": "Natalie Dormer",
-        "photo": "https://image.tmdb.org/t/p/w185/3OlkHjDKDj9NKkFWXfLk7gcb2C.jpg"
-      },
-      {
-        "name": "Dominic Allburn",
-        "photo": "https://image.tmdb.org/t/p/w185/fZ2qT4I5fw1FEDLf4LtEDNaXCBH.jpg"
-      },
-      {
-        "name": "Leah Mondesir-Simmonds",
-        "photo": null
-      },
-      {
-        "name": "Olivia Juno Cleverley",
-        "photo": null
-      }
-    ],
-    "plot": "Heather se encuentra con Carla, con quien no ha hablado en años, y le presenta una propuesta muy inesperada que podría cambiar la vida de ambas para siempre.",
-    "cover": "https://image.tmdb.org/t/p/w500/cIP56aG86UFfNol6v9b87zsh6FX.jpg",
-    "telegramLink": "https://t.me/c/2474087426/10006",
-    "rating": "6.2",
-    "genre": "Suspense, Drama",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "fileSize": "1,64 Gb",
-    "fileMessageId": "https://t.me/c/2474087426/10007",
-    "fileName": "The Wasp (2024).mp4",
-    "trailerKey": null
-  },
-  {
     "id": 10009,
     "title": "The Damned United",
     "year": "2009",
@@ -139047,46 +138767,6 @@
     "trailerKey": null
   },
   {
-    "id": 12666,
-    "title": "American Playboy",
-    "year": "2009",
-    "duration": "87 minutos",
-    "director": "David Mackenzie",
-    "actors": [
-      {
-        "name": "Ashton Kutcher",
-        "photo": "https://image.tmdb.org/t/p/w185/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
-      },
-      {
-        "name": "Anne Heche",
-        "photo": "https://image.tmdb.org/t/p/w185/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
-      },
-      {
-        "name": "Margarita Levieva",
-        "photo": "https://image.tmdb.org/t/p/w185/7rSf7C5oKuvjgEBfe2GVv064Le.jpg"
-      },
-      {
-        "name": "Sebastian Stan",
-        "photo": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg"
-      },
-      {
-        "name": "Ashley Johnson",
-        "photo": "https://image.tmdb.org/t/p/w185/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
-      }
-    ],
-    "genre": "Comedia, Romance",
-    "rating": "5.6",
-    "telegramLink": "https://t.me/c/2474087426/12666",
-    "fileMessageId": "https://t.me/c/2474087426/12667",
-    "fileName": "American Playboy (Spread) (2009).mp4",
-    "fileSize": "1,91 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Nikki (Ashton Kutcher) es un joven mujeriego que se ha labrado una vida de lujo haciendo uso de su atractivo sexual. Comparte sus secretos con nosotros mientras acude a fiestas y se acuesta con multitud de mujeres, a la vez que se da la gran vida en una casa de Hollywood Hills, propiedad de una abogada de mediana edad, Samantha (Anne Heche). Todo le marcha bien hasta que conoce a una preciosa camarera llamada Heather (Margarita Levieva), que, en principio, parece inmune a sus encantos.",
-    "cover": "https://image.tmdb.org/t/p/w500/ydMXZ40xKZoSfMo9ATEuvZDgS2H.jpg",
-    "trailerKey": null
-  },
-  {
     "id": 12669,
     "title": "La fuerza de la naturaleza",
     "year": "2020",
@@ -162521,5 +162201,1005 @@
     "plot": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
     "cover": "https://image.tmdb.org/t/p/w500/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
     "trailerKey": "oZlnTUemKPU"
+  },
+  {
+    "id": 14461,
+    "title": "Horizonte Final",
+    "year": "1997",
+    "duration": "96 minutos",
+    "director": "Paul W. S. Anderson",
+    "actors": [
+      {
+        "name": "Laurence Fishburne",
+        "photo": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+      },
+      {
+        "name": "Sam Neill",
+        "photo": "https://image.tmdb.org/t/p/w185/bNZ03phkLewj8eUR6mGbKZ7jtmv.jpg"
+      },
+      {
+        "name": "Kathleen Quinlan",
+        "photo": "https://image.tmdb.org/t/p/w185/w93KLi08Mi7IQCojz7D49g9WccE.jpg"
+      },
+      {
+        "name": "Joely Richardson",
+        "photo": "https://image.tmdb.org/t/p/w185/6OWUwieNiWcZNnu4h6gd8vyhxBV.jpg"
+      },
+      {
+        "name": "Richard T. Jones",
+        "photo": "https://image.tmdb.org/t/p/w185/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+      }
+    ],
+    "genre": "Terror, Ciencia ficción, Misterio",
+    "rating": "6.6",
+    "telegramLink": "https://t.me/c/2474087426/14461",
+    "fileMessageId": "https://t.me/c/2474087426/14462",
+    "fileName": "horizonte.final.1997.1080p.x264.ac3.mp4",
+    "fileSize": "3,61 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "En el año 2047 una nave de rescate, la \"Lewis & Clark\", es enviada a investigar la misteriosa reaparición en la órbita de Neptuno de una nave experimental, la \"Horizonte Final\", desaparecida años antes junto a toda su tripulación. En el año 2040 la nave \"Horizonte Final\" fue lanzada al espacio para investigar los confines del universo, pero desapareció sin dejar rastro. Sucesos extraños comienzan a ocurrir a bordo mientras la misión de rescate intenta averiguar cuál ha sido el destino de los desaparecidos...",
+    "cover": "https://image.tmdb.org/t/p/w500/p0TgEBfbOgWP6xZgSt2T7Ee78vx.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14464,
+    "title": "Desconexión",
+    "year": "2013",
+    "duration": "115 minutos",
+    "director": "Henry Alex Rubin",
+    "actors": [
+      {
+        "name": "Jason Bateman",
+        "photo": "https://image.tmdb.org/t/p/w185/wS22fofYtUf4aGXACFwhkTjUk6a.jpg"
+      },
+      {
+        "name": "Hope Davis",
+        "photo": "https://image.tmdb.org/t/p/w185/dJb76YQDFmfJ6ptlvBvx0ZBP44C.jpg"
+      },
+      {
+        "name": "Frank Grillo",
+        "photo": "https://image.tmdb.org/t/p/w185/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+      },
+      {
+        "name": "Michael Nyqvist",
+        "photo": "https://image.tmdb.org/t/p/w185/d9nGt8MloJwosRbGp10gaeHExcZ.jpg"
+      },
+      {
+        "name": "Paula Patton",
+        "photo": "https://image.tmdb.org/t/p/w185/afEkMmwkHkmBsOHeor2vZKWzeGf.jpg"
+      }
+    ],
+    "genre": "Drama, Suspense",
+    "rating": "7.1",
+    "telegramLink": "https://t.me/c/2474087426/14464",
+    "fileMessageId": "https://t.me/c/2474087426/14465",
+    "fileName": "Desconexión (2012)[by Erpiyo].mkv",
+    "fileSize": "2,16 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un abogado muy trabajador, unido a su teléfono móvil, no encuentra tiempo para comunicarse con su familia. Una pareja se ve arrastrada a una situación peligrosa cuando sus secretos quedan al descubierto en la red. Un ex policía viudo lucha por sacar adelante a su irreflexivo hijo, que acosa por internet a un compañero de clase. Un ambicioso periodista cree haber encontrado el reportaje de su vida sobre una adolescente que actúa en una página solo para adultos. Son desconocidos, vecinos y compañeros, y sus historias se cruzan en este thriller fascinante sobre gente corriente que lucha por formar parte del mundo interconectado de hoy.",
+    "cover": "https://image.tmdb.org/t/p/w500/cjd3Ra99p4GTJYwb1Bx2uag3yOn.jpg",
+    "trailerKey": "EhhvZqQQlfI"
+  },
+  {
+    "id": 14467,
+    "title": "La sombra del reino",
+    "year": "2007",
+    "duration": "110 minutos",
+    "director": "Peter Berg",
+    "actors": [
+      {
+        "name": "Jamie Foxx",
+        "photo": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+      },
+      {
+        "name": "Jennifer Garner",
+        "photo": "https://image.tmdb.org/t/p/w185/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg"
+      },
+      {
+        "name": "Chris Cooper",
+        "photo": "https://image.tmdb.org/t/p/w185/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+      },
+      {
+        "name": "Jason Bateman",
+        "photo": "https://image.tmdb.org/t/p/w185/wS22fofYtUf4aGXACFwhkTjUk6a.jpg"
+      },
+      {
+        "name": "Ali Suliman",
+        "photo": "https://image.tmdb.org/t/p/w185/fG9V68oshqkuDSSRkLZdCci6z1Q.jpg"
+      }
+    ],
+    "genre": "Suspense, Acción, Drama",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/14467",
+    "fileMessageId": "https://t.me/c/2474087426/14468",
+    "fileName": "La_Sombra_del_Reino_2007_Spanish_English_Subs_HD_720p_x264_AC3_by.mkv",
+    "fileSize": "2,15 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un equipo de agentes del gobierno de EE. UU. son enviados a investigar el bombardeo de una instalación estadounidense en Oriente Medio.",
+    "cover": "https://image.tmdb.org/t/p/w500/w42mUL2qAuTj3OxTemK96EUxyzJ.jpg",
+    "trailerKey": "DqpT9erQ3Js"
+  },
+  {
+    "id": 14470,
+    "title": "Y entonces llegó ella",
+    "year": "2004",
+    "duration": "90 minutos",
+    "director": "John Hamburg",
+    "actors": [
+      {
+        "name": "Ben Stiller",
+        "photo": "https://image.tmdb.org/t/p/w185/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+      },
+      {
+        "name": "Jennifer Aniston",
+        "photo": "https://image.tmdb.org/t/p/w185/qPXG41rYdUGldZhMhuZFvmpZKRp.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "photo": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Debra Messing",
+        "photo": "https://image.tmdb.org/t/p/w185/7YmWcP0VmO1AIoviqXoREMbjQ2V.jpg"
+      },
+      {
+        "name": "Alec Baldwin",
+        "photo": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+      }
+    ],
+    "genre": "Comedia, Romance",
+    "rating": "6.0",
+    "telegramLink": "https://t.me/c/2474087426/14470",
+    "fileMessageId": "https://t.me/c/2474087426/14471",
+    "fileName": "Y entonces llegó ella (2004).mp4",
+    "fileSize": "2,25 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Reuben Feffer le tiene aversión al riesgo, pero su ordenada y planificada vida se complica cuando, durante su luna de miel, su mujer se interesa por un musculoso instructor cubano de submarinismo. Al mismo tiempo, entra en escena Polly, una amiga suya de la infancia, que lo introduce en los deportes de riesgo, la comida picante y el baile de la salsa. En definitiva, le enseña a vivir despreocupadamente y a disfrutar de cada momento.",
+    "cover": "https://image.tmdb.org/t/p/w500/9udqefooMB21cMAJ66hnX74DiQw.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14473,
+    "title": "Duplicity",
+    "year": "2009",
+    "duration": "125 minutos",
+    "director": "Tony Gilroy",
+    "actors": [
+      {
+        "name": "Julia Roberts",
+        "photo": "https://image.tmdb.org/t/p/w185/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+      },
+      {
+        "name": "Clive Owen",
+        "photo": "https://image.tmdb.org/t/p/w185/xlWpuLgwxMnZEVgV9OID1TkUNtP.jpg"
+      },
+      {
+        "name": "Tom Wilkinson",
+        "photo": "https://image.tmdb.org/t/p/w185/7zCJloDFWaZ0fXglkvXOczlMXrc.jpg"
+      },
+      {
+        "name": "Paul Giamatti",
+        "photo": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+      },
+      {
+        "name": "Tom McCarthy",
+        "photo": "https://image.tmdb.org/t/p/w185/cEA6cxG3AiH0hUzFH9mUQQVy20O.jpg"
+      }
+    ],
+    "genre": "Romance, Comedia, Crimen",
+    "rating": "5.9",
+    "telegramLink": "https://t.me/c/2474087426/14473",
+    "fileMessageId": "https://t.me/c/2474087426/14474",
+    "fileName": "Duplicity (2009).mp4",
+    "fileSize": "3,63 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Claire Stenwick, exagente de la CIA, y Ray Koval, exagente del MI6, han abandonado el mundo del espionaje para dedicarse a un negocio más lucrativo que los convierte en enemigos: su misión consiste en encontrar la fórmula de un producto que hará ganar una auténtica fortuna a la empresa que la consiga. Sus jefes son el titán de la industria Howard Tully y el desaprensivo consejero delegado Dick Garsik. A pesar de que las tácticas de Claire y Ray son cada vez más sucias, surge entre ellos una creciente atracción.",
+    "cover": "https://image.tmdb.org/t/p/w500/woKT6jMgddsL5UxztmXmCBBRsHB.jpg",
+    "trailerKey": "y4qNHjEZjY0"
+  },
+  {
+    "id": 14476,
+    "title": "Agosto",
+    "year": "2013",
+    "duration": "121 minutos",
+    "director": "John Wells",
+    "actors": [
+      {
+        "name": "Meryl Streep",
+        "photo": "https://image.tmdb.org/t/p/w185/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+      },
+      {
+        "name": "Julia Roberts",
+        "photo": "https://image.tmdb.org/t/p/w185/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+      },
+      {
+        "name": "Julianne Nicholson",
+        "photo": "https://image.tmdb.org/t/p/w185/AqlEWaBfrqwb6St5qrL1yJ9d6VS.jpg"
+      },
+      {
+        "name": "Juliette Lewis",
+        "photo": "https://image.tmdb.org/t/p/w185/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+      },
+      {
+        "name": "Ewan McGregor",
+        "photo": "https://image.tmdb.org/t/p/w185/tw6lVBh0DvAUkCd1jsU98yD1usk.jpg"
+      }
+    ],
+    "genre": "Comedia, Drama",
+    "rating": "6.9",
+    "telegramLink": "https://t.me/c/2474087426/14476",
+    "fileMessageId": "https://t.me/c/2474087426/14477",
+    "fileName": "Agosto.@MasQueCine.mkv",
+    "fileSize": "2,56 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Los Weston viven en una gran mansión en las afueras de Pawhuska, en Oklahoma. La desaparición del padre en extrañas circunstancias hace que la familia se reúna y que todas sus miserias salgan a la luz. Adaptación al cine de la obra de teatro del mismo título, ganadora del Premio Pulitzer en 2008.",
+    "cover": "https://image.tmdb.org/t/p/w500/a1C78uxNBlD8ytMDMeZI2zPe6tR.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14479,
+    "title": "El quinto poder",
+    "year": "2013",
+    "duration": "128 minutos",
+    "director": "Bill Condon",
+    "actors": [
+      {
+        "name": "Benedict Cumberbatch",
+        "photo": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+      },
+      {
+        "name": "Daniel Brühl",
+        "photo": "https://image.tmdb.org/t/p/w185/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+      },
+      {
+        "name": "Anthony Mackie",
+        "photo": "https://image.tmdb.org/t/p/w185/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+      },
+      {
+        "name": "David Thewlis",
+        "photo": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+      },
+      {
+        "name": "Alicia Vikander",
+        "photo": "https://image.tmdb.org/t/p/w185/9pmHTbXeRxUF51jJKthmHI49u9z.jpg"
+      }
+    ],
+    "genre": "Drama, Suspense",
+    "rating": "6.0",
+    "telegramLink": "https://t.me/c/2474087426/14479",
+    "fileMessageId": "https://t.me/c/2474087426/14480",
+    "fileName": "El Quinto Poder.@MasQueCine.mkv",
+    "fileSize": "3,05 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Julian Assange y Daniel Domscheit-Berg crean WikiLeaks, una plataforma que permite denunciar de forma anónima y filtrar información secreta, iluminando los oscuros recovecos de los secretos gubernamentales y crímenes corporativos. No tardan en revelar más noticias que todas las organizaciones de comunicación más prestigiosas del mundo juntas. Pero cuando Assange y Berg obtienen acceso a la mayor cantidad de documentos confidenciales de la historia de los servicios de inteligencia de los Estados Unidos, se enfrentan a una de las cuestiones claves de nuestro tiempo: ¿cuál es el coste de guardar secretos en una sociedad libre y cuál es el coste de exponerlos?",
+    "cover": "https://image.tmdb.org/t/p/w500/ad0LepR9GSpkzIF75rzTEc8ehV3.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14482,
+    "title": "De boda en boda",
+    "year": "2005",
+    "duration": "119 minutos",
+    "director": "David Dobkin",
+    "actors": [
+      {
+        "name": "Owen Wilson",
+        "photo": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+      },
+      {
+        "name": "Vince Vaughn",
+        "photo": "https://image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+      },
+      {
+        "name": "Christopher Walken",
+        "photo": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+      },
+      {
+        "name": "Rachel McAdams",
+        "photo": "https://image.tmdb.org/t/p/w185/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
+      },
+      {
+        "name": "Isla Fisher",
+        "photo": "https://image.tmdb.org/t/p/w185/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+      }
+    ],
+    "genre": "Comedia, Romance",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/14482",
+    "fileMessageId": "https://t.me/c/2474087426/14483",
+    "fileName": "De boda en boda (2005).mp4",
+    "fileSize": "1,98 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "John y Jeremy son dos solteros que comparten una afición: colarse en las bodas de desconocidos para degustar el menú y seducir a las invitadas que sueñan con encontrar marido.",
+    "cover": "https://image.tmdb.org/t/p/w500/yKb2gT1Wl6e8Bum93e0F1IefUqY.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14485,
+    "title": "Intruso",
+    "year": "2023",
+    "duration": "111 minutos",
+    "director": "Garth Davis",
+    "actors": [
+      {
+        "name": "Paul Mescal",
+        "photo": "https://image.tmdb.org/t/p/w185/hPcyXGZ0qNL9Sm2LKlDzO54Pa8g.jpg"
+      },
+      {
+        "name": "Saoirse Ronan",
+        "photo": "https://image.tmdb.org/t/p/w185/w88uhQ5f8CXw9pQx5HtDrDpzQ4x.jpg"
+      },
+      {
+        "name": "Aaron Pierre",
+        "photo": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+      },
+      {
+        "name": "Jordan Chodziesner",
+        "photo": null
+      },
+      {
+        "name": "William Freeman",
+        "photo": "https://image.tmdb.org/t/p/w185/yaMWDfFWs8m7ZIOaPf9IHPPosBp.jpg"
+      }
+    ],
+    "genre": "Ciencia ficción, Drama",
+    "rating": "5.8",
+    "telegramLink": "https://t.me/c/2474087426/14485",
+    "fileMessageId": "https://t.me/c/2474087426/14486",
+    "fileName": "Intruso @Todogram.mkv",
+    "fileSize": "2,31 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Hen y Junior cultivan un trozo recóndito de tierra que ha sido propiedad de la familia de Junior durante generaciones, pero su tranquila vida sufre un vuelco cuando un extraño aparece en su puerta inesperadamente con una inquietante proposición.",
+    "cover": "https://image.tmdb.org/t/p/w500/52jqJ8JnBIkTchvg6Ho0qRQX9b8.jpg",
+    "trailerKey": "wBkNO0r2wo0"
+  },
+  {
+    "id": 14488,
+    "title": "De padres a hijas",
+    "year": "2015",
+    "duration": "116 minutos",
+    "director": "Gabriele Muccino",
+    "actors": [
+      {
+        "name": "Amanda Seyfried",
+        "photo": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+      },
+      {
+        "name": "Russell Crowe",
+        "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+      },
+      {
+        "name": "Aaron Paul",
+        "photo": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+      },
+      {
+        "name": "Diane Kruger",
+        "photo": "https://image.tmdb.org/t/p/w185/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+      },
+      {
+        "name": "Jane Fonda",
+        "photo": "https://image.tmdb.org/t/p/w185/5Yb3nmRWXXZAxNhfhEuOMdfyVNN.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "7.1",
+    "telegramLink": "https://t.me/c/2474087426/14488",
+    "fileMessageId": "https://t.me/c/2474087426/14489",
+    "fileName": "De padres a hijas (2015).mkv",
+    "fileSize": "2,89 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Historia de la relación entre un padre y su hija a lo largo de 25 años. Todo comienza en Nueva York en la década de los 80, donde Jake Davis, novelista ganador del Pulitzer y viudo reciente tras la muerte de su esposa, lucha contra una enfermedad mental al tiempo que intenta criar a su hija de cinco años.",
+    "cover": "https://image.tmdb.org/t/p/w500/bNjDFqcYrHw9peES4cxJXh0Q0s3.jpg",
+    "trailerKey": "ulbPOVuM6F8"
+  },
+  {
+    "id": 14491,
+    "title": "Causeway",
+    "year": "2022",
+    "duration": "92 minutos",
+    "director": "Lila Neugebauer",
+    "actors": [
+      {
+        "name": "Jennifer Lawrence",
+        "photo": "https://image.tmdb.org/t/p/w185/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+      },
+      {
+        "name": "Brian Tyree Henry",
+        "photo": "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+      },
+      {
+        "name": "Linda Emond",
+        "photo": "https://image.tmdb.org/t/p/w185/PjDT3zk5xAIFiJ1MaEJLtjdq5s.jpg"
+      },
+      {
+        "name": "Jayne Houdyshell",
+        "photo": "https://image.tmdb.org/t/p/w185/AlYIzwmfxuZ0yvU4L9F9h0tJGmZ.jpg"
+      },
+      {
+        "name": "Stephen McKinley Henderson",
+        "photo": "https://image.tmdb.org/t/p/w185/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/14491",
+    "fileMessageId": "https://t.me/c/2474087426/14492",
+    "fileName": "Causeway.mp4",
+    "fileSize": "2,30 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.",
+    "cover": "https://image.tmdb.org/t/p/w500/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14494,
+    "title": "Una mujer peligrosa",
+    "year": "1993",
+    "duration": "99 minutos",
+    "director": "Stephen Gyllenhaal",
+    "actors": [
+      {
+        "name": "Debra Winger",
+        "photo": "https://image.tmdb.org/t/p/w185/iHZ2mZHEaNYFhEpnSguk043SKVE.jpg"
+      },
+      {
+        "name": "Barbara Hershey",
+        "photo": "https://image.tmdb.org/t/p/w185/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+      },
+      {
+        "name": "Gabriel Byrne",
+        "photo": "https://image.tmdb.org/t/p/w185/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+      },
+      {
+        "name": "David Strathairn",
+        "photo": "https://image.tmdb.org/t/p/w185/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
+      },
+      {
+        "name": "Chloe Webb",
+        "photo": "https://image.tmdb.org/t/p/w185/7ylnbM8jTG0WQ3oFFaG0VuEJxnb.jpg"
+      }
+    ],
+    "genre": "Drama, Romance",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/14494",
+    "fileMessageId": "https://t.me/c/2474087426/14495",
+    "fileName": "Una Mujer Peligrosa.@MasQueCine.mkv",
+    "fileSize": "2,45 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Desde niña, Martha Horgan ha sido diferente a los demás. Sincera y siempre en busca de afecto, sólo puede contar con el aprecio de su tía Frances, quien ha cuidado de ella durante años.",
+    "cover": "https://image.tmdb.org/t/p/w500/wsRHmHgio3w5nR5W2brn5VQ2oe4.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14497,
+    "title": "Wet Hot American Summer",
+    "year": "2001",
+    "duration": "97 minutos",
+    "director": "David Wain",
+    "actors": [
+      {
+        "name": "Janeane Garofalo",
+        "photo": "https://image.tmdb.org/t/p/w185/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+      },
+      {
+        "name": "David Hyde Pierce",
+        "photo": "https://image.tmdb.org/t/p/w185/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg"
+      },
+      {
+        "name": "Michael Showalter",
+        "photo": "https://image.tmdb.org/t/p/w185/AtX8Eli8Cg8g8HrcRJDBFnplyN0.jpg"
+      },
+      {
+        "name": "Marguerite Moreau",
+        "photo": "https://image.tmdb.org/t/p/w185/kDTCRl8C6NMpmLE7j4nZZPcYeJR.jpg"
+      },
+      {
+        "name": "Paul Rudd",
+        "photo": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "6.2",
+    "telegramLink": "https://t.me/c/2474087426/14497",
+    "fileMessageId": "https://t.me/c/2474087426/14498",
+    "fileName": "Wet_Hot_American_Summer_2001_BDRip_1080p_x265_AC3_Castellano_English.mkv",
+    "fileSize": "2,72 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Historia sobre las desventuras de un grupo de personas durante el último día de un campamento de verano en 1981.",
+    "cover": "https://image.tmdb.org/t/p/w500/skKRPj1Cdsxqzn8BwKxvNV20rRW.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14500,
+    "title": "Loca evasión",
+    "year": "1974",
+    "duration": "110 minutos",
+    "director": "Steven Spielberg",
+    "actors": [
+      {
+        "name": "Goldie Hawn",
+        "photo": "https://image.tmdb.org/t/p/w185/fz4VjpUJO5i0BHhEgLs9HAUD2fJ.jpg"
+      },
+      {
+        "name": "William Atherton",
+        "photo": "https://image.tmdb.org/t/p/w185/S9W4deKuEa2K12ZiXwlvrC6J4U.jpg"
+      },
+      {
+        "name": "Ben Johnson",
+        "photo": "https://image.tmdb.org/t/p/w185/VJYWJAOLcLE1WyG1v8W2h7TahA.jpg"
+      },
+      {
+        "name": "Michael Sacks",
+        "photo": "https://image.tmdb.org/t/p/w185/7I8I1x4MqCkU9glsXiWpaI4zPnH.jpg"
+      },
+      {
+        "name": "Gregory Walcott",
+        "photo": "https://image.tmdb.org/t/p/w185/tOKACaAYyPjNcVbHGIKhZwJ4wB8.jpg"
+      }
+    ],
+    "genre": "Crimen, Drama",
+    "rating": "6.6",
+    "telegramLink": "https://t.me/c/2474087426/14500",
+    "fileMessageId": "https://t.me/c/2474087426/14501",
+    "fileName": "Loca evasión (1974).mp4",
+    "fileSize": "3,28 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un joven presidiario de apenas veinte años logra escapar de la cárcel con la ayuda de su esposa, casi una niña. Lo que se propone es recuperar a su hijo, cuya custodia ha sido entregada por la ley a una familia de acogida. Lo sorprendente es que la fuga se produce a pesar de que la pareja tiene serias limitaciones mentales.",
+    "cover": "https://image.tmdb.org/t/p/w500/lC6WOqsf7N4rRyL0cnW9Cm2ucN2.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14503,
+    "title": "¡Sufre, mamón!",
+    "year": "1987",
+    "duration": "102 minutos",
+    "director": "Manuel Summers",
+    "actors": [
+      {
+        "name": "David Summers Rodriguez",
+        "photo": "https://image.tmdb.org/t/p/w185/vQJMrCdra0XU7wWq6IixSukL7zd.jpg"
+      },
+      {
+        "name": "Marta Madruga",
+        "photo": null
+      },
+      {
+        "name": "Gerardo Ortega",
+        "photo": null
+      },
+      {
+        "name": "Curro Martín Summers",
+        "photo": null
+      },
+      {
+        "name": "Javier Molina",
+        "photo": "https://image.tmdb.org/t/p/w185/40cs8RRYgg9z1CcQApsVLKqoPSE.jpg"
+      }
+    ],
+    "genre": "Comedia, Música",
+    "rating": "7.1",
+    "telegramLink": "https://t.me/c/2474087426/14503",
+    "fileMessageId": "https://t.me/c/2474087426/14504",
+    "fileName": "Sufre mamón (1987).mp4",
+    "fileSize": "1,95 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "David, romántico y enamoradizo, es íntimo amigo de Javi, un gamberro compulsivo. Expulsados del colegio, ambos son admitidos en otro centro. Allí conocen a Dani, y deciden crear su primer grupo musical: \"Los Residuos\". David tiene un problema que ni él mismo quiere creer; Patty, su novia, le pone los cuernos descaradamente con Ricky Lacoste, un niño pijo un tanto ridículo que resulta ser el vocalista de \"Fiebre Amarilla\", el grupo rival. Mientras Patty juega a dos bandas, el grupo conoce a Rafa en la grabación de un programa de TV y se incorpora al grupo. Nacen los \"Hombres G\" de manera definitiva y empiezan los éxitos.",
+    "cover": "https://image.tmdb.org/t/p/w500/tUCMkIQcNiNB349UHpmuQ3OuvKu.jpg",
+    "trailerKey": "QFDR1ma4fs0"
+  },
+  {
+    "id": 14506,
+    "title": "Animales nocturnos",
+    "year": "2016",
+    "duration": "115 minutos",
+    "director": "Tom Ford",
+    "actors": [
+      {
+        "name": "Amy Adams",
+        "photo": "https://image.tmdb.org/t/p/w185/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg"
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "photo": "https://image.tmdb.org/t/p/w185/j2Yahha9C0zN5DRaTDzYA7WtdOT.jpg"
+      },
+      {
+        "name": "Michael Shannon",
+        "photo": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+      },
+      {
+        "name": "Aaron Taylor-Johnson",
+        "photo": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+      },
+      {
+        "name": "Isla Fisher",
+        "photo": "https://image.tmdb.org/t/p/w185/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+      }
+    ],
+    "genre": "Drama, Suspense",
+    "rating": "7.4",
+    "telegramLink": "https://t.me/c/2474087426/14506",
+    "fileMessageId": "https://t.me/c/2474087426/14507",
+    "fileName": "Animales nocturnos  (2016) Jana@Cine.mp4",
+    "fileSize": "3,66 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Susan Morrow es una galerista afincada en Los Ángeles que comparte una vida llena de lujos, aunque vacía, con Hutton Morrow, su segundo marido. Un día, Susan recibe una novela escrita por su exmarido Edward Sheffiel, del que lleva años sin tener noticias. En una nota le pide que lea la novela inédita y que se ponga en contacto con él, pues se quedará unos días en la ciudad. Es de noche. Susan, sola en la cama, empieza a leer, y es la historia de un matrimonio con una hija que conduciendo por Texas una noche, son perseguidos por otro vehículo...",
+    "cover": "https://image.tmdb.org/t/p/w500/tRia5btRjsE9kOW2Zl3HgyFlqOn.jpg",
+    "trailerKey": "N4LEU-wB8Os"
+  },
+  {
+    "id": 14509,
+    "title": "Kids",
+    "year": "1995",
+    "duration": "95 minutos",
+    "director": "Larry Clark",
+    "actors": [
+      {
+        "name": "Leo Fitzpatrick",
+        "photo": "https://image.tmdb.org/t/p/w185/iZG9G5DstChbwlL9mAQ727heZX.jpg"
+      },
+      {
+        "name": "Justin Pierce",
+        "photo": "https://image.tmdb.org/t/p/w185/tBOf7ySDq5ETGxLcsXfoYM853Gg.jpg"
+      },
+      {
+        "name": "Chloë Sevigny",
+        "photo": "https://image.tmdb.org/t/p/w185/eM7KGAMCmZCzYDFV8gaSfknN675.jpg"
+      },
+      {
+        "name": "Rosario Dawson",
+        "photo": "https://image.tmdb.org/t/p/w185/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+      },
+      {
+        "name": "Yakira Peguero",
+        "photo": "https://image.tmdb.org/t/p/w185/mgixR0C4ZOdrlFRY68H3iesqVkW.jpg"
+      }
+    ],
+    "genre": "Drama, Crimen",
+    "rating": "6.9",
+    "telegramLink": "https://t.me/c/2474087426/14509",
+    "fileMessageId": "https://t.me/c/2474087426/14510",
+    "fileName": "Kids (1995).mkv",
+    "fileSize": "3,39 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Se centra en la historia de Telly, un joven de 17 años quien suele acostarse con sus amigas vírgenes y sin protección. Casper, el mejor amigo de Telly, es el joven que representa el mayor índice de perdición en las drogas, son una pareja ideal para mostrar la realidad social de Estados Unidos en los años 90. La trama principal se da cuando Jennie, amiga de Telly, descubre que es portadora del virus del sida, y que fue Telly quien le ha transmitido dicha enfermedad, ya que es el único con quien mantuvo relaciones sexuales.",
+    "cover": "https://image.tmdb.org/t/p/w500/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14512,
+    "title": "American Playboy",
+    "year": "2009",
+    "duration": "87 minutos",
+    "director": "David Mackenzie",
+    "actors": [
+      {
+        "name": "Ashton Kutcher",
+        "photo": "https://image.tmdb.org/t/p/w185/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
+      },
+      {
+        "name": "Anne Heche",
+        "photo": "https://image.tmdb.org/t/p/w185/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
+      },
+      {
+        "name": "Margarita Levieva",
+        "photo": "https://image.tmdb.org/t/p/w185/7rSf7C5oKuvjgEBfe2GVv064Le.jpg"
+      },
+      {
+        "name": "Sebastian Stan",
+        "photo": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg"
+      },
+      {
+        "name": "Ashley Johnson",
+        "photo": "https://image.tmdb.org/t/p/w185/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
+      }
+    ],
+    "genre": "Comedia, Romance",
+    "rating": "5.6",
+    "telegramLink": "https://t.me/c/2474087426/14512",
+    "fileMessageId": "https://t.me/c/2474087426/14513",
+    "fileName": "American Playboy (2009).mp4",
+    "fileSize": "2,69 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Nikki (Ashton Kutcher) es un joven mujeriego que se ha labrado una vida de lujo haciendo uso de su atractivo sexual. Comparte sus secretos con nosotros mientras acude a fiestas y se acuesta con multitud de mujeres, a la vez que se da la gran vida en una casa de Hollywood Hills, propiedad de una abogada de mediana edad, Samantha (Anne Heche). Todo le marcha bien hasta que conoce a una preciosa camarera llamada Heather (Margarita Levieva), que, en principio, parece inmune a sus encantos.",
+    "cover": "https://image.tmdb.org/t/p/w500/ydMXZ40xKZoSfMo9ATEuvZDgS2H.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14515,
+    "title": "Boulevard",
+    "year": "2026",
+    "duration": "113 minutos",
+    "director": "Sonia Méndez",
+    "actors": [
+      {
+        "name": "Eve Ryan",
+        "photo": "https://image.tmdb.org/t/p/w185/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
+      },
+      {
+        "name": "Mikel Niso",
+        "photo": "https://image.tmdb.org/t/p/w185/gGsujYx3O3BioYIsxeg8uUfSCQM.jpg"
+      },
+      {
+        "name": "Luis Zahera",
+        "photo": "https://image.tmdb.org/t/p/w185/4WEGXd6pOWHkAUcffJrg42BFPI3.jpg"
+      },
+      {
+        "name": "Esther Acebo",
+        "photo": "https://image.tmdb.org/t/p/w185/d7N6RWdMQmTI7wL44Ys4uvuSIoQ.jpg"
+      },
+      {
+        "name": "Biel Antón",
+        "photo": "https://image.tmdb.org/t/p/w185/jFsY69REJq9ajDrCxbivb849ALN.jpg"
+      }
+    ],
+    "genre": "Romance, Drama",
+    "rating": "7.8",
+    "telegramLink": "https://t.me/c/2474087426/14515",
+    "fileMessageId": "https://t.me/c/2474087426/14516",
+    "fileName": "Boulevard (2026).mkv",
+    "fileSize": "2,94 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+    "cover": "https://image.tmdb.org/t/p/w500/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg",
+    "trailerKey": "rZ6xn57p4J0"
+  },
+  {
+    "id": 14518,
+    "title": "Niños grandes",
+    "year": "2010",
+    "duration": "102 minutos",
+    "director": "Dennis Dugan",
+    "actors": [
+      {
+        "name": "Adam Sandler",
+        "photo": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+      },
+      {
+        "name": "Kevin James",
+        "photo": "https://image.tmdb.org/t/p/w185/3WPW5duZyQcjveefxwLULgIyhM0.jpg"
+      },
+      {
+        "name": "Chris Rock",
+        "photo": "https://image.tmdb.org/t/p/w185/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+      },
+      {
+        "name": "David Spade",
+        "photo": "https://image.tmdb.org/t/p/w185/8tv638lAMLmYh8bSLICqPzbW3tv.jpg"
+      },
+      {
+        "name": "Rob Schneider",
+        "photo": "https://image.tmdb.org/t/p/w185/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/14518",
+    "fileMessageId": "https://t.me/c/2474087426/14519",
+    "fileName": "Grandes1m1080.Www.Newpct.Com.mp4",
+    "fileSize": "2,68 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Después de muchos años, su antiguo entrenador de basquet muere y cincos amigos deciden pasar un fin de semanas -ahora con sus respectivas familias- en la casa donde celebraron, antaño, el campeonato.",
+    "cover": "https://image.tmdb.org/t/p/w500/r1mDA1SLjw2yiYhhLiAjrd2Pt1l.jpg",
+    "trailerKey": "fhOA5vsop4M"
+  },
+  {
+    "id": 14521,
+    "title": "Niños grandes 2",
+    "year": "2013",
+    "duration": "100 minutos",
+    "director": "Dennis Dugan",
+    "actors": [
+      {
+        "name": "Adam Sandler",
+        "photo": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+      },
+      {
+        "name": "Kevin James",
+        "photo": "https://image.tmdb.org/t/p/w185/3WPW5duZyQcjveefxwLULgIyhM0.jpg"
+      },
+      {
+        "name": "Chris Rock",
+        "photo": "https://image.tmdb.org/t/p/w185/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+      },
+      {
+        "name": "David Spade",
+        "photo": "https://image.tmdb.org/t/p/w185/8tv638lAMLmYh8bSLICqPzbW3tv.jpg"
+      },
+      {
+        "name": "Salma Hayek Pinault",
+        "photo": "https://image.tmdb.org/t/p/w185/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "6.2",
+    "telegramLink": "https://t.me/c/2474087426/14521",
+    "fileMessageId": "https://t.me/c/2474087426/14522",
+    "fileName": "Grandes2m1080.Www.Newpct.Com.mp4",
+    "fileSize": "2,75 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Lenny se ha trasladado con su familia a la pequeña ciudad donde tanto él como sus amigos se criaron. En esta ocasión, los adultos serán quienes reciban toda una lección de sus propios hijos.",
+    "cover": "https://image.tmdb.org/t/p/w500/6TRhV0E6wDQjMEtvYru0Kel6juW.jpg",
+    "trailerKey": "0c_zXgsy3QQ"
+  },
+  {
+    "id": 14524,
+    "title": "La avispa",
+    "year": "2024",
+    "duration": "96 minutos",
+    "director": "Guillem Morales",
+    "actors": [
+      {
+        "name": "Naomie Harris",
+        "photo": "https://image.tmdb.org/t/p/w185/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+      },
+      {
+        "name": "Natalie Dormer",
+        "photo": "https://image.tmdb.org/t/p/w185/3OlkHjDKDj9NKkFWXfLk7gcb2C.jpg"
+      },
+      {
+        "name": "Dominic Allburn",
+        "photo": "https://image.tmdb.org/t/p/w185/fZ2qT4I5fw1FEDLf4LtEDNaXCBH.jpg"
+      },
+      {
+        "name": "Leah Mondesir-Simmonds",
+        "photo": null
+      },
+      {
+        "name": "Olivia Juno Cleverley",
+        "photo": null
+      }
+    ],
+    "genre": "Suspense, Drama",
+    "rating": "6.2",
+    "telegramLink": "https://t.me/c/2474087426/14524",
+    "fileMessageId": "https://t.me/c/2474087426/14525",
+    "fileName": "La avispa _.mp4",
+    "fileSize": "2,45 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Heather se encuentra con Carla, con quien no ha hablado en años, y le presenta una propuesta muy inesperada que podría cambiar la vida de ambas para siempre.",
+    "cover": "https://image.tmdb.org/t/p/w500/cIP56aG86UFfNol6v9b87zsh6FX.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14527,
+    "title": "La novia cadáver",
+    "year": "2005",
+    "duration": "77 minutos",
+    "director": "Mike Johnson",
+    "actors": [
+      {
+        "name": "Johnny Depp",
+        "photo": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "photo": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+      },
+      {
+        "name": "Emily Watson",
+        "photo": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+      },
+      {
+        "name": "Tracey Ullman",
+        "photo": "https://image.tmdb.org/t/p/w185/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
+      },
+      {
+        "name": "Paul Whitehouse",
+        "photo": "https://image.tmdb.org/t/p/w185/4aacb6fRghFwrT636cYmAYqQ35o.jpg"
+      }
+    ],
+    "genre": "Romance, Fantasía, Animación",
+    "rating": "7.6",
+    "telegramLink": "https://t.me/c/2474087426/14527",
+    "fileMessageId": "https://t.me/c/2474087426/14528",
+    "fileName": "la.novia.cadaver.2005.1080p.x264.ac3.mkv",
+    "fileSize": "2,15 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Ambientada en un pueblecito europeo en el siglo XIX, esta película de animación fotograma a fotograma cuenta la historia de Victor, un joven que es llevado de repente al infierno, donde se casa con una misteriosa Novia Cadáver, mientras que su verdadera novia, Victoria espera en el mundo de los vivos. A pesar de que la tierra de los muertos resulta ser más colorista que su estricta educación victoriana, Victor aprende que no hay nada en este mundo, ni en el siguiente, que pueda separarle de su único y verdadero amor.",
+    "cover": "https://image.tmdb.org/t/p/w500/3ALM0VeZjGUryAqWo6pqohzbLDh.jpg",
+    "trailerKey": "6wcj_aJ15gI"
+  },
+  {
+    "id": 14530,
+    "title": "Le seguían llamando Trinidad",
+    "year": "1971",
+    "duration": "127 minutos",
+    "director": "Enzo Barboni",
+    "actors": [
+      {
+        "name": "Terence Hill",
+        "photo": "https://image.tmdb.org/t/p/w185/vBkWDZh93QRUvg3oh5d96QQZWLn.jpg"
+      },
+      {
+        "name": "Bud Spencer",
+        "photo": "https://image.tmdb.org/t/p/w185/cVbBoKxRDFOdDKwdpRmxVazDWlE.jpg"
+      },
+      {
+        "name": "Yanti Somer",
+        "photo": "https://image.tmdb.org/t/p/w185/usBfySwCQyeRcl2DFPCHPoJaR1G.jpg"
+      },
+      {
+        "name": "Enzo Tarascio",
+        "photo": "https://image.tmdb.org/t/p/w185/wt9GXAuLvy1bDWDLQI3Pb5OGH4.jpg"
+      },
+      {
+        "name": "Harry Carey, Jr.",
+        "photo": "https://image.tmdb.org/t/p/w185/7O61xbnqAMDOKVCh9ZH8deW6M30.jpg"
+      }
+    ],
+    "genre": "Comedia, Western",
+    "rating": "7.4",
+    "telegramLink": "https://t.me/c/2474087426/14530",
+    "fileMessageId": "https://t.me/c/2474087426/14531",
+    "fileName": "Le Seguian Llamando Trinidad.@CineNcasaa.mkv",
+    "fileSize": "2,75 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "A Trinidad y a su hermano \"el niño\" no les sale nada bien hasta el punto de que, cuando van a atracar una diligencia, nadie lleva dinero. El azar hace que se encuentren en su camino a una chica, que les conduce a un pueblo donde todos se creen que son \"rangers\". Allí viven numerosas aventuras, hasta que la situación se complica porque llegan los verdaderos \"rangers\".",
+    "cover": "https://image.tmdb.org/t/p/w500/twdVgMxBJjRj0EIzxRgiuE77YGr.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 14533,
+    "title": "Ocho apellidos marroquís",
+    "year": "2023",
+    "duration": "97 minutos",
+    "director": "Álvaro Fernández Armero",
+    "actors": [
+      {
+        "name": "Julián López",
+        "photo": "https://image.tmdb.org/t/p/w185/aHbhMMVOvrPaN7ssIMezf2qVgHw.jpg"
+      },
+      {
+        "name": "Michelle Jenner",
+        "photo": "https://image.tmdb.org/t/p/w185/g3JyHqwBcV7g1ds3dHtWkDXyXqb.jpg"
+      },
+      {
+        "name": "Elena Irureta",
+        "photo": "https://image.tmdb.org/t/p/w185/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
+      },
+      {
+        "name": "María Ramos Mouhoub",
+        "photo": "https://image.tmdb.org/t/p/w185/yj0bhlfTuks4TUTv5IRrH3dC2vD.jpg"
+      },
+      {
+        "name": "Hamza Zaidi",
+        "photo": "https://image.tmdb.org/t/p/w185/3a7dXAZL856eYu62eX4Dy7PdX9T.jpg"
+      }
+    ],
+    "genre": "Comedia, Familia",
+    "rating": "6.0",
+    "telegramLink": "https://t.me/c/2474087426/14533",
+    "fileMessageId": "https://t.me/c/2474087426/14534",
+    "fileName": "Ocho apellidos marroquis (2023) 1080.mp4",
+    "fileSize": "3,16 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. En su testamento, pide a su mujer que recupere el Sardinete, el primer pesquero de su flota, con el que inició sus negocios y que está criando herrumbre en un puerto marroquí. A Begoña, la hija del empresario, ir a por esa “vieja lata de sardinas” le parecen delirios de un viejo chocheando. Así que Carmen, decidida a rescatar el barco, encuentra un aliado inesperado en Guillermo, el ex de Begoña, quien confía en que un viaje romántico al sur reavive la llama del amor. Sin saber cómo van a traerse la embarcación, ponen todos rumbo a Marruecos y allí descubren que en su universo nunca nada había estado en su sitio. Y es que don José María, el patriarca, guardaba un secreto: una hija llamada Hamida.",
+    "cover": "https://image.tmdb.org/t/p/w500/g5nUFZUekNT6Wo2ZiSQmnM6yWMy.jpg",
+    "trailerKey": "5FLMMzpmunI"
   }
 ]
