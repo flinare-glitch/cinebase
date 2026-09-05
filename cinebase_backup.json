@@ -3040,46 +3040,6 @@
     "trailerKey": null
   },
   {
-    "id": 203,
-    "title": "Las aventuras del doctor Dolittle",
-    "year": "2020",
-    "duration": "110 minutos",
-    "director": "Stephen Gaghan",
-    "actors": [
-      {
-        "name": "Robert Downey Jr.",
-        "photo": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
-      },
-      {
-        "name": "Harry Collett",
-        "photo": "https://image.tmdb.org/t/p/w185/nDF4XWPBM5tGzOIHTMMWrTmWQRn.jpg"
-      },
-      {
-        "name": "Michael Sheen",
-        "photo": "https://image.tmdb.org/t/p/w185/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
-      },
-      {
-        "name": "Jim Broadbent",
-        "photo": "https://image.tmdb.org/t/p/w185/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
-      },
-      {
-        "name": "Antonio Banderas",
-        "photo": "https://image.tmdb.org/t/p/w185/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
-      }
-    ],
-    "genre": "Familia, Comedia, Fantasía, Aventura",
-    "rating": "6.6",
-    "telegramLink": "https://t.me/c/2474087426/203",
-    "fileMessageId": "https://t.me/c/2474087426/204",
-    "fileName": "video_204.mp4",
-    "fileSize": "1,57 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Después de perder a su mujer hace siete años, el excéntrico Dr. John Dolittle , un reputado doctor y veterinario, se encerró en sí mismo tras los muros de su mansión con la única compañía de su colección de animales exóticos. Pero cuando la joven reina cae gravemente enferma, Dolittle tendrá que dejar, muy a su pesar, su vida de ermitaño para embarcarse en una épica aventura a una mítica isla en busca de una cura, recuperando su sentido del humor y su coraje a medida que se cruza con viejos adversarios y mientras descubre maravillosas criaturas.",
-    "cover": "https://image.tmdb.org/t/p/w500/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg",
-    "trailerKey": "2nRmhSKYItE"
-  },
-  {
     "id": 205,
     "title": "Psicosis",
     "year": "1960",
@@ -11518,46 +11478,6 @@
     "plot": "En este desenlace de la saga Millennium la tensión se dispara. Tras el agónico final de La chica que soñaba con una cerilla y un bidón de gasolina, puede que Lisbeth Salander haya sobrevivido a ser enterrada viva pero sus problemas están lejos de haber acabado. Está acusada de triple asesinato y fuerzas poderosas intentan silenciarla de una vez por todas. Mientras, Michael Blomkvist escarba en su oscuro pasado y pronto encuentra sus huellas.",
     "cover": "https://image.tmdb.org/t/p/w500/2YGLkB9apsLvlKiOde6P7Z90qPS.jpg",
     "trailerKey": "rEJ9s4O96_w"
-  },
-  {
-    "id": 772,
-    "title": "El mensajero del miedo",
-    "year": "1962",
-    "duration": "126 minutos",
-    "director": "John Frankenheimer",
-    "actors": [
-      {
-        "name": "Frank Sinatra",
-        "photo": "https://image.tmdb.org/t/p/w185/dafKPsivu50RdChBSrgGmMRenYt.jpg"
-      },
-      {
-        "name": "Laurence Harvey",
-        "photo": "https://image.tmdb.org/t/p/w185/l9iSQUawIByUjpLg5SI03oOpd64.jpg"
-      },
-      {
-        "name": "Angela Lansbury",
-        "photo": "https://image.tmdb.org/t/p/w185/fMAigMOfERlIAOUVlStRjq2COD6.jpg"
-      },
-      {
-        "name": "Janet Leigh",
-        "photo": "https://image.tmdb.org/t/p/w185/2dv9IqJEx31RSoH7xAHlJZXF5uB.jpg"
-      },
-      {
-        "name": "James Gregory",
-        "photo": "https://image.tmdb.org/t/p/w185/lfLlIfg6nI2cjVTpjyjwm8aQWJQ.jpg"
-      }
-    ],
-    "genre": "Suspense, Drama",
-    "rating": "7.5",
-    "telegramLink": "https://t.me/c/2474087426/772",
-    "fileMessageId": "https://t.me/c/2474087426/773",
-    "fileName": "El_Mensajero_Del_Miedo_H_Remaster_1962_Spanish_English_Subs_HD_1080p.mp4",
-    "fileSize": "1,33 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Un grupo de soldados, bajo el mando del sargento Raymond Shaw y el comandante Benett Marco, sufre una emboscada durante la guerra de Corea y es capturado por el ejército enemigo. Meses después, Shaw recibe una medalla al honor por el gobierno de los Estados Unidos. Por entonces, Marco comienza a sufrir terribles pesadillas relacionadas con el lavado de cerebro al que fueron sometidos durante el cautiverio en Corea.",
-    "cover": "https://image.tmdb.org/t/p/w500/kfH2NHYOUovD2Gz6cdbhunsahAW.jpg",
-    "trailerKey": null
   },
   {
     "id": 774,
@@ -22920,46 +22840,6 @@
     "trailerKey": "9qn3e0FYwj0"
   },
   {
-    "id": 2007,
-    "title": "La otra cara del crimen",
-    "year": "2000",
-    "duration": "115 minutos",
-    "director": "James Gray",
-    "actors": [
-      {
-        "name": "Mark Wahlberg",
-        "photo": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
-      },
-      {
-        "name": "Joaquin Phoenix",
-        "photo": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
-      },
-      {
-        "name": "Charlize Theron",
-        "photo": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
-      },
-      {
-        "name": "James Caan",
-        "photo": "https://image.tmdb.org/t/p/w185/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg"
-      },
-      {
-        "name": "Ellen Burstyn",
-        "photo": "https://image.tmdb.org/t/p/w185/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
-      }
-    ],
-    "genre": "Crimen, Drama, Suspense",
-    "rating": "6.2",
-    "telegramLink": "https://t.me/c/2474087426/2007",
-    "fileMessageId": "https://t.me/c/2474087426/2008",
-    "fileName": "The Yards La Otra Cara Del Crimen 2000.mp4",
-    "fileSize": "1,61 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Leo sale de la cárcel con el firme propósito de abandonar el mundo mafioso de Nueva York, pero pronto se dará cuenta de que no le resultará tan fácil empezar una nueva vida.",
-    "cover": "https://image.tmdb.org/t/p/w500/tsC85S9nY85r6xOqPIqeCkidDyR.jpg",
-    "trailerKey": "EDVCy4wtmuY"
-  },
-  {
     "id": 2019,
     "title": "Simone",
     "year": "2002",
@@ -29961,46 +29841,6 @@
     "tmdb_synced": true,
     "plot": "Una pareja de astronautas regresa de un viaje espacial donde algo extraño ha sucedido. Spencer Armacost y Alex Streck estaban en una en misión espacial cuando, durante una salida de la nave, pierden el contacto con la base de control durante algunos minutos. Luego todo vuelve a la normalidad y ellos regresan a la Tierra. Pero, tras el regreso, muchas cosas extrañas comienzan a suceder en la vida de los astronautas.",
     "cover": "https://image.tmdb.org/t/p/w500/24NaFGEgoQ6W9OgXMaDHyg7Rfwq.jpg",
-    "trailerKey": null
-  },
-  {
-    "id": 2794,
-    "title": "Íntimo y personal",
-    "year": "1996",
-    "duration": "119 minutos",
-    "director": "Jon Avnet",
-    "actors": [
-      {
-        "name": "Robert Redford",
-        "photo": "https://image.tmdb.org/t/p/w185/14FuWhuwRLXCplIur2v39L5NZ1W.jpg"
-      },
-      {
-        "name": "Michelle Pfeiffer",
-        "photo": "https://image.tmdb.org/t/p/w185/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
-      },
-      {
-        "name": "Stockard Channing",
-        "photo": "https://image.tmdb.org/t/p/w185/wAHRDO4z8qUa8zAaOky1JgR7egm.jpg"
-      },
-      {
-        "name": "Joe Mantegna",
-        "photo": "https://image.tmdb.org/t/p/w185/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
-      },
-      {
-        "name": "Kate Nelligan",
-        "photo": "https://image.tmdb.org/t/p/w185/a2BUOy9A9WlvTfe8s4gn0MZfPa5.jpg"
-      }
-    ],
-    "genre": "Drama, Romance",
-    "rating": "6.3",
-    "telegramLink": "https://t.me/c/2474087426/2794",
-    "fileMessageId": "https://t.me/c/2474087426/2795",
-    "fileName": "íntimo-y-personal-1996.mp4",
-    "fileSize": "1,19 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Tally Atwater (Michelle Pfieffer) es una ambiciosa periodista que presenta la información meteorológica. Pero, cuando conoce a Warren Justice (Robert Redford), un veterano presentador y antiguo corresponsal en la Casa Blanca, su carrera se dispara y llega a presentar un informativo de máxima audiencia. Al tiempo, surge una relación sentimental entre ella y el atractivo Warren.",
-    "cover": "https://image.tmdb.org/t/p/w500/8oOTCrHxoFoyG9jW7133b7z6JXv.jpg",
     "trailerKey": null
   },
   {
@@ -39556,46 +39396,6 @@
     "trailerKey": null
   },
   {
-    "id": 3786,
-    "title": "Señor, dame paciencia",
-    "year": "2017",
-    "duration": "91 minutos",
-    "director": "Álvaro Díaz Lorenzo",
-    "actors": [
-      {
-        "name": "Jordi Sánchez",
-        "photo": "https://image.tmdb.org/t/p/w185/mNB7etSWQng4c4AyycnNb5HC7a6.jpg"
-      },
-      {
-        "name": "Rossy de Palma",
-        "photo": "https://image.tmdb.org/t/p/w185/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
-      },
-      {
-        "name": "Megan Montaner",
-        "photo": "https://image.tmdb.org/t/p/w185/e765CPp0w9L1lo9081U5bBMr0pq.jpg"
-      },
-      {
-        "name": "Silvia Alonso",
-        "photo": "https://image.tmdb.org/t/p/w185/AgXsHxxSBOy9JmtWy5o8y3cKprY.jpg"
-      },
-      {
-        "name": "Eduardo Casanova",
-        "photo": "https://image.tmdb.org/t/p/w185/r341g2BbigyTm2jCZhzk4kXubKp.jpg"
-      }
-    ],
-    "genre": "Comedia",
-    "rating": "6.3",
-    "telegramLink": "https://t.me/c/2474087426/3786",
-    "fileMessageId": "https://t.me/c/2474087426/3787",
-    "fileName": "Señor Dame Paciencia (2017).mp4",
-    "fileSize": "1,87 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Gregorio es un banquero muy conservador, muy del Real Madrid y muy gruñón cuya mujer fallece repentinamente y este tendrá que cumplir su última voluntad, que es esparcir sus cenizas en el Guadalquivir.  Para llevar a cabo su tarea, Gregorio deberá pasar un fin de semana en Sanlúcar de Barrameda con sus hijos. De esta manera, tendrá que convivir con el novio de su hija Sandra, un catalán muy culé, y con el de Alicia, un hippy. Además, su hijo Carlos, con el que lleva meses sin hablarse por “salir del armario” se presenta con su novio Eneko, un vasco de origen senegalés.",
-    "cover": "https://image.tmdb.org/t/p/w500/c0UfnzFW7Vk7qX2rYij2G5ahB1z.jpg",
-    "trailerKey": "LPSDoW73eVA"
-  },
-  {
     "id": 3789,
     "title": "Sasquatch Sunset",
     "year": "2024",
@@ -43712,46 +43512,6 @@
     "trailerKey": null
   },
   {
-    "id": 4190,
-    "title": "Un ciudadano ejemplar",
-    "year": "2009",
-    "duration": "109 minutos",
-    "director": "F. Gary Gray",
-    "actors": [
-      {
-        "name": "Jamie Foxx",
-        "photo": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
-      },
-      {
-        "name": "Gerard Butler",
-        "photo": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
-      },
-      {
-        "name": "Colm Meaney",
-        "photo": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
-      },
-      {
-        "name": "Bruce McGill",
-        "photo": "https://image.tmdb.org/t/p/w185/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
-      },
-      {
-        "name": "Leslie Bibb",
-        "photo": "https://image.tmdb.org/t/p/w185/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
-      }
-    ],
-    "genre": "Drama, Crimen, Suspense",
-    "rating": "7.4",
-    "telegramLink": "https://t.me/c/2474087426/4190",
-    "fileMessageId": "https://t.me/c/2474087426/4191",
-    "fileName": "Un ciudadano ejemplar (2009).mp4",
-    "fileSize": "1,64 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Clyde Shelton es un ciudadano normal que lo ha perdido todo. Diez años antes su mujer y su hija fueron brutalmente asesinadas y los criminales nunca fueron condenados. El culpable es Nick Rice, el ambicioso ayudante del fiscal del distrito, porque hizo un pacto con el abogado de uno de ellos. Pero Clyde descubre ese acuerdo, y su deseo de venganza lo lleva a cometer una serie de asesinatos",
-    "cover": "https://image.tmdb.org/t/p/w500/iaY5L2gY60La8ImK7ll7QBXXk26.jpg",
-    "trailerKey": "diBj-JyyWjE"
-  },
-  {
     "id": 4193,
     "title": "Al borde del abismo",
     "year": "2012",
@@ -45432,46 +45192,6 @@
     "trailerKey": "_ULIV2sRSvk"
   },
   {
-    "id": 4376,
-    "title": "American Pie presenta: Band Camp",
-    "year": "2005",
-    "duration": "94 minutos",
-    "director": "Steve Rash",
-    "actors": [
-      {
-        "name": "Tad Hilgenbrink",
-        "photo": "https://image.tmdb.org/t/p/w185/cECyfEB8GI4zTYXEOLEpRTxINLo.jpg"
-      },
-      {
-        "name": "Arielle Kebbel",
-        "photo": "https://image.tmdb.org/t/p/w185/eFN9TTOFk4COQQsDSufChNd7GfP.jpg"
-      },
-      {
-        "name": "Jason Earles",
-        "photo": "https://image.tmdb.org/t/p/w185/98kgD3jp4DmwwL1SmViN5cRE5NI.jpg"
-      },
-      {
-        "name": "Crystle Lightning",
-        "photo": "https://image.tmdb.org/t/p/w185/vx5UIK3ddm8hLf5WGKvQ2za26Sv.jpg"
-      },
-      {
-        "name": "Jun Hee Lee",
-        "photo": "https://image.tmdb.org/t/p/w185/z640VVykgTgDwDMJ70LypdUEOlh.jpg"
-      }
-    ],
-    "genre": "Comedia",
-    "rating": "5.5",
-    "telegramLink": "https://t.me/c/2474087426/4376",
-    "fileMessageId": "https://t.me/c/2474087426/4377",
-    "fileName": "video_4377.mp4",
-    "fileSize": "1,46 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Matt, el hermano pequeño de Stifler, es condenado a pasar un verano en el inmundo campamento de la banda de música, donde hace de las suyas con cámaras ocultas y ardientes tutores. Pero, cuando se queda prendado de su compañera de banda, Elyse, su empeño por maquillar sus rudos modales tiene resultados imprevistos. El padre de Jim vuelve como estrafalario tutor para intentar devolver al redil al descarriado hermano menor de Stifler.",
-    "cover": "https://image.tmdb.org/t/p/w500/r5zvfSnbTeMZFD3XOuQOGN1z6US.jpg",
-    "trailerKey": null
-  },
-  {
     "id": 4379,
     "title": "American Pie presenta: Una fiesta de pelotas",
     "year": "2006",
@@ -46389,46 +46109,6 @@
     "tmdb_synced": true,
     "plot": "Sesenta años después de que Walt Disney creara \"Fantasía\", se rueda \"Fantasía 2000\", que une la animación más espectacular con una música de ensueño. La obra se divide en ocho partes. Una de ellas es una nueva versión de \"El aprendiz de Brujo\", de P. Dukas, protagonizada por Mickey Mouse. Pero hay mucho más: desde las divertidas travesuras de unos flamencos a la moderna ciudad en armonioso movimiento, un derroche de imaginación con música de fondo.",
     "cover": "https://image.tmdb.org/t/p/w500/kjFi3vMWk9TqGIMnhVK9FGTHwPT.jpg",
-    "trailerKey": null
-  },
-  {
-    "id": 4482,
-    "title": "El gran golpe",
-    "year": "2004",
-    "duration": "100 minutos",
-    "director": "Brett Ratner",
-    "actors": [
-      {
-        "name": "Pierce Brosnan",
-        "photo": "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
-      },
-      {
-        "name": "Salma Hayek Pinault",
-        "photo": "https://image.tmdb.org/t/p/w185/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
-      },
-      {
-        "name": "Woody Harrelson",
-        "photo": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
-      },
-      {
-        "name": "Don Cheadle",
-        "photo": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
-      },
-      {
-        "name": "Naomie Harris",
-        "photo": "https://image.tmdb.org/t/p/w185/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
-      }
-    ],
-    "genre": "Acción, Comedia, Crimen, Drama",
-    "rating": "6.2",
-    "telegramLink": "https://t.me/c/2474087426/4482",
-    "fileMessageId": "https://t.me/c/2474087426/4483",
-    "fileName": "El gran golpe (2004)@cinepalomitas.mp4",
-    "fileSize": "1,59 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Max Burdett (Pierce Brosnan) es un ladrón retirado que vive tranquilamente en una isla paradisíaca. Todo cambiará cuando un antiguo agente del FBI conocido suyo, le diga que hay rumores de que va a volver a su antiguo trabajo robando un gran diamante, lo que acabará complicándole su pacífica vida.",
-    "cover": "https://image.tmdb.org/t/p/w500/WsRuXQxIUATdhHCyCJl7EvI4BT.jpg",
     "trailerKey": null
   },
   {
@@ -49029,46 +48709,6 @@
     "tmdb_synced": true,
     "plot": "Flora, un genio atrapado durante más de 2.000 años dentro de un joyero antiguo, es llamado accidentalmente al servicio de Bernard, cuya vida se está desmoronando a su alrededor.",
     "cover": "https://image.tmdb.org/t/p/w500/ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg",
-    "trailerKey": null
-  },
-  {
-    "id": 4761,
-    "title": "Rasputin",
-    "year": "1996",
-    "duration": "135 minutos",
-    "director": "Uli Edel",
-    "actors": [
-      {
-        "name": "Alan Rickman",
-        "photo": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
-      },
-      {
-        "name": "Greta Scacchi",
-        "photo": "https://image.tmdb.org/t/p/w185/kgWjsnt0SWrypL6vkGQijJNkgS0.jpg"
-      },
-      {
-        "name": "Ian McKellen",
-        "photo": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
-      },
-      {
-        "name": "David Warner",
-        "photo": "https://image.tmdb.org/t/p/w185/AlsZcAY2c4chfOxMW69gHQzH1B2.jpg"
-      },
-      {
-        "name": "John Wood",
-        "photo": "https://image.tmdb.org/t/p/w185/6raTQciey2xpcVV5c8HRV4XzFCk.jpg"
-      }
-    ],
-    "genre": "Historia, Drama, Película de TV",
-    "rating": "6.6",
-    "telegramLink": "https://t.me/c/2474087426/4761",
-    "fileMessageId": "https://t.me/c/2474087426/4762",
-    "fileName": "Rasputín (1996)\n.mp4",
-    "fileSize": "1,23 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "En la Rusia de fin de siglo XIX, con el Imperio al borde de la revolución, un hombre cambiará la historia para siempre. Es Rasputin, y le llaman el monje loco, pero muchos creen en sus poderes sobrenaturales, los cuales dicen que han salvado la vida del hijo del zar. Su influencia no tiene límites y tampoco su ambición. El mundo no será el mismo cuando alcance el poder. (FILMAFFINITY)",
-    "cover": "https://image.tmdb.org/t/p/w500/16UlqPiJA5WTGzrLjth05xSHcfd.jpg",
     "trailerKey": null
   },
   {
@@ -54188,46 +53828,6 @@
     "trailerKey": null
   },
   {
-    "id": 5244,
-    "title": "Ellos y ellas",
-    "year": "1955",
-    "duration": "150 minutos",
-    "director": "Joseph L. Mankiewicz",
-    "actors": [
-      {
-        "name": "Marlon Brando",
-        "photo": "https://image.tmdb.org/t/p/w185/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
-      },
-      {
-        "name": "Jean Simmons",
-        "photo": "https://image.tmdb.org/t/p/w185/scbR91Bl4SbfQqhXaH6OfhjxfYt.jpg"
-      },
-      {
-        "name": "Frank Sinatra",
-        "photo": "https://image.tmdb.org/t/p/w185/dafKPsivu50RdChBSrgGmMRenYt.jpg"
-      },
-      {
-        "name": "Vivian Blaine",
-        "photo": "https://image.tmdb.org/t/p/w185/6NyVVRLGFKR3PaoYs1vNkg4rrKq.jpg"
-      },
-      {
-        "name": "Robert Keith",
-        "photo": "https://image.tmdb.org/t/p/w185/7nhscSi9oF7B48qYkfDd1OvfKOR.jpg"
-      }
-    ],
-    "genre": "Comedia, Crimen, Romance",
-    "rating": "6.6",
-    "telegramLink": "https://t.me/c/2474087426/5244",
-    "fileMessageId": "https://t.me/c/2474087426/5245",
-    "fileName": "Ellos y ellas (1955) @JuAnChO1304.mp4",
-    "fileSize": "1,31 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Adaptación de un musical de Broadway basado en un cuento de Damon Runyon, gran maestro de la literatura picaresca americana. Nathan Detroit (Frank Sinatra), organizador de las partidas más selectas de dados de Nueva York, apuesta mil dólares con uno de los jugadores (Marlon Brando) a que no es capaz de enamorar a una joven puritana que pertenece al Ejército de Salvación (Jean Simmons).",
-    "cover": "https://image.tmdb.org/t/p/w500/x4V2efbQydkRBza926afNmCvDG5.jpg",
-    "trailerKey": null
-  },
-  {
     "id": 5247,
     "title": "Sweet Dreams",
     "year": "2024",
@@ -57308,46 +56908,6 @@
     "trailerKey": null
   },
   {
-    "id": 5617,
-    "title": "Poker Face",
-    "year": "2022",
-    "duration": "94 minutos",
-    "director": "Russell Crowe",
-    "actors": [
-      {
-        "name": "Russell Crowe",
-        "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
-      },
-      {
-        "name": "Liam Hemsworth",
-        "photo": "https://image.tmdb.org/t/p/w185/As5ujeSSJRQN4TE3odg3kDk0b5o.jpg"
-      },
-      {
-        "name": "RZA",
-        "photo": "https://image.tmdb.org/t/p/w185/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
-      },
-      {
-        "name": "Brooke Satchwell",
-        "photo": "https://image.tmdb.org/t/p/w185/afjOGhUUthqL4pc4H3oGygP6FH8.jpg"
-      },
-      {
-        "name": "Aden Young",
-        "photo": "https://image.tmdb.org/t/p/w185/y7YoyvmNEJWZZP4UiDzPhz4zaPP.jpg"
-      }
-    ],
-    "genre": "Suspense, Crimen",
-    "rating": "5.6",
-    "telegramLink": "https://t.me/c/2474087426/5617",
-    "fileMessageId": "https://t.me/c/2474087426/5618",
-    "fileName": "Poker Face (2022).mp4",
-    "fileSize": "1,45 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "El multimillonario jugador de póquer Jake Foley (Russell Crowe) les brinda a sus mejores amigos la oportunidad de ganar más dinero del que jamás hayan soñado, en una noche que nunca olvidarán. Pero para jugar, tendrán que revelar algunos de sus secretos más oscuros, y a medida que avance la noche, descubrirán el motivo real por el que participan...",
-    "cover": "https://image.tmdb.org/t/p/w500/qvcDAQEk305csl4ivZGWdr7lSD3.jpg",
-    "trailerKey": "3eK6kIYxi_Q"
-  },
-  {
     "id": 5620,
     "title": "Springsteen: Deliver Me from Nowhere",
     "year": "2025",
@@ -57426,46 +56986,6 @@
     "plot": "Helen Mirren da vida a una madre enferma, pero llena de ingenio, que decide tomar el control de su propia despedida en el emotivo debut como directora de Kate Winslet.",
     "cover": "https://image.tmdb.org/t/p/w500/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg",
     "trailerKey": "6_TvqGh8N8I"
-  },
-  {
-    "id": 5626,
-    "title": "Una novata en un cuento de hadas",
-    "year": "2007",
-    "duration": "90 minutos",
-    "director": "Joe Nussbaum",
-    "actors": [
-      {
-        "name": "Amanda Bynes",
-        "photo": "https://image.tmdb.org/t/p/w185/7bpm17KLd3e7pfEDUBdu8kKtc14.jpg"
-      },
-      {
-        "name": "Sara Paxton",
-        "photo": "https://image.tmdb.org/t/p/w185/atau2a3BlZaTaWSosp4zU7SAFmt.jpg"
-      },
-      {
-        "name": "Matt Long",
-        "photo": "https://image.tmdb.org/t/p/w185/cYi7wXT6KIEDlrZ3ndieTQnL5K2.jpg"
-      },
-      {
-        "name": "Jeremy Howard",
-        "photo": "https://image.tmdb.org/t/p/w185/tkZNfmlNkiH7UZxYDaDqO9z1TuV.jpg"
-      },
-      {
-        "name": "Danny Strong",
-        "photo": "https://image.tmdb.org/t/p/w185/82C6hgzdpHUHizMfedNAP7DSGOj.jpg"
-      }
-    ],
-    "genre": "Comedia",
-    "rating": "6.5",
-    "telegramLink": "https://t.me/c/2474087426/5626",
-    "fileMessageId": "https://t.me/c/2474087426/5627",
-    "fileName": "@cesser16 Una novata en un cuento de hadas (2007) 1080p.mp4",
-    "fileSize": "1,13 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Adaptación moderna del cuento de Blancanieves. Cuando Sydney es expulsada de la hermandad más popular del campus ya que no es suficientemente \"femenina\", la acogen siete chicos mal vistos socialmente pero entrañables. Con la ayuda de sus nuevos amigos, Sydney se dedica a defender a los marginados en todos los sitios, y reta a la reina del campus a un duelo de popularidad.",
-    "cover": "https://image.tmdb.org/t/p/w500/3n1j5wwQJhf5bChstxH7M9k2O5e.jpg",
-    "trailerKey": null
   },
   {
     "id": 5634,
@@ -59706,46 +59226,6 @@
     "plot": "Toni, un hombre cascarrabias, soltero y sin hijos, huye de los niños a toda costa. Su vida da un giro inesperado cuando su hermana fallece y de la noche a la mañana se convierte en tutor temporal de sus cinco hijos adoptados: cada uno de un país y procedencia diferente. Toni tendrá que enfrentarse a las diferencias culturales y a los retos de paternidad en el mundo moderno y descubrirá que la verdadera familia, es la que uno elige.",
     "cover": "https://image.tmdb.org/t/p/w500/5VISxbDN4YSFZao3MAkElC4WE6O.jpg",
     "trailerKey": "F0k6T_fuZcw"
-  },
-  {
-    "id": 5862,
-    "title": "Dioses y perros",
-    "year": "2014",
-    "duration": "84 minutos",
-    "director": "David Marqués",
-    "actors": [
-      {
-        "name": "Hugo Silva",
-        "photo": "https://image.tmdb.org/t/p/w185/aMhffSrBefGQstniOtsJf3kEfNH.jpg"
-      },
-      {
-        "name": "Megan Montaner",
-        "photo": "https://image.tmdb.org/t/p/w185/e765CPp0w9L1lo9081U5bBMr0pq.jpg"
-      },
-      {
-        "name": "Enrique Arce",
-        "photo": "https://image.tmdb.org/t/p/w185/1lACQepfukuZ0l6FnUpMO03WxcJ.jpg"
-      },
-      {
-        "name": "Juan Codina",
-        "photo": "https://image.tmdb.org/t/p/w185/8Gx6QOZu0M7WYX7utQW615hZRvh.jpg"
-      },
-      {
-        "name": "Víctor Palmero",
-        "photo": "https://image.tmdb.org/t/p/w185/aGrtparCil4wnxSMmwfwQpYXKl5.jpg"
-      }
-    ],
-    "genre": "Drama",
-    "rating": "6.3",
-    "telegramLink": "https://t.me/c/2474087426/5862",
-    "fileMessageId": "https://t.me/c/2474087426/5863",
-    "fileName": "Dioses_y_perros_720p25.0fps_2675.mp4",
-    "fileSize": "1,43 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Pasca, está inmerso en una vida gris que se ha autoimpuesto a causa de un sentimiento de culpa que le corroe el alma. Pasa sus días cuidando de su hermano minusválido, recibiendo golpes como sparring e intentando ayudar a Fonsi, su mejor amigo, un exboxeador alcohólico que malvive al borde del abismo con una mujer y un hijo que cuidar.  Anclado en la crisis y la falta de esperanza, tratará de despertar de su pesadilla, ante la irrupción en su vida de Adela, una joven profesora que llega al barrio y le hace volver a ver las cosas de una manera más optimista. Pero los problemas con Toni y, sobretodo, con Fonsi le situarán en una difícil encrucijada que cambiará su vida para siempre. Y la de los que lo rodean.",
-    "cover": "https://image.tmdb.org/t/p/w500/tOROjGAl6OMUVjvMuD2OYyM0Yiq.jpg",
-    "trailerKey": null
   },
   {
     "id": 5880,
@@ -69748,46 +69228,6 @@
     "trailerKey": null
   },
   {
-    "id": 7053,
-    "title": "Asesinato en la Embajada",
-    "year": "2025",
-    "duration": "83 minutos",
-    "director": "Stephen Shimek",
-    "actors": [
-      {
-        "name": "Mischa Barton",
-        "photo": "https://image.tmdb.org/t/p/w185/j3eZsKKIz4uWdVwAvokv8GHU21w.jpg"
-      },
-      {
-        "name": "Richard Dillane",
-        "photo": "https://image.tmdb.org/t/p/w185/4DVdlTFkhPlERFyFoeH6UoXb2un.jpg"
-      },
-      {
-        "name": "Mido Hamada",
-        "photo": "https://image.tmdb.org/t/p/w185/iSQsrTcaMu4agVwRWfMpUTrwBzL.jpg"
-      },
-      {
-        "name": "Antonia Bernath",
-        "photo": "https://image.tmdb.org/t/p/w185/l5n1gHjleDAvOymkyGjUU5SJikt.jpg"
-      },
-      {
-        "name": "Kojo Attah",
-        "photo": "https://image.tmdb.org/t/p/w185/xtE8Nd5sVskymf3haYUWixFwv4g.jpg"
-      }
-    ],
-    "genre": "Misterio, Suspense, Acción",
-    "rating": "6.1",
-    "telegramLink": "https://t.me/c/2474087426/7053",
-    "fileMessageId": "https://t.me/c/2474087426/7054",
-    "fileName": "Murder At The Embassy (2025).mp4",
-    "fileSize": "1,52 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "1934. Miranda Green, detective privada, investiga un asesinato perpetrado en la embajada británica en El Cairo, donde se robó un documento de alto secreto, con el riesgo de poner en peligro el Palacio de Buckingham y la paz del mundo.",
-    "cover": "https://image.tmdb.org/t/p/w500/vW5pt7wPbY2mtsGd26IqV39zRJa.jpg",
-    "trailerKey": "sgohJhg82bc"
-  },
-  {
     "id": 7056,
     "title": "La deuda",
     "year": "2025",
@@ -72706,46 +72146,6 @@
     "plot": "En una Sudáfrica todavía atormentada por el apartheid, una pareja de policías persigue al asesino de una joven adolescente. Desde los townships de Ciudad del Cabo hasta las lujosas residencias a orillas del mar, esta investigación transformará la vida de los dos hombres y les obligará a enfrentarse a sus propios demonios internos.",
     "cover": "https://image.tmdb.org/t/p/w500/tiUz19JcHrceMpfpuVXyWjKPqXT.jpg",
     "trailerKey": null
-  },
-  {
-    "id": 7362,
-    "title": "Disobedience",
-    "year": "2018",
-    "duration": "114 minutos",
-    "director": "Sebastián Lelio",
-    "actors": [
-      {
-        "name": "Rachel Weisz",
-        "photo": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
-      },
-      {
-        "name": "Rachel McAdams",
-        "photo": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
-      },
-      {
-        "name": "Alessandro Nivola",
-        "photo": "https://image.tmdb.org/t/p/w185/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
-      },
-      {
-        "name": "Allan Corduner",
-        "photo": "https://image.tmdb.org/t/p/w185/9bZTEBUjY02UeooNnghZXxKfiO7.jpg"
-      },
-      {
-        "name": "Anton Lesser",
-        "photo": "https://image.tmdb.org/t/p/w185/x0lmqgkmphvOCSTHk2oxsaxA9Ra.jpg"
-      }
-    ],
-    "genre": "Drama, Romance",
-    "rating": "6.9",
-    "telegramLink": "https://t.me/c/2474087426/7362",
-    "fileMessageId": "https://t.me/c/2474087426/7363",
-    "fileName": "Disobedience (Desobediencia) (2017).castellano.mp4",
-    "fileSize": "1,04 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Una mujer que se crió en una familia ortodoxa judía regresa a su hogar con motivo de la muerte de su padre rabino. La controversia no tardará en aparecer cuando ella comienza a mostrar interés por una vieja amiga del colegio.",
-    "cover": "https://image.tmdb.org/t/p/w500/zx1dOX2uNDJyIeEYzsFLmXJaOwA.jpg",
-    "trailerKey": "dEkPnie5hSI"
   },
   {
     "id": 7365,
@@ -84666,46 +84066,6 @@
     "plot": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical.",
     "cover": "https://image.tmdb.org/t/p/w500/4xC5IfnCekweHkTFjqQsMOC1gca.jpg",
     "trailerKey": "CuuwDNp5ymw"
-  },
-  {
-    "id": 8571,
-    "title": "Tenías que ser tú",
-    "year": "2010",
-    "duration": "100 minutos",
-    "director": "Anand Tucker",
-    "actors": [
-      {
-        "name": "Amy Adams",
-        "photo": "https://image.tmdb.org/t/p/w185/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg"
-      },
-      {
-        "name": "Matthew Goode",
-        "photo": "https://image.tmdb.org/t/p/w185/3XaKKl0bKswTWbJ0Lh9nZ4UdAQo.jpg"
-      },
-      {
-        "name": "Adam Scott",
-        "photo": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
-      },
-      {
-        "name": "John Lithgow",
-        "photo": "https://image.tmdb.org/t/p/w185/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
-      },
-      {
-        "name": "Noel O'Donovan",
-        "photo": "https://image.tmdb.org/t/p/w185/i7VJjVklFhOah8pWuCHljsxCnKf.jpg"
-      }
-    ],
-    "genre": "Romance, Comedia",
-    "rating": "6.9",
-    "telegramLink": "https://t.me/c/2474087426/8571",
-    "fileMessageId": "https://t.me/c/2474087426/8572",
-    "fileName": "Tenías que ser tú.mp4",
-    "fileSize": "1,22 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Una joven enamorada va a Dublín para pedirle a su novio que se case con ella. Lo hará siguiendo una tradición irlandesa, según la cual solo un día cada cuatro años -el 29 de febrero- una mujer puede proponer matrimonio a su novio con la certeza de que no será rechazada. Sin embargo, durante el viaje, una circunstancia imprevista la obligará a pedir ayuda a un rudo mesonero irlandés con el que tendrá que caminar campo a través si quiere llegar a tiempo para hacer su propuesta de matrimonio.",
-    "cover": "https://image.tmdb.org/t/p/w500/2L08IJ71wZf1CKcQAKHJVayzFVL.jpg",
-    "trailerKey": null
   },
   {
     "id": 8574,
@@ -104397,46 +103757,6 @@
     "plot": "Enfrentamiento entre un duro policía y un inteligente atracador durante un tenso secuestro con rehenes en un banco de Manhattan. Según se desarrolla el peligroso juego del gato y el ratón, aparece una tercera persona que ha sido contratada por el influyente propietario del banco. Se trata de Madaline, una poderosa bróker que tiene una agenda secreta.",
     "cover": "https://image.tmdb.org/t/p/w500/9OOdwNcAzT8qRgX3MWj4OKe0Gku.jpg",
     "trailerKey": "4uc0qJm3iW4"
-  },
-  {
-    "id": 10170,
-    "title": "Molly's Game",
-    "year": "2017",
-    "duration": "141 minutos",
-    "director": "Aaron Sorkin",
-    "actors": [
-      {
-        "name": "Jessica Chastain",
-        "photo": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
-      },
-      {
-        "name": "Idris Elba",
-        "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
-      },
-      {
-        "name": "Kevin Costner",
-        "photo": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
-      },
-      {
-        "name": "Michael Cera",
-        "photo": "https://image.tmdb.org/t/p/w185/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
-      },
-      {
-        "name": "Jeremy Strong",
-        "photo": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
-      }
-    ],
-    "genre": "Drama, Crimen",
-    "rating": "7.2",
-    "telegramLink": "https://t.me/c/2474087426/10170",
-    "fileMessageId": "https://t.me/c/2474087426/10171",
-    "fileName": "Molly's Game (2017).mp4",
-    "fileSize": "1,67 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Molly Bloom, tras perder su oportunidad de entrar en el equipo Olímpico de ski, comienza la carrera de derecho. Una cadena de raras circunstancias, hicieron que Bloom terminase ganando millones de dólares dirigiendo, una de las timbas de póker más famosas del mundo. Su negocio se truncó cuando el FBI entró armado durante una de sus partidas.",
-    "cover": "https://image.tmdb.org/t/p/w500/s5HRzV7wlVIfzDJdgqBo7flPQT7.jpg",
-    "trailerKey": "e3U3TrLo3tQ"
   },
   {
     "id": 10173,
@@ -168286,46 +167606,6 @@
     "trailerKey": "D5RocFvgb7U"
   },
   {
-    "id": 15360,
-    "title": "Ruby Sparks",
-    "year": "2012",
-    "duration": "104 minutos",
-    "director": "Jonathan Dayton",
-    "actors": [
-      {
-        "name": "Paul Dano",
-        "photo": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
-      },
-      {
-        "name": "Zoe Kazan",
-        "photo": "https://image.tmdb.org/t/p/w185/rCJxFVtkyNUVTVCWYd6chx2Q19g.jpg"
-      },
-      {
-        "name": "Chris Messina",
-        "photo": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
-      },
-      {
-        "name": "Annette Bening",
-        "photo": "https://image.tmdb.org/t/p/w185/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
-      },
-      {
-        "name": "Antonio Banderas",
-        "photo": "https://image.tmdb.org/t/p/w185/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
-      }
-    ],
-    "genre": "Comedia, Romance, Fantasía, Drama",
-    "rating": "7.1",
-    "telegramLink": "https://t.me/c/2474087426/15360",
-    "fileMessageId": "https://t.me/c/2474087426/15361",
-    "fileName": "Ruby_Sparks_2012_Spanish_English_Subs_HD_720p_x264_AC3_by_Geot_emulesonic.mkv",
-    "fileSize": "2,14 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Los directores de \"Little Miss Sunshine\" relatan la historia de un escritor que se enamora de uno de sus personajes femeninos. Calvin Weir-Fields (Paul Dano) había sido un niño-prodigio, cuya primera novela había tenido un gran éxito. Pero, desde entonces, sufre un sistemático bloqueo creativo agravado por su deprimente vida amorosa. Finalmente, consigue crear un personaje femenino, Ruby Sparks (Zoe Kazan), que acaba materializándose y compartiendo la vida con él.",
-    "cover": "https://image.tmdb.org/t/p/w500/24WS7r2SOG0zJQs4NpYXztkPiy5.jpg",
-    "trailerKey": "6cQODwif8VY"
-  },
-  {
     "id": 15363,
     "title": "Monkeybone",
     "year": "2001",
@@ -169124,46 +168404,6 @@
     "plot": "Tras quebrar el negocio de mudanzas en el que trabajaban, tres amigos del barrio obrero de San Blas se quedan en paro y tienen que comenzar a buscarse la vida. Después de intentarlo todo, un anuncio en el periódico solicitando hombres dispuestos a hacer striptease es su última oportunidad, aunque pronto descubrirán que lo que realmente se oculta tras el anuncio es un negocio de prostitución.",
     "cover": "https://image.tmdb.org/t/p/w500/yMSK44zKhpROXyNM8mXpc6LQIzr.jpg",
     "trailerKey": null
-  },
-  {
-    "id": 15423,
-    "title": "DiDi Hollywood",
-    "year": "2010",
-    "duration": "102 minutos",
-    "director": "Bigas Luna",
-    "actors": [
-      {
-        "name": "Elsa Pataky",
-        "photo": "https://image.tmdb.org/t/p/w185/fsA7hxz70SVvCm8dZuAGvBHtVDF.jpg"
-      },
-      {
-        "name": "Peter Coyote",
-        "photo": "https://image.tmdb.org/t/p/w185/AglpxXP9wBM567UMGL9DAMbid1V.jpg"
-      },
-      {
-        "name": "Paul Sculfor",
-        "photo": null
-      },
-      {
-        "name": "Giovanna Zacarías",
-        "photo": "https://image.tmdb.org/t/p/w185/hyw0Bd8kKkAXNG008R8NVkNCgEx.jpg"
-      },
-      {
-        "name": "Luis Hacha",
-        "photo": "https://image.tmdb.org/t/p/w185/txKKho4lsN5l0TK2j3r3Ia9M8Cw.jpg"
-      }
-    ],
-    "genre": "Drama",
-    "rating": "3.9",
-    "telegramLink": "https://t.me/c/2474087426/15423",
-    "fileMessageId": "https://t.me/c/2474087426/15424",
-    "fileName": "DIDI HOLLYWOOD (2010) HD SPAIN.mp4",
-    "fileSize": "1,76 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Diana Díaz, una bella y ambiciosa joven que sueña con ser actriz y triunfar en la meca del cine, está dispuesta a dejarse la piel para conseguirlo. Harta de trabajar sirviendo copas en una discoteca, decide irse a Miami a probar suerte. Pero tampoco allí las cosas son fáciles: sufre hambre, soledad y sobrevive fregando platos en la grasienta cocina de un restaurante cubano. Sin embargo, gracias a su trabajo, conoce a Nora, una cantante aventurera con la que entabla una gran amistad, y a Robert, un ayudante de dirección mexicano que se enamora perdidamente de ella. Los tres juntos deciden ir a Hollywood. A pesar de que su vida cambia radicalmente, aprenden una gran lección: lo peor que puede sucedernos es que nuestros deseos se hagan realidad.",
-    "cover": "https://image.tmdb.org/t/p/w500/vqHziiSg3Ps7E9TqCxgPIsp66bN.jpg",
-    "trailerKey": "E0gYXE0Wyxo"
   },
   {
     "id": 15426,
@@ -171244,46 +170484,6 @@
     "plot": "En una pequeña ciudad del estado de Tennessee se juzga a un profesor por enseñar a sus alumnos la teoría de la evolución de las especies. El darwinismo se enfrenta a una burda y fundamentalista teoría del creacionismo en una explosiva batalla judicial entre el abogado defensor Henry Drummond (Tracy) y el líder ultraconservador Matthew Harrison Brady (March). Basada en hechos reales.",
     "cover": "https://image.tmdb.org/t/p/w500/upW1VQj2rvwjvI8a34UU3BoXKzW.jpg",
     "trailerKey": null
-  },
-  {
-    "id": 15585,
-    "title": "La fiesta",
-    "year": "2003",
-    "duration": "97 minutos",
-    "director": "Manuel Sanabria",
-    "actors": [
-      {
-        "name": "Raúl Prieto",
-        "photo": "https://image.tmdb.org/t/p/w185/osXhdIeQ44FTJIOOtJfP2yQ15tA.jpg"
-      },
-      {
-        "name": "Norma Ruiz",
-        "photo": "https://image.tmdb.org/t/p/w185/mvVp4pL3G1Uf0DoWoXfwkVLb7rA.jpg"
-      },
-      {
-        "name": "César Camino",
-        "photo": "https://image.tmdb.org/t/p/w185/mvSL1xfpKP2re0OkkxR9A4a46RR.jpg"
-      },
-      {
-        "name": "David García Palencia",
-        "photo": "https://image.tmdb.org/t/p/w185/j4kUfPt5S12tr8M6ebXgIUDuyy0.jpg"
-      },
-      {
-        "name": "Alexandra Jiménez",
-        "photo": "https://image.tmdb.org/t/p/w185/wkVjpWajYRV1Bj7OyJmmFcb5ixF.jpg"
-      }
-    ],
-    "genre": "Comedia",
-    "rating": "6.2",
-    "telegramLink": "https://t.me/c/2474087426/15585",
-    "fileMessageId": "https://t.me/c/2474087426/15586",
-    "fileName": "La Fiesta - 2003 - DVDRemux - CENTURYON.mp4",
-    "fileSize": "3,46 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Tres jóvenes comparten piso en Madrid: Javi, Chemita (amigos desde niños) y Luna (la prima de Chemita). Un fin de semana deciden hacer una fiesta, y enseguida se apuntan Carmelo, el novio de Luna (un garrulo de libro) y Tripi, ex compañero de piso de Chemita y Javi. Lo que ninguno adivina es que ese fin de semana les sucederán un montón de cosas y nada volverá a ser como antes. Tres días llenos de enredos y locura que, inesperadamente, llevarán un poco de sensatez a sus vidas",
-    "cover": "https://image.tmdb.org/t/p/w500/vACVNHDJnqMutigTSqghXOjizLq.jpg",
-    "trailerKey": "lgZcVCn2oNQ"
   },
   {
     "id": 15588,
@@ -173444,5 +172644,1721 @@
     "plot": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
     "cover": "https://image.tmdb.org/t/p/w500/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
     "trailerKey": "zTOmwZRmVBs"
+  },
+  {
+    "id": 15750,
+    "title": "Veneno en la Piel",
+    "year": "1993",
+    "duration": "89 minutos",
+    "director": "Alan Shapiro",
+    "actors": [
+      {
+        "name": "Cary Elwes",
+        "photo": "https://image.tmdb.org/t/p/w185/9UszBdQJ9PmyBydIeIBxlStozhW.jpg"
+      },
+      {
+        "name": "Alicia Silverstone",
+        "photo": "https://image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+      },
+      {
+        "name": "Jennifer Rubin",
+        "photo": "https://image.tmdb.org/t/p/w185/vftRV5P4OQ4D9TBTmCoNDgmqyBp.jpg"
+      },
+      {
+        "name": "Kurtwood Smith",
+        "photo": "https://image.tmdb.org/t/p/w185/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+      },
+      {
+        "name": "Amber Benson",
+        "photo": "https://image.tmdb.org/t/p/w185/vEBdN1BhSOG2pCZPpCb6dgj6Wer.jpg"
+      }
+    ],
+    "genre": "Suspense, Drama",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/15750",
+    "fileMessageId": "https://t.me/c/2474087426/15751",
+    "fileName": "Veneno_en_la_piel_The_Crush_1993_BluRay_1080p_x265_Spa_Eng_.mp4",
+    "fileSize": "2,38 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "El periodista Nick Elliot (Cary Elwes) alquila una habitación a un matrimonio adinerado. La hija de la pareja, Darien (Alicia Silverstone), de sólo 14 años, se fija en él y empieza a flirtear con él. El rechazo del joven hacia la sexy muchacha hace que ésta se obsesione peligrosamente con él.",
+    "cover": "https://image.tmdb.org/t/p/w500/dRRtsU5tBWZtExLwMainZosIyFs.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15753,
+    "title": "Sister Act (Una monja de cuidado)",
+    "year": "1992",
+    "duration": "100 minutos",
+    "director": "Emile Ardolino",
+    "actors": [
+      {
+        "name": "Whoopi Goldberg",
+        "photo": "https://image.tmdb.org/t/p/w185/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
+      },
+      {
+        "name": "Maggie Smith",
+        "photo": "https://image.tmdb.org/t/p/w185/hjoWy2WB7RayROumynH3wuCa9aL.jpg"
+      },
+      {
+        "name": "Kathy Najimy",
+        "photo": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+      },
+      {
+        "name": "Wendy Makkena",
+        "photo": "https://image.tmdb.org/t/p/w185/jCyXotschlGZ4Si1b9m1cbkV1oo.jpg"
+      },
+      {
+        "name": "Mary Wickes",
+        "photo": "https://image.tmdb.org/t/p/w185/qbvnoLQH1yunVR54nRNSDM8cdwa.jpg"
+      }
+    ],
+    "genre": "Música, Comedia",
+    "rating": "6.8",
+    "telegramLink": "https://t.me/c/2474087426/15753",
+    "fileMessageId": "https://t.me/c/2474087426/15754",
+    "fileName": "Sister Una Monja De Cuidado.@CineNcasaa.mkv",
+    "fileSize": "3,08 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Deloris Van Cartier es una mediocre cantante de cabaret. Su amante Vince ha cometido un crimen, y ella decide acogerse al programa policial de protección de testigos. Así, Deloris consigue una nueva identidad como monja en un convento que, tan sólo con su presencia, perderá su habitual tranquilidad.",
+    "cover": "https://image.tmdb.org/t/p/w500/yPBlWxugSoQMcm05TPwsELq110n.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15756,
+    "title": "Rebelde sin causa",
+    "year": "1955",
+    "duration": "111 minutos",
+    "director": "Nicholas Ray",
+    "actors": [
+      {
+        "name": "James Dean",
+        "photo": "https://image.tmdb.org/t/p/w185/75apPPzS3S2Locr188241hGUiYm.jpg"
+      },
+      {
+        "name": "Natalie Wood",
+        "photo": "https://image.tmdb.org/t/p/w185/6me9oS7GV1VjejWV61XD6y7fVA1.jpg"
+      },
+      {
+        "name": "Sal Mineo",
+        "photo": "https://image.tmdb.org/t/p/w185/glfs6BXlFIMprrJSuiT74VzJIOJ.jpg"
+      },
+      {
+        "name": "Jim Backus",
+        "photo": "https://image.tmdb.org/t/p/w185/y2vIKLpjYlIo80sc5uvIpqEHn5n.jpg"
+      },
+      {
+        "name": "Ann Doran",
+        "photo": "https://image.tmdb.org/t/p/w185/t6q0svIGjotyJQgxr74pKz6462g.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "7.5",
+    "telegramLink": "https://t.me/c/2474087426/15756",
+    "fileMessageId": "https://t.me/c/2474087426/15757",
+    "fileName": "Rebelde_sin_causa_1955,_Nicholas_Ray_Spanish_English_Subs_HD_1080p.mkv",
+    "fileSize": "3,46 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Tres jóvenes, Jim Stark, Judy y Platón, coinciden en una comisaría. Cada uno está allí por un motivo distinto: Jim está borracho, Judy se ha escapado de su casa y Platón acababa de matar a tiros a unos cachorros. El inspector Ray descubre que los tres mantienen una relación conflictiva con sus familias. A Jim y a Judy los van a recoger sus padres, pero Platón, hijo de una pareja divorciada, tiene que conformarse con la visita de la criada negra que vive con él.",
+    "cover": "https://image.tmdb.org/t/p/w500/eGFnAAtyeLyHRGIfSfP1btWkK33.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15759,
+    "title": "La magia de los Parchís",
+    "year": "1982",
+    "duration": "90 minutos",
+    "director": "Mario Sábato",
+    "actors": [
+      {
+        "name": "Francisco 'Frank' Díaz",
+        "photo": "https://image.tmdb.org/t/p/w185/L2YoO3BKbAWLZTGERhaIOsQKWU.jpg"
+      },
+      {
+        "name": "Gemma Termes Prat",
+        "photo": "https://image.tmdb.org/t/p/w185/ztrQGAtCuGvMLLIASCdgJtVxvj5.jpg"
+      },
+      {
+        "name": "David Muñoz",
+        "photo": "https://image.tmdb.org/t/p/w185/9Dznxl9QNkQf7YyI8tx85sAVqdd.jpg"
+      },
+      {
+        "name": "Constantino 'Tino' Fernández",
+        "photo": null
+      }
+    ],
+    "genre": "Familia, Música, Aventura",
+    "rating": "5.2",
+    "telegramLink": "https://t.me/c/2474087426/15759",
+    "fileMessageId": "https://t.me/c/2474087426/15760",
+    "fileName": "La_magia_de_los_Parchís_1982_Spanish_WEB_DL_1080p_x264_EAC3.mkv",
+    "fileSize": "3,66 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Parchís se enfrasca en esta nueva aventura ayudando a recuperar la confianza a un mago que se ha retirado a causa de un espectáculo que ha resultado fallido y le ha supuesto un fracaso personal.",
+    "cover": "https://image.tmdb.org/t/p/w500/gBtQE12RP0wvqjiNwk6PWTUmZm5.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15762,
+    "title": "La isla misteriosa de Julio Verne",
+    "year": "2005",
+    "duration": "172 minutos",
+    "director": "Russell Mulcahy",
+    "actors": [
+      {
+        "name": "Kyle MacLachlan",
+        "photo": "https://image.tmdb.org/t/p/w185/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+      },
+      {
+        "name": "Danielle Calvert",
+        "photo": null
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "photo": "https://image.tmdb.org/t/p/w185/v0zVLAM7kv7ZP0j95HWfNPr1fvp.jpg"
+      },
+      {
+        "name": "Patrick Stewart",
+        "photo": "https://image.tmdb.org/t/p/w185/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+      },
+      {
+        "name": "Jason Durr",
+        "photo": "https://image.tmdb.org/t/p/w185/tnJGTrCYTJYXHT6WNw6GKU9XoKh.jpg"
+      }
+    ],
+    "genre": "Acción, Aventura, Fantasía, Ciencia ficción, Drama",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/15762",
+    "fileMessageId": "https://t.me/c/2474087426/15763",
+    "fileName": "La isla misteriosa de Julio Verne (2005)[by Erpiyo].mkv",
+    "fileSize": "2,07 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un grupo de prisioneros de la Guerra de Secesión americana se encuentra con una misteriosa isla que parece haber quedado atrapada en la prehistoria. Allí, tienen un encuentro inesperado con el excéntrico capitán Nemo, quien se convierte en su anfitrión en este lugar sorprendente. La isla les presenta una oportunidad única para explorar y descubrir nuevos horizontes, pero también les plantea grandes desafíos y peligros que deben superar. ¿Lograrán estos prisioneros encontrar la libertad en este extraño y fascinante lugar?",
+    "cover": "https://image.tmdb.org/t/p/w500/1CcsJ5Et60tkKCtiOAF7tckcEZo.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15765,
+    "title": "Cristiada",
+    "year": "2012",
+    "duration": "145 minutos",
+    "director": "Dean Wright",
+    "actors": [
+      {
+        "name": "Eva Longoria",
+        "photo": "https://image.tmdb.org/t/p/w185/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+      },
+      {
+        "name": "Andy Garcia",
+        "photo": "https://image.tmdb.org/t/p/w185/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+      },
+      {
+        "name": "Oscar Isaac",
+        "photo": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+      },
+      {
+        "name": "Peter O'Toole",
+        "photo": "https://image.tmdb.org/t/p/w185/7HzyrEuRVPpjmyJTeiU5oILd3Cn.jpg"
+      },
+      {
+        "name": "Rubén Blades",
+        "photo": "https://image.tmdb.org/t/p/w185/kOgVo3qDJ9jXgIZJRJI3I1bm6sA.jpg"
+      }
+    ],
+    "genre": "Historia, Drama, Acción, Bélica",
+    "rating": "6.8",
+    "telegramLink": "https://t.me/c/2474087426/15765",
+    "fileMessageId": "https://t.me/c/2474087426/15766",
+    "fileName": "Cristiada (2012).mp4",
+    "fileSize": "3,19 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Esta película se ubica en el tiempo presidencial de Plutarco Elías Calles, justamente unos años después de la revolución mexicana, en donde este presidente buscaba la represión religiosa castigando así a todos los sacerdotes y practicantes, en un intento por eliminarlos. En un principio crea leyes donde dice que no pueden hacer publicas sus practicas o vestimentas, pero en cuanto la otra parte no esta conforme con esto y se niega a obedecer este mandato se comienza a usar la fuerza bruta, fusilando y torturando a estas personas para dar el “ejemplo” y que la gente lo deje de hacer.",
+    "cover": "https://image.tmdb.org/t/p/w500/tedXuy1anekSC5sqA5o3R75IVPI.jpg",
+    "trailerKey": "J4R205D3SMY"
+  },
+  {
+    "id": 15768,
+    "title": "Interiores",
+    "year": "1978",
+    "duration": "93 minutos",
+    "director": "Woody Allen",
+    "actors": [
+      {
+        "name": "Geraldine Page",
+        "photo": "https://image.tmdb.org/t/p/w185/5G8uNYzNtEMBSnOUUs6ms1JcOJj.jpg"
+      },
+      {
+        "name": "Kristin Griffith",
+        "photo": "https://image.tmdb.org/t/p/w185/t0jwm5HlDYwKMasMLXig5ztFzWm.jpg"
+      },
+      {
+        "name": "Mary Beth Hurt",
+        "photo": "https://image.tmdb.org/t/p/w185/ccHTKovYUWfEaCqHGlr4JKLOMbE.jpg"
+      },
+      {
+        "name": "Richard Jordan",
+        "photo": "https://image.tmdb.org/t/p/w185/qrrpdZYy6cLLBUrrA6AqyWJKa0w.jpg"
+      },
+      {
+        "name": "Diane Keaton",
+        "photo": "https://image.tmdb.org/t/p/w185/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.8",
+    "telegramLink": "https://t.me/c/2474087426/15768",
+    "fileMessageId": "https://t.me/c/2474087426/15769",
+    "fileName": "Interiores (1978) cas..mp4",
+    "fileSize": "1,99 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Eve, una mujer que ha sido abandonada por su marido, se reúne con sus tres hijas para tratar de afrontar la situación. Ella se encuentra en un momento crítico, pero sus hijas también tienen sus propios problemas, algunos de ellos derivados del poco cariño que han recibido de su madre. Las emociones se desbordan cuando el marido se presenta en la casa familiar acompañado de la mujer con la que quiere casarse.",
+    "cover": "https://image.tmdb.org/t/p/w500/7g3jNm4cMdV8nzduScybSx41bDb.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15771,
+    "title": "Sirenas",
+    "year": "1990",
+    "duration": "110 minutos",
+    "director": "Richard Benjamin",
+    "actors": [
+      {
+        "name": "Cher",
+        "photo": "https://image.tmdb.org/t/p/w185/yDglV70XMu2cBWZigp5Jxd4etfv.jpg"
+      },
+      {
+        "name": "Bob Hoskins",
+        "photo": "https://image.tmdb.org/t/p/w185/qOeE7bVHAsNTbP77Qk6TwrrWHZc.jpg"
+      },
+      {
+        "name": "Winona Ryder",
+        "photo": "https://image.tmdb.org/t/p/w185/8RVrlgtua8b53wmK7oZAAkm0N5O.jpg"
+      },
+      {
+        "name": "Michael Schoeffling",
+        "photo": "https://image.tmdb.org/t/p/w185/sTsceqPYxcxGbtNEF65oerKVHvn.jpg"
+      },
+      {
+        "name": "Christina Ricci",
+        "photo": "https://image.tmdb.org/t/p/w185/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+      }
+    ],
+    "genre": "Comedia, Drama, Romance",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/15771",
+    "fileMessageId": "https://t.me/c/2474087426/15772",
+    "fileName": "Sirenas (1990).mp4",
+    "fileSize": "2,75 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Cada vez que tiene un desengaño amoroso, Rachel cambia de ciudad. Sus hijas, Charlotte y Kate, ya están hartas de mudanzas. Cuando llegan a East Port, la mayor se enamora de Joe, el vigilante de un convento. Por su parte, la madre conoce a Lou Landsky, el dueño de una zapatería con quien empieza una prometedora relación.",
+    "cover": "https://image.tmdb.org/t/p/w500/qYghTXdIHx40PMzDL9Tr2aImpGe.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15774,
+    "title": "Un lío padre",
+    "year": "1997",
+    "duration": "99 minutos",
+    "director": "Ivan Reitman",
+    "actors": [
+      {
+        "name": "Robin Williams",
+        "photo": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+      },
+      {
+        "name": "Billy Crystal",
+        "photo": "https://image.tmdb.org/t/p/w185/jfcCceTnP7rrHz1pSjCxiqRosw3.jpg"
+      },
+      {
+        "name": "Julia Louis-Dreyfus",
+        "photo": "https://image.tmdb.org/t/p/w185/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+      },
+      {
+        "name": "Nastassja Kinski",
+        "photo": "https://image.tmdb.org/t/p/w185/1o5i8C3eX612uky7fAI3YMGnaDF.jpg"
+      },
+      {
+        "name": "Charlie Hofheimer",
+        "photo": "https://image.tmdb.org/t/p/w185/9X9rK8v5JwYnjINXfOE0s6kHTTf.jpg"
+      }
+    ],
+    "genre": "Comedia, Familia",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/15774",
+    "fileMessageId": "https://t.me/c/2474087426/15775",
+    "fileName": "Un lío padre (1997).mp4",
+    "fileSize": "2,75 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Jack Lawrence en un prestigioso abogado de Los Angeles. Tiene un buen trabajo, una esposa encantadora, una casa agradable y un coche envidiable. Dale, en cambio, es un aspirante a escritor que lleva a duras penas una existencia precaria en San Francisco, es un manojo de nervios a punto de estallar. Sin embargo, desde la aparición de una ex-novia, que les cuenta a cada uno de ellos que podría ser el padre de su hijo adolescente que se ha fugado, sus vidas se cruzarán y juntos buscarán a ese hijo que cada uno de ellos cree que podría ser suyo.",
+    "cover": "https://image.tmdb.org/t/p/w500/33slMggzHbU5452DP60O5nM0DyX.jpg",
+    "trailerKey": "eskBK_76VKo"
+  },
+  {
+    "id": 15777,
+    "title": "El largo y cálido verano",
+    "year": "1958",
+    "duration": "115 minutos",
+    "director": "Martin Ritt",
+    "actors": [
+      {
+        "name": "Paul Newman",
+        "photo": "https://image.tmdb.org/t/p/w185/bP2fByqNR7BorsUNuD6nSm0u2vJ.jpg"
+      },
+      {
+        "name": "Joanne Woodward",
+        "photo": "https://image.tmdb.org/t/p/w185/exxVnvJM9oTT1zEjFhcEHidpQ6P.jpg"
+      },
+      {
+        "name": "Anthony Franciosa",
+        "photo": "https://image.tmdb.org/t/p/w185/zXzRQbzccIjSBQWlyspOvyZlcs8.jpg"
+      },
+      {
+        "name": "Orson Welles",
+        "photo": "https://image.tmdb.org/t/p/w185/e9lGmqQq3EsHeUQgQLByo275hcc.jpg"
+      },
+      {
+        "name": "Lee Remick",
+        "photo": "https://image.tmdb.org/t/p/w185/1MJSujFXBM3Rrq14FrLOXh2bq7a.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "7.0",
+    "telegramLink": "https://t.me/c/2474087426/15777",
+    "fileMessageId": "https://t.me/c/2474087426/15778",
+    "fileName": "El largo y cálido verano (1958).mp4",
+    "fileSize": "2,79 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Tras ser expulsado de una población acusado de haber provocado un incendio, Ben Quick llega a un pueblo y es contratado por Will Varner, dueño y señor del lugar. Melodrama sureño, basado en relatos de William Faulkner, que permitió a un jovencísimo Paul Newman demostrar que era mucho más que una cara bonita. En efecto, gracias a este papel consiguió ganar el prestigioso premio al mejor actor en el Festival de Cannes.",
+    "cover": "https://image.tmdb.org/t/p/w500/sSKmD1eOTxP4rxT8wTqSXWh1G9j.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15780,
+    "title": "Inmersión",
+    "year": "2018",
+    "duration": "111 minutos",
+    "director": "Wim Wenders",
+    "actors": [
+      {
+        "name": "James McAvoy",
+        "photo": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+      },
+      {
+        "name": "Alicia Vikander",
+        "photo": "https://image.tmdb.org/t/p/w185/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg"
+      },
+      {
+        "name": "Celyn Jones",
+        "photo": "https://image.tmdb.org/t/p/w185/7aDQ4sZDyWAhUx15jlPhQPm9apH.jpg"
+      },
+      {
+        "name": "Alexander Siddig",
+        "photo": "https://image.tmdb.org/t/p/w185/oETjmdGRXgahgwGue7k52ZwMs5x.jpg"
+      },
+      {
+        "name": "Alex Hafner",
+        "photo": "https://image.tmdb.org/t/p/w185/tL5Es3oQUvHayAuLCYLLNiaQjMG.jpg"
+      }
+    ],
+    "genre": "Drama, Suspense, Romance",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/15780",
+    "fileMessageId": "https://t.me/c/2474087426/15781",
+    "fileName": "Inmersión (2018).mp4",
+    "fileSize": "3,13 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "James More es un ingeniero hidráulico que ha sido tomado como rehén en Somalia por los terroristas yihadistas, que sospechan que es un espía británico. Danielle ‘Danny’ Flinders es una bio-matemática que trabaja en un proyecto de inmersión en las aguas más profundas de los océanos para demostrar su teoría sobre el origen de la vida en el planeta. Un año antes, James y Danny se conocieron en un aislado hotel de la costa atlántica francesa, donde ambos preparaban sus peligrosas misiones, y allí encontraron, el uno en el otro, al amor de sus vidas. Ahora, separados, Danny inicia su peligrosa inmersión al fondo del océano en Groenlandia sin saber si James sigue vivo.",
+    "cover": "https://image.tmdb.org/t/p/w500/eZaecd428OQyHbfYhNi5BAhHbsn.jpg",
+    "trailerKey": "AAaogmGdWfk"
+  },
+  {
+    "id": 15783,
+    "title": "The Visitor",
+    "year": "2008",
+    "duration": "104 minutos",
+    "director": "Tom McCarthy",
+    "actors": [
+      {
+        "name": "Richard Jenkins",
+        "photo": "https://image.tmdb.org/t/p/w185/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+      },
+      {
+        "name": "Haaz Sleiman",
+        "photo": "https://image.tmdb.org/t/p/w185/vhNbQ8BTP6wK2jArwv2bwbuN31t.jpg"
+      },
+      {
+        "name": "Danai Gurira",
+        "photo": "https://image.tmdb.org/t/p/w185/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+      },
+      {
+        "name": "Hiam Abbass",
+        "photo": "https://image.tmdb.org/t/p/w185/2cz9mO3qhUQeGdVHzWkS2Pwx94l.jpg"
+      },
+      {
+        "name": "Marian Seldes",
+        "photo": "https://image.tmdb.org/t/p/w185/farpPf0NJrZfdYJNnAmDlmhTURn.jpg"
+      }
+    ],
+    "genre": "Crimen, Drama, Música",
+    "rating": "7.1",
+    "telegramLink": "https://t.me/c/2474087426/15783",
+    "fileMessageId": "https://t.me/c/2474087426/15784",
+    "fileName": "The Visitor (2007).mp4",
+    "fileSize": "3,73 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Walter Vale, un profesor universitario de Connecticut que viaja a Nueva York, se ve envuelto en la vida de una joven pareja inmigrante a la que encuentra viviendo en su apartamento de Manhattan, un piso que apenas visita. Tarek, un músico Sirio, y Zainab, su novia senegalesa, viven allí porque alguien les ha alquilado el apartamento, haciéndose pasar por el dueño.",
+    "cover": "https://image.tmdb.org/t/p/w500/A417CyqOzqD1ylZc5LBzkpeI9jJ.jpg",
+    "trailerKey": "Q1e3OsQt0u0"
+  },
+  {
+    "id": 15786,
+    "title": "Mirada de ángel",
+    "year": "2001",
+    "duration": "102 minutos",
+    "director": "Luis Mandoki",
+    "actors": [
+      {
+        "name": "Jennifer Lopez",
+        "photo": "https://image.tmdb.org/t/p/w185/go2wwj8NGLYqKr7MdqbG3nLWICX.jpg"
+      },
+      {
+        "name": "Jim Caviezel",
+        "photo": "https://image.tmdb.org/t/p/w185/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
+      },
+      {
+        "name": "Jeremy Sisto",
+        "photo": "https://image.tmdb.org/t/p/w185/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+      },
+      {
+        "name": "Terrence Howard",
+        "photo": "https://image.tmdb.org/t/p/w185/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+      },
+      {
+        "name": "Sonia Braga",
+        "photo": "https://image.tmdb.org/t/p/w185/8NqF8pH836rfSlcI4ipmPH1NL2g.jpg"
+      }
+    ],
+    "genre": "Drama, Romance, Suspense",
+    "rating": "6.1",
+    "telegramLink": "https://t.me/c/2474087426/15786",
+    "fileMessageId": "https://t.me/c/2474087426/15787",
+    "fileName": "mirada_de_angel_2001_microhd_1080p.mkv",
+    "fileSize": "2,55 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Mientras persigue una noche a un sospechoso, la agente de la policía de Chicago Sharon Pogue (Jennifer Lopez) está a punto de caer en una mortal emboscada. Sin embargo es salvada por un personaje extraño y angustiado, Catch (Jim Caviezel), que desarma en el último instante al asesino. Ambos creen haberse visto con anterioridad y se enamoran. Más adelante se verán obligados a hacerle frente a sus respectivos secretos.",
+    "cover": "https://image.tmdb.org/t/p/w500/pM019uH0WwzecVihjPsxtLmk1j5.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15789,
+    "title": "La calle de la Media Luna",
+    "year": "1986",
+    "duration": "90 minutos",
+    "director": "Bob Swaim",
+    "actors": [
+      {
+        "name": "Sigourney Weaver",
+        "photo": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+      },
+      {
+        "name": "Michael Caine",
+        "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+      },
+      {
+        "name": "Patrick Kavanagh",
+        "photo": "https://image.tmdb.org/t/p/w185/uSgsKTLRMdxrvAUMbAfJNeMX07K.jpg"
+      },
+      {
+        "name": "Faith Kent",
+        "photo": "https://image.tmdb.org/t/p/w185/e1hh6YE04iA7SzyIpHK1j5QK5zO.jpg"
+      },
+      {
+        "name": "Ram John Holder",
+        "photo": "https://image.tmdb.org/t/p/w185/8lH3NEDXcIczKNwAPl6YmOBPGf2.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "5.0",
+    "telegramLink": "https://t.me/c/2474087426/15789",
+    "fileMessageId": "https://t.me/c/2474087426/15790",
+    "fileName": "La calle de la Media Luna (1986).mp4",
+    "fileSize": "2,62 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Ni su inteligencia ni su doctorado en filosofía y economía china le sirven a Lauren Slaughter para cubrir sus necesidades económicas, así que, finalmente, decide utilizar su último recurso, alquilar su belleza. Convertida en \"chica de compañía\", conoce a un influyente político, Lord Bulbeck.",
+    "cover": "https://image.tmdb.org/t/p/w500/wuniRMnRk66PtauYSpDQWdsGAaX.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15792,
+    "title": "Loco por ella",
+    "year": "2021",
+    "duration": "102 minutos",
+    "director": "Dani de la Orden",
+    "actors": [
+      {
+        "name": "Álvaro Cervantes",
+        "photo": "https://image.tmdb.org/t/p/w185/6RAiI4SXIMxLRM1RejLJzMPK7wa.jpg"
+      },
+      {
+        "name": "Susana Abaitua",
+        "photo": "https://image.tmdb.org/t/p/w185/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
+      },
+      {
+        "name": "Luis Zahera",
+        "photo": "https://image.tmdb.org/t/p/w185/4WEGXd6pOWHkAUcffJrg42BFPI3.jpg"
+      },
+      {
+        "name": "Aixa Villagrán",
+        "photo": "https://image.tmdb.org/t/p/w185/zJV1yUMWT5sTjhhkk1SazyrCMB1.jpg"
+      },
+      {
+        "name": "Txell Aixendri",
+        "photo": "https://image.tmdb.org/t/p/w185/zuTFfG65xExUYLpnfI5ndSVTgFQ.jpg"
+      }
+    ],
+    "genre": "Comedia, Romance",
+    "rating": "7.2",
+    "telegramLink": "https://t.me/c/2474087426/15792",
+    "fileMessageId": "https://t.me/c/2474087426/15793",
+    "fileName": "Loco por ella (2021).mp4",
+    "fileSize": "1,99 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Tras ingresar voluntariamente en el centro psiquiátrico donde reside la mujer de la que se ha enamorado, Adri descubre que salir de ahí no le resultará nada fácil.",
+    "cover": "https://image.tmdb.org/t/p/w500/mVcOR5f1bKhqSWWxViOfmOJ7aqc.jpg",
+    "trailerKey": "TvfIZU34is4"
+  },
+  {
+    "id": 15795,
+    "title": "50/50",
+    "year": "2011",
+    "duration": "100 minutos",
+    "director": "Jonathan Levine",
+    "actors": [
+      {
+        "name": "Joseph Gordon-Levitt",
+        "photo": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "photo": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+      },
+      {
+        "name": "Anna Kendrick",
+        "photo": "https://image.tmdb.org/t/p/w185/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "photo": "https://image.tmdb.org/t/p/w185/fmXhf4rJOrzc3QWwxVbNd7kP8wy.jpg"
+      },
+      {
+        "name": "Anjelica Huston",
+        "photo": "https://image.tmdb.org/t/p/w185/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+      }
+    ],
+    "genre": "Comedia, Drama",
+    "rating": "7.2",
+    "telegramLink": "https://t.me/c/2474087426/15795",
+    "fileMessageId": "https://t.me/c/2474087426/15796",
+    "fileName": "5050 (2011).mp4",
+    "fileSize": "3,16 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Adam es un joven de 27 años al que se le diagnostica un cáncer. Con la ayuda de su mejor amigo, su madre y una joven terapeuta de un centro de rehabilitación, Adam descubre cuáles son las cosas más importantes de la vida.",
+    "cover": "https://image.tmdb.org/t/p/w500/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg",
+    "trailerKey": "xpmVD3Jf4Ug"
+  },
+  {
+    "id": 15798,
+    "title": "The Informer",
+    "year": "2019",
+    "duration": "109 minutos",
+    "director": "Andrea Di Stefano",
+    "actors": [
+      {
+        "name": "Joel Kinnaman",
+        "photo": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+      },
+      {
+        "name": "Rosamund Pike",
+        "photo": "https://image.tmdb.org/t/p/w185/by7w5dAZImcaBjP7Mnf8Aa8MQA6.jpg"
+      },
+      {
+        "name": "Common",
+        "photo": "https://image.tmdb.org/t/p/w185/7Gk5L3rg6uZAGp7SWWTJRP32IJ3.jpg"
+      },
+      {
+        "name": "Ana de Armas",
+        "photo": "https://image.tmdb.org/t/p/w185/eDuBeSHV0R7vuCnHHXrfa7d7IfB.jpg"
+      },
+      {
+        "name": "Clive Owen",
+        "photo": "https://image.tmdb.org/t/p/w185/xlWpuLgwxMnZEVgV9OID1TkUNtP.jpg"
+      }
+    ],
+    "genre": "Drama, Crimen, Suspense",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/15798",
+    "fileMessageId": "https://t.me/c/2474087426/15799",
+    "fileName": "The Informer (2019).mp4",
+    "fileSize": "3,23 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "En Nueva York, el exconvicto Pete Koslow, relacionado con la mafia polaca, debe lidiar tanto con Klimek el General, su despiadado jefe, como con las retorcidas ambiciones de dos agentes federales, mientras intenta sobrevivir y proteger las vidas de sus seres queridos.",
+    "cover": "https://image.tmdb.org/t/p/w500/zIgwclVvD8HOgeY1yzQdZUoRbcy.jpg",
+    "trailerKey": "RSmuxxE2l18"
+  },
+  {
+    "id": 15801,
+    "title": "Al lado del enemigo",
+    "year": "2014",
+    "duration": "126 minutos",
+    "director": "Mark Schmidt",
+    "actors": [
+      {
+        "name": "Jonas Armstrong",
+        "photo": "https://image.tmdb.org/t/p/w185/7Ia8Dfhqa2bH43NeKSZiPZ9wHAF.jpg"
+      },
+      {
+        "name": "Hannah Tointon",
+        "photo": "https://image.tmdb.org/t/p/w185/hMSj0yZ8LzpSrJOIRgJujeuld0.jpg"
+      },
+      {
+        "name": "Ben Kingsley",
+        "photo": "https://image.tmdb.org/t/p/w185/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+      },
+      {
+        "name": "Simon Dutton",
+        "photo": null
+      },
+      {
+        "name": "Burn Gorman",
+        "photo": "https://image.tmdb.org/t/p/w185/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+      }
+    ],
+    "genre": "Acción, Drama, Historia, Bélica",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/15801",
+    "fileMessageId": "https://t.me/c/2474087426/15802",
+    "fileName": "Al_Lado_Del_Enemigo_2013_Spanish_English_Spanishsub_BDrip_720p_x264.mkv",
+    "fileSize": "2,84 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Inspirado en una historia real, narra cómo en los últimos meses de la II Guerra Mundial, en Hungría, un joven judío roba un uniforme nazi y se hace pasar por un oficial alemán para intentar salvar a su familia y a otros judíos.",
+    "cover": "https://image.tmdb.org/t/p/w500/fDXhVETCvbIRkZEYYDTR8XbYVZP.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15804,
+    "title": "Into the Woods",
+    "year": "2014",
+    "duration": "124 minutos",
+    "director": "Rob Marshall",
+    "actors": [
+      {
+        "name": "Anna Kendrick",
+        "photo": "https://image.tmdb.org/t/p/w185/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "photo": "https://image.tmdb.org/t/p/w185/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+      },
+      {
+        "name": "Lilla Crawford",
+        "photo": "https://image.tmdb.org/t/p/w185/t1C7cxnGztn0Y9jvZmE5t4sUngP.jpg"
+      },
+      {
+        "name": "Emily Blunt",
+        "photo": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+      },
+      {
+        "name": "Johnny Depp",
+        "photo": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+      }
+    ],
+    "genre": "Fantasía, Comedia",
+    "rating": "5.8",
+    "telegramLink": "https://t.me/c/2474087426/15804",
+    "fileMessageId": "https://t.me/c/2474087426/15805",
+    "fileName": "into.the.woods.2014.1080p.x264.ac3.mkv",
+    "fileSize": "3,26 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Versión moderna de varios cuentos de los hermanos Grimm que entrelaza las tramas de algunas historias seleccionadas y explora las consecuencias de los deseos y las inquietudes de los personajes. Un musical que sigue los cuentos clásicos de Cenicienta, Caperucita Roja, Jack y las judías mágicas y Rapunzel. Todos ellos se combinan en una historia original que protagonizan un panadero y su esposa, su deseo de formar una familia y su interacción con la bruja que les ha echado una maldición.",
+    "cover": "https://image.tmdb.org/t/p/w500/nf27raN8XSqYWAaaRFnlfU8uTws.jpg",
+    "trailerKey": "fEPCeIVrCWM"
+  },
+  {
+    "id": 15807,
+    "title": "Amor con preaviso",
+    "year": "2002",
+    "duration": "97 minutos",
+    "director": "Marc Lawrence",
+    "actors": [
+      {
+        "name": "Sandra Bullock",
+        "photo": "https://image.tmdb.org/t/p/w185/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+      },
+      {
+        "name": "Hugh Grant",
+        "photo": "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+      },
+      {
+        "name": "Dana Ivey",
+        "photo": "https://image.tmdb.org/t/p/w185/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+      },
+      {
+        "name": "Robert Klein",
+        "photo": "https://image.tmdb.org/t/p/w185/eZNiVyIMZSuyDmjIf7UaccpCJph.jpg"
+      },
+      {
+        "name": "Alicia Witt",
+        "photo": "https://image.tmdb.org/t/p/w185/vQ2McAjHjY3A7oDrPMx6aLSsvkW.jpg"
+      }
+    ],
+    "genre": "Romance, Comedia",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/15807",
+    "fileMessageId": "https://t.me/c/2474087426/15808",
+    "fileName": "2002 - Amor Con Preaviso - Castellano.mp4",
+    "fileSize": "2,47 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "El millonario George Wade no es capaz de hacer nada sin su asesora legal, Lucy Kelson. Las tareas de esta inteligente abogada son tantas que le han costado una úlcera y, además, no tiene tiempo ni para dormir. Lo que más la desespera es que el encantador George la trata casi como a una niñera. Tras un año a su servicio, Lucy ha decidido abandonar el trabajo. Aunque George trata de impedírselo, finalmente la deja ir con una condición: que encuentre una sustituta.",
+    "cover": "https://image.tmdb.org/t/p/w500/ogCLQfR9yMcbbrCRn6LESt2p7iD.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15810,
+    "title": "Ninette",
+    "year": "2005",
+    "duration": "118 minutos",
+    "director": "José Luis Garci",
+    "actors": [
+      {
+        "name": "Carlos Hipólito",
+        "photo": "https://image.tmdb.org/t/p/w185/9DgrnvitGxgfVhpBIByxiXBDJ7M.jpg"
+      },
+      {
+        "name": "Elsa Pataky",
+        "photo": "https://image.tmdb.org/t/p/w185/fsA7hxz70SVvCm8dZuAGvBHtVDF.jpg"
+      },
+      {
+        "name": "Enrique Villén",
+        "photo": "https://image.tmdb.org/t/p/w185/k9ZtWgntlwlMpW7LiijSwvRnuul.jpg"
+      },
+      {
+        "name": "Beatriz Carvajal",
+        "photo": "https://image.tmdb.org/t/p/w185/gGBoUwl1ZZVnzSz0EUnyZN0paC3.jpg"
+      },
+      {
+        "name": "Fernando Delgado",
+        "photo": "https://image.tmdb.org/t/p/w185/eEHJfb7O20XfIoquxsqsEGbG5sO.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "5.2",
+    "telegramLink": "https://t.me/c/2474087426/15810",
+    "fileMessageId": "https://t.me/c/2474087426/15811",
+    "fileName": "Ninette (2005).mp4",
+    "fileSize": "3,73 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Ninette Sánchez es una inteligente, sexy, graciosa y espontánea muchacha parisina que trabaja en las Galerías Lafayette. Con su naturalidad y belleza tiene enamorado al personal, sobre todo a Andrés, un humilde vendedor español que cae rendido a sus múltiples encantos.",
+    "cover": "https://image.tmdb.org/t/p/w500/pPmG4jJd8BMYPcJe3XxIIc5jvMe.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15813,
+    "title": "Destellos de genio",
+    "year": "2008",
+    "duration": "119 minutos",
+    "director": "Marc Abraham",
+    "actors": [
+      {
+        "name": "Greg Kinnear",
+        "photo": "https://image.tmdb.org/t/p/w185/iJezGc9XjY0DFPs00SypkuKImFK.jpg"
+      },
+      {
+        "name": "Lauren Graham",
+        "photo": "https://image.tmdb.org/t/p/w185/3leQVZnthAZwngH7HAD6T7qfsVu.jpg"
+      },
+      {
+        "name": "Dermot Mulroney",
+        "photo": "https://image.tmdb.org/t/p/w185/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg"
+      },
+      {
+        "name": "Jake Abel",
+        "photo": "https://image.tmdb.org/t/p/w185/ijog1BFmm4BgZGnScwoYJKkwAcO.jpg"
+      },
+      {
+        "name": "Daniel Roebuck",
+        "photo": "https://image.tmdb.org/t/p/w185/8HXirDk0o0b3wLdpZSG5tYj6kaT.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.6",
+    "telegramLink": "https://t.me/c/2474087426/15813",
+    "fileMessageId": "https://t.me/c/2474087426/15814",
+    "fileName": "Destellos de genio (2008).mp4",
+    "fileSize": "2,60 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Cuando Robert Kearns se entera de que todos los coches vienen equipados con un sistema de limpieza que él inventó y patentó, pero que no consiguió vender, interpone una demanda contra la industria del automóvil por apropiación indebida. Los Kearns son la típica familia americana de los años sesenta que vive a su manera el sueño americano: Bob, profesor universitario, se casó con Phyllis y tuvieron seis hijos antes de cumplir los cuarenta. Con el invento de Bob, los Kearns creyeron que podrían mejorar su situación económica, pero sus esperanzas se malograron. Cuando Bob emprendió una larga batalla legal contra los magnates del automóvil y empezó a recibir amenazas, se convirtió en un hombre dispuesto a demostrar que lo justo era que el trabajo de toda una vida fuera reconocido por quienes se benefician de él.",
+    "cover": "https://image.tmdb.org/t/p/w500/i9fQpVxtQiLReayzEfzaVrNRx0V.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15816,
+    "title": "Una novata en un cuento de hadas",
+    "year": "2007",
+    "duration": "90 minutos",
+    "director": "Joe Nussbaum",
+    "actors": [
+      {
+        "name": "Amanda Bynes",
+        "photo": "https://image.tmdb.org/t/p/w185/7bpm17KLd3e7pfEDUBdu8kKtc14.jpg"
+      },
+      {
+        "name": "Sara Paxton",
+        "photo": "https://image.tmdb.org/t/p/w185/atau2a3BlZaTaWSosp4zU7SAFmt.jpg"
+      },
+      {
+        "name": "Matt Long",
+        "photo": "https://image.tmdb.org/t/p/w185/cYi7wXT6KIEDlrZ3ndieTQnL5K2.jpg"
+      },
+      {
+        "name": "Jeremy Howard",
+        "photo": "https://image.tmdb.org/t/p/w185/tkZNfmlNkiH7UZxYDaDqO9z1TuV.jpg"
+      },
+      {
+        "name": "Danny Strong",
+        "photo": "https://image.tmdb.org/t/p/w185/82C6hgzdpHUHizMfedNAP7DSGOj.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/15816",
+    "fileMessageId": "https://t.me/c/2474087426/15817",
+    "fileName": "Una Novata En Un Cuento De Hadas (2007) 720p.mp4",
+    "fileSize": "1,69 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Adaptación moderna del cuento de Blancanieves. Cuando Sydney es expulsada de la hermandad más popular del campus ya que no es suficientemente \"femenina\", la acogen siete chicos mal vistos socialmente pero entrañables. Con la ayuda de sus nuevos amigos, Sydney se dedica a defender a los marginados en todos los sitios, y reta a la reina del campus a un duelo de popularidad.",
+    "cover": "https://image.tmdb.org/t/p/w500/3n1j5wwQJhf5bChstxH7M9k2O5e.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15819,
+    "title": "Ruby Sparks",
+    "year": "2012",
+    "duration": "104 minutos",
+    "director": "Jonathan Dayton",
+    "actors": [
+      {
+        "name": "Paul Dano",
+        "photo": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+      },
+      {
+        "name": "Zoe Kazan",
+        "photo": "https://image.tmdb.org/t/p/w185/rCJxFVtkyNUVTVCWYd6chx2Q19g.jpg"
+      },
+      {
+        "name": "Chris Messina",
+        "photo": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
+      },
+      {
+        "name": "Annette Bening",
+        "photo": "https://image.tmdb.org/t/p/w185/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
+      },
+      {
+        "name": "Antonio Banderas",
+        "photo": "https://image.tmdb.org/t/p/w185/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+      }
+    ],
+    "genre": "Comedia, Romance, Fantasía, Drama",
+    "rating": "7.1",
+    "telegramLink": "https://t.me/c/2474087426/15819",
+    "fileMessageId": "https://t.me/c/2474087426/15820",
+    "fileName": "Ruby Sparks (2012).mp4",
+    "fileSize": "2,96 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Los directores de \"Little Miss Sunshine\" relatan la historia de un escritor que se enamora de uno de sus personajes femeninos. Calvin Weir-Fields (Paul Dano) había sido un niño-prodigio, cuya primera novela había tenido un gran éxito. Pero, desde entonces, sufre un sistemático bloqueo creativo agravado por su deprimente vida amorosa. Finalmente, consigue crear un personaje femenino, Ruby Sparks (Zoe Kazan), que acaba materializándose y compartiendo la vida con él.",
+    "cover": "https://image.tmdb.org/t/p/w500/24WS7r2SOG0zJQs4NpYXztkPiy5.jpg",
+    "trailerKey": "6cQODwif8VY"
+  },
+  {
+    "id": 15822,
+    "title": "Tenías que ser tú",
+    "year": "2010",
+    "duration": "100 minutos",
+    "director": "Anand Tucker",
+    "actors": [
+      {
+        "name": "Amy Adams",
+        "photo": "https://image.tmdb.org/t/p/w185/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg"
+      },
+      {
+        "name": "Matthew Goode",
+        "photo": "https://image.tmdb.org/t/p/w185/3XaKKl0bKswTWbJ0Lh9nZ4UdAQo.jpg"
+      },
+      {
+        "name": "Adam Scott",
+        "photo": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+      },
+      {
+        "name": "John Lithgow",
+        "photo": "https://image.tmdb.org/t/p/w185/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+      },
+      {
+        "name": "Noel O'Donovan",
+        "photo": "https://image.tmdb.org/t/p/w185/i7VJjVklFhOah8pWuCHljsxCnKf.jpg"
+      }
+    ],
+    "genre": "Romance, Comedia",
+    "rating": "6.9",
+    "telegramLink": "https://t.me/c/2474087426/15822",
+    "fileMessageId": "https://t.me/c/2474087426/15823",
+    "fileName": "Tenias.que.ser.tu.(2010).mkv",
+    "fileSize": "1,94 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Una joven enamorada va a Dublín para pedirle a su novio que se case con ella. Lo hará siguiendo una tradición irlandesa, según la cual solo un día cada cuatro años -el 29 de febrero- una mujer puede proponer matrimonio a su novio con la certeza de que no será rechazada. Sin embargo, durante el viaje, una circunstancia imprevista la obligará a pedir ayuda a un rudo mesonero irlandés con el que tendrá que caminar campo a través si quiere llegar a tiempo para hacer su propuesta de matrimonio.",
+    "cover": "https://image.tmdb.org/t/p/w500/2L08IJ71wZf1CKcQAKHJVayzFVL.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15825,
+    "title": "Dioses y perros",
+    "year": "2014",
+    "duration": "84 minutos",
+    "director": "David Marqués",
+    "actors": [
+      {
+        "name": "Hugo Silva",
+        "photo": "https://image.tmdb.org/t/p/w185/aMhffSrBefGQstniOtsJf3kEfNH.jpg"
+      },
+      {
+        "name": "Megan Montaner",
+        "photo": "https://image.tmdb.org/t/p/w185/e765CPp0w9L1lo9081U5bBMr0pq.jpg"
+      },
+      {
+        "name": "Enrique Arce",
+        "photo": "https://image.tmdb.org/t/p/w185/1lACQepfukuZ0l6FnUpMO03WxcJ.jpg"
+      },
+      {
+        "name": "Juan Codina",
+        "photo": "https://image.tmdb.org/t/p/w185/8Gx6QOZu0M7WYX7utQW615hZRvh.jpg"
+      },
+      {
+        "name": "Víctor Palmero",
+        "photo": "https://image.tmdb.org/t/p/w185/aGrtparCil4wnxSMmwfwQpYXKl5.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/15825",
+    "fileMessageId": "https://t.me/c/2474087426/15826",
+    "fileName": "Dioses y Perros - (2014) [BDRip m720p].mkv",
+    "fileSize": "1,95 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Pasca, está inmerso en una vida gris que se ha autoimpuesto a causa de un sentimiento de culpa que le corroe el alma. Pasa sus días cuidando de su hermano minusválido, recibiendo golpes como sparring e intentando ayudar a Fonsi, su mejor amigo, un exboxeador alcohólico que malvive al borde del abismo con una mujer y un hijo que cuidar.  Anclado en la crisis y la falta de esperanza, tratará de despertar de su pesadilla, ante la irrupción en su vida de Adela, una joven profesora que llega al barrio y le hace volver a ver las cosas de una manera más optimista. Pero los problemas con Toni y, sobretodo, con Fonsi le situarán en una difícil encrucijada que cambiará su vida para siempre. Y la de los que lo rodean.",
+    "cover": "https://image.tmdb.org/t/p/w500/tOROjGAl6OMUVjvMuD2OYyM0Yiq.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15828,
+    "title": "DiDi Hollywood",
+    "year": "2010",
+    "duration": "102 minutos",
+    "director": "Bigas Luna",
+    "actors": [
+      {
+        "name": "Elsa Pataky",
+        "photo": "https://image.tmdb.org/t/p/w185/fsA7hxz70SVvCm8dZuAGvBHtVDF.jpg"
+      },
+      {
+        "name": "Peter Coyote",
+        "photo": "https://image.tmdb.org/t/p/w185/AglpxXP9wBM567UMGL9DAMbid1V.jpg"
+      },
+      {
+        "name": "Paul Sculfor",
+        "photo": null
+      },
+      {
+        "name": "Giovanna Zacarías",
+        "photo": "https://image.tmdb.org/t/p/w185/hyw0Bd8kKkAXNG008R8NVkNCgEx.jpg"
+      },
+      {
+        "name": "Luis Hacha",
+        "photo": "https://image.tmdb.org/t/p/w185/txKKho4lsN5l0TK2j3r3Ia9M8Cw.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "3.9",
+    "telegramLink": "https://t.me/c/2474087426/15828",
+    "fileMessageId": "https://t.me/c/2474087426/15829",
+    "fileName": "Didi Hollywood -Bdrip m1080p.mkv",
+    "fileSize": "1,84 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Diana Díaz, una bella y ambiciosa joven que sueña con ser actriz y triunfar en la meca del cine, está dispuesta a dejarse la piel para conseguirlo. Harta de trabajar sirviendo copas en una discoteca, decide irse a Miami a probar suerte. Pero tampoco allí las cosas son fáciles: sufre hambre, soledad y sobrevive fregando platos en la grasienta cocina de un restaurante cubano. Sin embargo, gracias a su trabajo, conoce a Nora, una cantante aventurera con la que entabla una gran amistad, y a Robert, un ayudante de dirección mexicano que se enamora perdidamente de ella. Los tres juntos deciden ir a Hollywood. A pesar de que su vida cambia radicalmente, aprenden una gran lección: lo peor que puede sucedernos es que nuestros deseos se hagan realidad.",
+    "cover": "https://image.tmdb.org/t/p/w500/vqHziiSg3Ps7E9TqCxgPIsp66bN.jpg",
+    "trailerKey": "E0gYXE0Wyxo"
+  },
+  {
+    "id": 15831,
+    "title": "Poker Face",
+    "year": "2022",
+    "duration": "94 minutos",
+    "director": "Russell Crowe",
+    "actors": [
+      {
+        "name": "Russell Crowe",
+        "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+      },
+      {
+        "name": "Liam Hemsworth",
+        "photo": "https://image.tmdb.org/t/p/w185/As5ujeSSJRQN4TE3odg3kDk0b5o.jpg"
+      },
+      {
+        "name": "RZA",
+        "photo": "https://image.tmdb.org/t/p/w185/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
+      },
+      {
+        "name": "Brooke Satchwell",
+        "photo": "https://image.tmdb.org/t/p/w185/afjOGhUUthqL4pc4H3oGygP6FH8.jpg"
+      },
+      {
+        "name": "Aden Young",
+        "photo": "https://image.tmdb.org/t/p/w185/y7YoyvmNEJWZZP4UiDzPhz4zaPP.jpg"
+      }
+    ],
+    "genre": "Suspense, Crimen",
+    "rating": "5.6",
+    "telegramLink": "https://t.me/c/2474087426/15831",
+    "fileMessageId": "https://t.me/c/2474087426/15832",
+    "fileName": "Poker Face (2022).mkv",
+    "fileSize": "1,70 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "El multimillonario jugador de póquer Jake Foley (Russell Crowe) les brinda a sus mejores amigos la oportunidad de ganar más dinero del que jamás hayan soñado, en una noche que nunca olvidarán. Pero para jugar, tendrán que revelar algunos de sus secretos más oscuros, y a medida que avance la noche, descubrirán el motivo real por el que participan...",
+    "cover": "https://image.tmdb.org/t/p/w500/qvcDAQEk305csl4ivZGWdr7lSD3.jpg",
+    "trailerKey": "3eK6kIYxi_Q"
+  },
+  {
+    "id": 15834,
+    "title": "Íntimo y personal",
+    "year": "1996",
+    "duration": "119 minutos",
+    "director": "Jon Avnet",
+    "actors": [
+      {
+        "name": "Robert Redford",
+        "photo": "https://image.tmdb.org/t/p/w185/14FuWhuwRLXCplIur2v39L5NZ1W.jpg"
+      },
+      {
+        "name": "Michelle Pfeiffer",
+        "photo": "https://image.tmdb.org/t/p/w185/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
+      },
+      {
+        "name": "Stockard Channing",
+        "photo": "https://image.tmdb.org/t/p/w185/qAYBGvapAnnhpoZuYFyoqetncs5.jpg"
+      },
+      {
+        "name": "Joe Mantegna",
+        "photo": "https://image.tmdb.org/t/p/w185/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+      },
+      {
+        "name": "Kate Nelligan",
+        "photo": "https://image.tmdb.org/t/p/w185/a2BUOy9A9WlvTfe8s4gn0MZfPa5.jpg"
+      }
+    ],
+    "genre": "Drama, Romance",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/15834",
+    "fileMessageId": "https://t.me/c/2474087426/15835",
+    "fileName": "Intimo y personal(1996) [DL.1080p].mkv",
+    "fileSize": "1,84 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Tally Atwater (Michelle Pfieffer) es una ambiciosa periodista que presenta la información meteorológica. Pero, cuando conoce a Warren Justice (Robert Redford), un veterano presentador y antiguo corresponsal en la Casa Blanca, su carrera se dispara y llega a presentar un informativo de máxima audiencia. Al tiempo, surge una relación sentimental entre ella y el atractivo Warren.",
+    "cover": "https://image.tmdb.org/t/p/w500/8oOTCrHxoFoyG9jW7133b7z6JXv.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15837,
+    "title": "Disobedience",
+    "year": "2018",
+    "duration": "114 minutos",
+    "director": "Sebastián Lelio",
+    "actors": [
+      {
+        "name": "Rachel Weisz",
+        "photo": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+      },
+      {
+        "name": "Rachel McAdams",
+        "photo": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+      },
+      {
+        "name": "Alessandro Nivola",
+        "photo": "https://image.tmdb.org/t/p/w185/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+      },
+      {
+        "name": "Allan Corduner",
+        "photo": "https://image.tmdb.org/t/p/w185/9bZTEBUjY02UeooNnghZXxKfiO7.jpg"
+      },
+      {
+        "name": "Anton Lesser",
+        "photo": "https://image.tmdb.org/t/p/w185/x0lmqgkmphvOCSTHk2oxsaxA9Ra.jpg"
+      }
+    ],
+    "genre": "Drama, Romance",
+    "rating": "6.9",
+    "telegramLink": "https://t.me/c/2474087426/15837",
+    "fileMessageId": "https://t.me/c/2474087426/15838",
+    "fileName": "Disobedience (2018).mp4",
+    "fileSize": "1,76 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Una mujer que se crió en una familia ortodoxa judía regresa a su hogar con motivo de la muerte de su padre rabino. La controversia no tardará en aparecer cuando ella comienza a mostrar interés por una vieja amiga del colegio.",
+    "cover": "https://image.tmdb.org/t/p/w500/zx1dOX2uNDJyIeEYzsFLmXJaOwA.jpg",
+    "trailerKey": "dEkPnie5hSI"
+  },
+  {
+    "id": 15840,
+    "title": "Molly's Game",
+    "year": "2017",
+    "duration": "141 minutos",
+    "director": "Aaron Sorkin",
+    "actors": [
+      {
+        "name": "Jessica Chastain",
+        "photo": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+      },
+      {
+        "name": "Idris Elba",
+        "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+      },
+      {
+        "name": "Kevin Costner",
+        "photo": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+      },
+      {
+        "name": "Michael Cera",
+        "photo": "https://image.tmdb.org/t/p/w185/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+      },
+      {
+        "name": "Jeremy Strong",
+        "photo": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+      }
+    ],
+    "genre": "Drama, Crimen",
+    "rating": "7.2",
+    "telegramLink": "https://t.me/c/2474087426/15840",
+    "fileMessageId": "https://t.me/c/2474087426/15841",
+    "fileName": "Molly's Game (2017).mkv",
+    "fileSize": "2,31 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Molly Bloom, tras perder su oportunidad de entrar en el equipo Olímpico de ski, comienza la carrera de derecho. Una cadena de raras circunstancias, hicieron que Bloom terminase ganando millones de dólares dirigiendo, una de las timbas de póker más famosas del mundo. Su negocio se truncó cuando el FBI entró armado durante una de sus partidas.",
+    "cover": "https://image.tmdb.org/t/p/w500/s5HRzV7wlVIfzDJdgqBo7flPQT7.jpg",
+    "trailerKey": "e3U3TrLo3tQ"
+  },
+  {
+    "id": 15843,
+    "title": "Ellos y ellas",
+    "year": "1955",
+    "duration": "150 minutos",
+    "director": "Joseph L. Mankiewicz",
+    "actors": [
+      {
+        "name": "Marlon Brando",
+        "photo": "https://image.tmdb.org/t/p/w185/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
+      },
+      {
+        "name": "Jean Simmons",
+        "photo": "https://image.tmdb.org/t/p/w185/scbR91Bl4SbfQqhXaH6OfhjxfYt.jpg"
+      },
+      {
+        "name": "Frank Sinatra",
+        "photo": "https://image.tmdb.org/t/p/w185/dafKPsivu50RdChBSrgGmMRenYt.jpg"
+      },
+      {
+        "name": "Vivian Blaine",
+        "photo": "https://image.tmdb.org/t/p/w185/6NyVVRLGFKR3PaoYs1vNkg4rrKq.jpg"
+      },
+      {
+        "name": "Robert Keith",
+        "photo": "https://image.tmdb.org/t/p/w185/7nhscSi9oF7B48qYkfDd1OvfKOR.jpg"
+      }
+    ],
+    "genre": "Comedia, Crimen, Romance",
+    "rating": "6.6",
+    "telegramLink": "https://t.me/c/2474087426/15843",
+    "fileMessageId": "https://t.me/c/2474087426/15844",
+    "fileName": "ellos.y.ellas.1955.1080p.x264.ac3.mkv",
+    "fileSize": "3,45 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Adaptación de un musical de Broadway basado en un cuento de Damon Runyon, gran maestro de la literatura picaresca americana. Nathan Detroit (Frank Sinatra), organizador de las partidas más selectas de dados de Nueva York, apuesta mil dólares con uno de los jugadores (Marlon Brando) a que no es capaz de enamorar a una joven puritana que pertenece al Ejército de Salvación (Jean Simmons).",
+    "cover": "https://image.tmdb.org/t/p/w500/x4V2efbQydkRBza926afNmCvDG5.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15846,
+    "title": "El mensajero del miedo",
+    "year": "1962",
+    "duration": "126 minutos",
+    "director": "John Frankenheimer",
+    "actors": [
+      {
+        "name": "Frank Sinatra",
+        "photo": "https://image.tmdb.org/t/p/w185/dafKPsivu50RdChBSrgGmMRenYt.jpg"
+      },
+      {
+        "name": "Laurence Harvey",
+        "photo": "https://image.tmdb.org/t/p/w185/l9iSQUawIByUjpLg5SI03oOpd64.jpg"
+      },
+      {
+        "name": "Angela Lansbury",
+        "photo": "https://image.tmdb.org/t/p/w185/fMAigMOfERlIAOUVlStRjq2COD6.jpg"
+      },
+      {
+        "name": "Janet Leigh",
+        "photo": "https://image.tmdb.org/t/p/w185/2dv9IqJEx31RSoH7xAHlJZXF5uB.jpg"
+      },
+      {
+        "name": "James Gregory",
+        "photo": "https://image.tmdb.org/t/p/w185/lfLlIfg6nI2cjVTpjyjwm8aQWJQ.jpg"
+      }
+    ],
+    "genre": "Suspense, Drama",
+    "rating": "7.5",
+    "telegramLink": "https://t.me/c/2474087426/15846",
+    "fileMessageId": "https://t.me/c/2474087426/15847",
+    "fileName": "el.mensajero.del.miedo.1962.1080p.x264.criterion.mkv",
+    "fileSize": "3,71 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un grupo de soldados, bajo el mando del sargento Raymond Shaw y el comandante Benett Marco, sufre una emboscada durante la guerra de Corea y es capturado por el ejército enemigo. Meses después, Shaw recibe una medalla al honor por el gobierno de los Estados Unidos. Por entonces, Marco comienza a sufrir terribles pesadillas relacionadas con el lavado de cerebro al que fueron sometidos durante el cautiverio en Corea.",
+    "cover": "https://image.tmdb.org/t/p/w500/kfH2NHYOUovD2Gz6cdbhunsahAW.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15849,
+    "title": "American Pie presenta: Band Camp",
+    "year": "2005",
+    "duration": "94 minutos",
+    "director": "Steve Rash",
+    "actors": [
+      {
+        "name": "Tad Hilgenbrink",
+        "photo": "https://image.tmdb.org/t/p/w185/cECyfEB8GI4zTYXEOLEpRTxINLo.jpg"
+      },
+      {
+        "name": "Arielle Kebbel",
+        "photo": "https://image.tmdb.org/t/p/w185/eFN9TTOFk4COQQsDSufChNd7GfP.jpg"
+      },
+      {
+        "name": "Jason Earles",
+        "photo": "https://image.tmdb.org/t/p/w185/98kgD3jp4DmwwL1SmViN5cRE5NI.jpg"
+      },
+      {
+        "name": "Crystle Lightning",
+        "photo": "https://image.tmdb.org/t/p/w185/vx5UIK3ddm8hLf5WGKvQ2za26Sv.jpg"
+      },
+      {
+        "name": "Jun Hee Lee",
+        "photo": "https://image.tmdb.org/t/p/w185/z640VVykgTgDwDMJ70LypdUEOlh.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/15849",
+    "fileMessageId": "https://t.me/c/2474087426/15850",
+    "fileName": "american.pie.presenta.band.camp.2005.720p.x264.ac3.mkv",
+    "fileSize": "1,84 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Matt, el hermano pequeño de Stifler, es condenado a pasar un verano en el inmundo campamento de la banda de música, donde hace de las suyas con cámaras ocultas y ardientes tutores. Pero, cuando se queda prendado de su compañera de banda, Elyse, su empeño por maquillar sus rudos modales tiene resultados imprevistos. El padre de Jim vuelve como estrafalario tutor para intentar devolver al redil al descarriado hermano menor de Stifler.",
+    "cover": "https://image.tmdb.org/t/p/w500/r5zvfSnbTeMZFD3XOuQOGN1z6US.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15852,
+    "title": "Asesinato en la Embajada",
+    "year": "2025",
+    "duration": "83 minutos",
+    "director": "Stephen Shimek",
+    "actors": [
+      {
+        "name": "Mischa Barton",
+        "photo": "https://image.tmdb.org/t/p/w185/j3eZsKKIz4uWdVwAvokv8GHU21w.jpg"
+      },
+      {
+        "name": "Richard Dillane",
+        "photo": "https://image.tmdb.org/t/p/w185/4DVdlTFkhPlERFyFoeH6UoXb2un.jpg"
+      },
+      {
+        "name": "Mido Hamada",
+        "photo": "https://image.tmdb.org/t/p/w185/iSQsrTcaMu4agVwRWfMpUTrwBzL.jpg"
+      },
+      {
+        "name": "Antonia Bernath",
+        "photo": "https://image.tmdb.org/t/p/w185/l5n1gHjleDAvOymkyGjUU5SJikt.jpg"
+      },
+      {
+        "name": "Kojo Attah",
+        "photo": "https://image.tmdb.org/t/p/w185/xtE8Nd5sVskymf3haYUWixFwv4g.jpg"
+      }
+    ],
+    "genre": "Misterio, Suspense, Acción",
+    "rating": "6.1",
+    "telegramLink": "https://t.me/c/2474087426/15852",
+    "fileMessageId": "https://t.me/c/2474087426/15853",
+    "fileName": "Asesinato en la Embajada (2025).mp4",
+    "fileSize": "1,87 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "1934. Miranda Green, detective privada, investiga un asesinato perpetrado en la embajada británica en El Cairo, donde se robó un documento de alto secreto, con el riesgo de poner en peligro el Palacio de Buckingham y la paz del mundo.",
+    "cover": "https://image.tmdb.org/t/p/w500/vW5pt7wPbY2mtsGd26IqV39zRJa.jpg",
+    "trailerKey": "sgohJhg82bc"
+  },
+  {
+    "id": 15855,
+    "title": "Las aventuras del doctor Dolittle",
+    "year": "2020",
+    "duration": "110 minutos",
+    "director": "Stephen Gaghan",
+    "actors": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+      },
+      {
+        "name": "Harry Collett",
+        "photo": "https://image.tmdb.org/t/p/w185/nDF4XWPBM5tGzOIHTMMWrTmWQRn.jpg"
+      },
+      {
+        "name": "Michael Sheen",
+        "photo": "https://image.tmdb.org/t/p/w185/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+      },
+      {
+        "name": "Jim Broadbent",
+        "photo": "https://image.tmdb.org/t/p/w185/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+      },
+      {
+        "name": "Antonio Banderas",
+        "photo": "https://image.tmdb.org/t/p/w185/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+      }
+    ],
+    "genre": "Familia, Comedia, Fantasía, Aventura",
+    "rating": "6.6",
+    "telegramLink": "https://t.me/c/2474087426/15855",
+    "fileMessageId": "https://t.me/c/2474087426/15856",
+    "fileName": "Las_Aventuras_Del_Doctor_Dolittle_2020_BluRay_720p_X264_MKVAC3_5.mkv",
+    "fileSize": "2,90 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Después de perder a su mujer hace siete años, el excéntrico Dr. John Dolittle , un reputado doctor y veterinario, se encerró en sí mismo tras los muros de su mansión con la única compañía de su colección de animales exóticos. Pero cuando la joven reina cae gravemente enferma, Dolittle tendrá que dejar, muy a su pesar, su vida de ermitaño para embarcarse en una épica aventura a una mítica isla en busca de una cura, recuperando su sentido del humor y su coraje a medida que se cruza con viejos adversarios y mientras descubre maravillosas criaturas.",
+    "cover": "https://image.tmdb.org/t/p/w500/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg",
+    "trailerKey": "2nRmhSKYItE"
+  },
+  {
+    "id": 15858,
+    "title": "La otra cara del crimen",
+    "year": "2000",
+    "duration": "115 minutos",
+    "director": "James Gray",
+    "actors": [
+      {
+        "name": "Mark Wahlberg",
+        "photo": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "photo": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+      },
+      {
+        "name": "Charlize Theron",
+        "photo": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+      },
+      {
+        "name": "James Caan",
+        "photo": "https://image.tmdb.org/t/p/w185/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg"
+      },
+      {
+        "name": "Ellen Burstyn",
+        "photo": "https://image.tmdb.org/t/p/w185/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
+      }
+    ],
+    "genre": "Crimen, Drama, Suspense",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/15858",
+    "fileMessageId": "https://t.me/c/2474087426/15859",
+    "fileName": "la.otra.cara.del.crimen.2000.1080p.x264.mpeg.mkv",
+    "fileSize": "1,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Leo sale de la cárcel con el firme propósito de abandonar el mundo mafioso de Nueva York, pero pronto se dará cuenta de que no le resultará tan fácil empezar una nueva vida.",
+    "cover": "https://image.tmdb.org/t/p/w500/tsC85S9nY85r6xOqPIqeCkidDyR.jpg",
+    "trailerKey": "EDVCy4wtmuY"
+  },
+  {
+    "id": 15861,
+    "title": "El gran golpe",
+    "year": "2004",
+    "duration": "100 minutos",
+    "director": "Brett Ratner",
+    "actors": [
+      {
+        "name": "Pierce Brosnan",
+        "photo": "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+      },
+      {
+        "name": "Salma Hayek Pinault",
+        "photo": "https://image.tmdb.org/t/p/w185/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "photo": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "photo": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+      },
+      {
+        "name": "Naomie Harris",
+        "photo": "https://image.tmdb.org/t/p/w185/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+      }
+    ],
+    "genre": "Acción, Comedia, Crimen, Drama",
+    "rating": "6.2",
+    "telegramLink": "https://t.me/c/2474087426/15861",
+    "fileMessageId": "https://t.me/c/2474087426/15862",
+    "fileName": "El Gran Golpe (2004)(MicroHD1080p).mp4",
+    "fileSize": "3,58 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Max Burdett (Pierce Brosnan) es un ladrón retirado que vive tranquilamente en una isla paradisíaca. Todo cambiará cuando un antiguo agente del FBI conocido suyo, le diga que hay rumores de que va a volver a su antiguo trabajo robando un gran diamante, lo que acabará complicándole su pacífica vida.",
+    "cover": "https://image.tmdb.org/t/p/w500/WsRuXQxIUATdhHCyCJl7EvI4BT.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15864,
+    "title": "Un ciudadano ejemplar",
+    "year": "2009",
+    "duration": "109 minutos",
+    "director": "F. Gary Gray",
+    "actors": [
+      {
+        "name": "Jamie Foxx",
+        "photo": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+      },
+      {
+        "name": "Gerard Butler",
+        "photo": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+      },
+      {
+        "name": "Colm Meaney",
+        "photo": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+      },
+      {
+        "name": "Bruce McGill",
+        "photo": "https://image.tmdb.org/t/p/w185/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+      },
+      {
+        "name": "Leslie Bibb",
+        "photo": "https://image.tmdb.org/t/p/w185/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+      }
+    ],
+    "genre": "Drama, Crimen, Suspense",
+    "rating": "7.4",
+    "telegramLink": "https://t.me/c/2474087426/15864",
+    "fileMessageId": "https://t.me/c/2474087426/15865",
+    "fileName": "un.ciudadano.ejemplar.2009.1080p.x264.ac3.mkv",
+    "fileSize": "3,26 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Clyde Shelton es un ciudadano normal que lo ha perdido todo. Diez años antes su mujer y su hija fueron brutalmente asesinadas y los criminales nunca fueron condenados. El culpable es Nick Rice, el ambicioso ayudante del fiscal del distrito, porque hizo un pacto con el abogado de uno de ellos. Pero Clyde descubre ese acuerdo, y su deseo de venganza lo lleva a cometer una serie de asesinatos",
+    "cover": "https://image.tmdb.org/t/p/w500/iaY5L2gY60La8ImK7ll7QBXXk26.jpg",
+    "trailerKey": "diBj-JyyWjE"
+  },
+  {
+    "id": 15867,
+    "title": "Safe",
+    "year": "2012",
+    "duration": "94 minutos",
+    "director": "Boaz Yakin",
+    "actors": [
+      {
+        "name": "Jason Statham",
+        "photo": "https://image.tmdb.org/t/p/w185/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+      },
+      {
+        "name": "Chris Sarandon",
+        "photo": "https://image.tmdb.org/t/p/w185/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg"
+      },
+      {
+        "name": "James Hong",
+        "photo": "https://image.tmdb.org/t/p/w185/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+      },
+      {
+        "name": "Catherine Chan",
+        "photo": "https://image.tmdb.org/t/p/w185/e7Rt4fxC9U54RSmjpgwWoR6zXfc.jpg"
+      },
+      {
+        "name": "Robert John Burke",
+        "photo": "https://image.tmdb.org/t/p/w185/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg"
+      }
+    ],
+    "genre": "Acción, Crimen, Suspense",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/15867",
+    "fileMessageId": "https://t.me/c/2474087426/15868",
+    "fileName": "Safe (2012).mp4",
+    "fileSize": "3,84 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Mei, una niña china que vive en los bajos fondos de Nueva York, tiene una mente prodigiosa para las matemáticas. Las triadas chinas, la mafia rusa e incluso la policía de NY la persiguen porque en su memoria guarda un código secreto de alta importancia para todos ellos. El destino hace que se cruce con Luke, un exagente de élite que ha tocado fondo y se ha convertido en un fracasado. Juntos trazarán un plan para librarse de los perseguidores de la niña.",
+    "cover": "https://image.tmdb.org/t/p/w500/nLqtvwAsgGl7QQTkBrGmHI1LzFA.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15870,
+    "title": "Dos estafadores y una mujer",
+    "year": "1987",
+    "duration": "112 minutos",
+    "director": "Barry Levinson",
+    "actors": [
+      {
+        "name": "Richard Dreyfuss",
+        "photo": "https://image.tmdb.org/t/p/w185/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "photo": "https://image.tmdb.org/t/p/w185/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+      },
+      {
+        "name": "Barbara Hershey",
+        "photo": "https://image.tmdb.org/t/p/w185/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+      },
+      {
+        "name": "John Mahoney",
+        "photo": "https://image.tmdb.org/t/p/w185/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+      },
+      {
+        "name": "Jackie Gayle",
+        "photo": "https://image.tmdb.org/t/p/w185/yWu6eNQDz0UMkPalrvyoHKyiOOK.jpg"
+      }
+    ],
+    "genre": "Comedia, Drama",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/15870",
+    "fileMessageId": "https://t.me/c/2474087426/15871",
+    "fileName": "Dos Estafadores Y Una Mujer.@MasQueCine.mkv",
+    "fileSize": "2,42 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un vendedor de una empresa de aluminio, tiene un accidente de automóvil contra el coche de otro conductor que resulta ser un comprador del mismo ramo, los dos mantienen una fuerte discusión, ajenos a que poco después tendrán que mantener negocios comunes.",
+    "cover": "https://image.tmdb.org/t/p/w500/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 15873,
+    "title": "Por un puñado de besos",
+    "year": "2014",
+    "duration": "98 minutos",
+    "director": "David Menkes",
+    "actors": [
+      {
+        "name": "Ana de Armas",
+        "photo": "https://image.tmdb.org/t/p/w185/eDuBeSHV0R7vuCnHHXrfa7d7IfB.jpg"
+      },
+      {
+        "name": "Martiño Rivas",
+        "photo": "https://image.tmdb.org/t/p/w185/4qc8bF4OPmoJI8BcAz6HOdI3Xf1.jpg"
+      },
+      {
+        "name": "Marina Salas",
+        "photo": "https://image.tmdb.org/t/p/w185/z8gCkzgavPFd5pW2gsuKvSV5yKk.jpg"
+      },
+      {
+        "name": "Megan Montaner",
+        "photo": "https://image.tmdb.org/t/p/w185/e765CPp0w9L1lo9081U5bBMr0pq.jpg"
+      },
+      {
+        "name": "Andrea Duro",
+        "photo": "https://image.tmdb.org/t/p/w185/7Ue8HGRxpRb8juaNNCWJEH8Fkca.jpg"
+      }
+    ],
+    "genre": "Drama, Romance",
+    "rating": "7.0",
+    "telegramLink": "https://t.me/c/2474087426/15873",
+    "fileMessageId": "https://t.me/c/2474087426/15874",
+    "fileName": "Por un Puñado de Besos(2014)[ES].mkv",
+    "fileSize": "3,46 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Sol (Ana de Armas) y Dani (Martiño Rivas) han quedado para su primera cita. Pero su conversación no es la habitual. Meses atrás, los sueños de Sol, una hermosa y sensible chica de veintiún años, se quebraron trágicamente, aunque descubrió que el amor era para ella una necesidad y emprendió la búsqueda de un alma gemela con quien compartir todo el tiempo que fuera posible. Sin embargo, Dani esconde un secreto que puede hacer añicos las ilusiones de Sol. ¿Podrán un puñado de besos cambiar sus vidas para siempre?",
+    "cover": "https://image.tmdb.org/t/p/w500/ZB5VeGnqGkxHboEGJtb4OWlao5.jpg",
+    "trailerKey": "42qYx2AafyQ"
+  },
+  {
+    "id": 15876,
+    "title": "Señor, dame paciencia",
+    "year": "2017",
+    "duration": "91 minutos",
+    "director": "Álvaro Díaz Lorenzo",
+    "actors": [
+      {
+        "name": "Jordi Sánchez",
+        "photo": "https://image.tmdb.org/t/p/w185/mNB7etSWQng4c4AyycnNb5HC7a6.jpg"
+      },
+      {
+        "name": "Rossy de Palma",
+        "photo": "https://image.tmdb.org/t/p/w185/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
+      },
+      {
+        "name": "Megan Montaner",
+        "photo": "https://image.tmdb.org/t/p/w185/e765CPp0w9L1lo9081U5bBMr0pq.jpg"
+      },
+      {
+        "name": "Silvia Alonso",
+        "photo": "https://image.tmdb.org/t/p/w185/AgXsHxxSBOy9JmtWy5o8y3cKprY.jpg"
+      },
+      {
+        "name": "Eduardo Casanova",
+        "photo": "https://image.tmdb.org/t/p/w185/r341g2BbigyTm2jCZhzk4kXubKp.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/15876",
+    "fileMessageId": "https://t.me/c/2474087426/15877",
+    "fileName": "senor.dame.paciencia.2017.1080p.x264.ac3.mkv",
+    "fileSize": "2,43 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Gregorio es un banquero muy conservador, muy del Real Madrid y muy gruñón cuya mujer fallece repentinamente y este tendrá que cumplir su última voluntad, que es esparcir sus cenizas en el Guadalquivir.  Para llevar a cabo su tarea, Gregorio deberá pasar un fin de semana en Sanlúcar de Barrameda con sus hijos. De esta manera, tendrá que convivir con el novio de su hija Sandra, un catalán muy culé, y con el de Alicia, un hippy. Además, su hijo Carlos, con el que lleva meses sin hablarse por “salir del armario” se presenta con su novio Eneko, un vasco de origen senegalés.",
+    "cover": "https://image.tmdb.org/t/p/w500/c0UfnzFW7Vk7qX2rYij2G5ahB1z.jpg",
+    "trailerKey": "LPSDoW73eVA"
   }
 ]
