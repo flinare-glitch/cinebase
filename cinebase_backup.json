@@ -29229,19 +29229,43 @@
   },
   {
     "id": 2772,
-    "title": "SUPERMAN RETURNS: EL REGRESO",
+    "title": "Superman Returns",
     "year": "2006",
     "duration": "154 minutos",
     "director": "Bryan Singer",
-    "actors": "Brandon Routh, Kate Bosworth, Kevin Spacey, James Marsden, Parker Posey",
-    "genre": "Ciencia ficcion, Accion, Aventura",
-    "rating": "5.8 / 10",
+    "actors": [
+      {
+        "name": "Brandon Routh",
+        "photo": "https://image.tmdb.org/t/p/w185/iPonANuyk3eOHjADqd4h9sBwvX1.jpg"
+      },
+      {
+        "name": "Kate Bosworth",
+        "photo": "https://image.tmdb.org/t/p/w185/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg"
+      },
+      {
+        "name": "Kevin Spacey",
+        "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+      },
+      {
+        "name": "James Marsden",
+        "photo": "https://image.tmdb.org/t/p/w185/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+      },
+      {
+        "name": "Parker Posey",
+        "photo": "https://image.tmdb.org/t/p/w185/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+      }
+    ],
+    "genre": "Ciencia ficción, Acción, Aventura",
+    "rating": "5.8",
     "telegramLink": "https://t.me/c/2474087426/2772",
     "fileMessageId": "https://t.me/c/2474087426/2773",
     "fileName": "Superman Returns.mp4",
     "fileSize": "3,42 Gb",
     "isFavorite": false,
-    "tmdb_synced": true
+    "tmdb_synced": true,
+    "plot": "Tras varios años de misteriosa ausencia, Supermán regresa a la Tierra, pero un viejo enemigo intenta arrebatarle sus poderes. Tratando de proteger al mundo de una destrucción masiva, Supermán emprende una aventura épica de redención que lo lleva desde las profundidades del océano a las regiones más remotas del espacio.",
+    "cover": "https://image.tmdb.org/t/p/w500/rtRlig4q4kUO1AzN7o7dzRIqzxI.jpg",
+    "trailerKey": null
   },
   {
     "id": 2775,
