@@ -29228,166 +29228,6 @@
     "trailerKey": null
   },
   {
-    "id": 2760,
-    "title": "Superman",
-    "year": "1978",
-    "duration": "143 minutos",
-    "director": "Richard Donner",
-    "actors": [
-      {
-        "name": "Christopher Reeve",
-        "photo": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
-      },
-      {
-        "name": "Margot Kidder",
-        "photo": "https://image.tmdb.org/t/p/w185/uJI4BwpmD9fX8D8jBdn2jT5rpvo.jpg"
-      },
-      {
-        "name": "Gene Hackman",
-        "photo": "https://image.tmdb.org/t/p/w185/kMy5BJYiBYuPuDtXD7smRP2rdpk.jpg"
-      },
-      {
-        "name": "Marlon Brando",
-        "photo": "https://image.tmdb.org/t/p/w185/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
-      },
-      {
-        "name": "Ned Beatty",
-        "photo": "https://image.tmdb.org/t/p/w185/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
-      }
-    ],
-    "genre": "Ciencia ficción, Acción, Aventura",
-    "rating": "7.2",
-    "telegramLink": "https://t.me/c/2474087426/2760",
-    "fileMessageId": "https://t.me/c/2474087426/2761",
-    "fileName": "Superman {1978}.mp4",
-    "fileSize": "1,93 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Desde una galaxia remota, un recién nacido es enviado por sus padres al espacio debido a la inminente destrucción del planeta donde viven. La nave aterriza en la Tierra, y el niño es adoptado por unos granjeros que le inculcan los mejores valores humanos. Con los años el joven se irá a Metrópolis y allí usará sus poderes sobrenaturales para luchar contra el mal.",
-    "cover": "https://image.tmdb.org/t/p/w500/sYJGXqaDQzJ2qu2bhMDyTFtww7q.jpg",
-    "trailerKey": "vfC6XFYFbyA"
-  },
-  {
-    "id": 2763,
-    "title": "Superman II. La aventura continúa",
-    "year": "1980",
-    "duration": "127 minutos",
-    "director": "Richard Lester",
-    "actors": [
-      {
-        "name": "Christopher Reeve",
-        "photo": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
-      },
-      {
-        "name": "Margot Kidder",
-        "photo": "https://image.tmdb.org/t/p/w185/uJI4BwpmD9fX8D8jBdn2jT5rpvo.jpg"
-      },
-      {
-        "name": "Terence Stamp",
-        "photo": "https://image.tmdb.org/t/p/w185/ept9urkuhPbGndVXkERw39R9oid.jpg"
-      },
-      {
-        "name": "Sarah Douglas",
-        "photo": "https://image.tmdb.org/t/p/w185/76YfRJyQodMIBiuO33slvSYEQhS.jpg"
-      },
-      {
-        "name": "Jack O'Halloran",
-        "photo": "https://image.tmdb.org/t/p/w185/3ke5FqVyLEGtYZu5lns9qRvi5K0.jpg"
-      }
-    ],
-    "genre": "Ciencia ficción, Acción, Aventura",
-    "rating": "6.8",
-    "telegramLink": "https://t.me/c/2474087426/2763",
-    "fileMessageId": "https://t.me/c/2474087426/2764",
-    "fileName": "Superman II La aventura continua {1980}.mp4",
-    "fileSize": "1,89 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Tres criminales, procedentes del planeta Krypton, a los que el padre de Superman condenó a vagar por el espacio, eluden su condena y se dirigen a la Tierra para enfrentarse a Superman, en una batalla cósmica por la supremacía sobre el planeta. Al mismo tiempo, el superhéroe continúa ocultando su identidad tras la tímida personalidad del reportero Clark Kent, aunque su novia Lois Lane comienza a sospechar algo.",
-    "cover": "https://image.tmdb.org/t/p/w500/c5OPYXLpRdwtnGBX4gZ8bGq6kSp.jpg",
-    "trailerKey": null
-  },
-  {
-    "id": 2766,
-    "title": "Superman III",
-    "year": "1983",
-    "duration": "125 minutos",
-    "director": "Richard Lester",
-    "actors": [
-      {
-        "name": "Christopher Reeve",
-        "photo": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
-      },
-      {
-        "name": "Richard Pryor",
-        "photo": "https://image.tmdb.org/t/p/w185/5hLh0btIkqYPbDmJ0i4WZo9OAt2.jpg"
-      },
-      {
-        "name": "Annette O'Toole",
-        "photo": "https://image.tmdb.org/t/p/w185/mCTEEzuNXlCdyl9uM4ot688IfVz.jpg"
-      },
-      {
-        "name": "Robert Vaughn",
-        "photo": "https://image.tmdb.org/t/p/w185/mYaQ9Qv2oC014lwMaXb76A5UL1n.jpg"
-      },
-      {
-        "name": "Annie Ross",
-        "photo": "https://image.tmdb.org/t/p/w185/y2rMACd935o8jieNxoOqxpDxhb1.jpg"
-      }
-    ],
-    "genre": "Comedia, Ciencia ficción, Acción, Aventura",
-    "rating": "5.5",
-    "telegramLink": "https://t.me/c/2474087426/2766",
-    "fileMessageId": "https://t.me/c/2474087426/2767",
-    "fileName": "Superman III {1983}.mp4",
-    "fileSize": "1,85 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Superman se tiene que enfrentar con una máquina creada por un genio de los ordenadores llamado Gus Gorman, contra un magnate megalómano que pretende transformar la Tierra y lo que es mucho peor contra un desdoblamiento de personalidad. Pero también habrá tiempo para que Clark Kent vuelva a Smallville, donde se encontrará con Lana Lang, su novia de la adolescencia.",
-    "cover": "https://image.tmdb.org/t/p/w500/nfzwX0vrOLi3GuKvPCyoAQTz7On.jpg",
-    "trailerKey": "nchUXJ6upXo"
-  },
-  {
-    "id": 2769,
-    "title": "Superman IV. En busca de la paz",
-    "year": "1987",
-    "duration": "90 minutos",
-    "director": "Sidney J. Furie",
-    "actors": [
-      {
-        "name": "Christopher Reeve",
-        "photo": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
-      },
-      {
-        "name": "Margot Kidder",
-        "photo": "https://image.tmdb.org/t/p/w185/uJI4BwpmD9fX8D8jBdn2jT5rpvo.jpg"
-      },
-      {
-        "name": "Gene Hackman",
-        "photo": "https://image.tmdb.org/t/p/w185/kMy5BJYiBYuPuDtXD7smRP2rdpk.jpg"
-      },
-      {
-        "name": "Mariel Hemingway",
-        "photo": "https://image.tmdb.org/t/p/w185/8SVp3IGeItoZjP7II5zedIU8Y5X.jpg"
-      },
-      {
-        "name": "Jackie Cooper",
-        "photo": "https://image.tmdb.org/t/p/w185/pbdUaMBfLq2qUP1jg7dM9hINRcI.jpg"
-      }
-    ],
-    "genre": "Acción, Aventura, Ciencia ficción",
-    "rating": "4.6",
-    "telegramLink": "https://t.me/c/2474087426/2769",
-    "fileMessageId": "https://t.me/c/2474087426/2770",
-    "fileName": "Superman IV En busca de la paz {1987}.mp4",
-    "fileSize": "1,85 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Poco despues de que la cumbre USA-URSS para el desarme nuclear fracase, el mundo se ve al borde de la III guerra mundial. Superman recibe la carta del niño Jeremy, quien le pide que salve el mundo de la inminente guerra atómica. Desafiando al espíritu de los sabios de Krypton, el Hombre de Acero anuncia a la ONU que destruirá todas las armas nucleares, tanto del Este como del Oeste. Sin embargo, esto es aprovechado por el genio criminal Lex Luthor, recién fugado de prisión, quien se alía con los militaristas americanos y soviéticos para crear a Nuclear Man, un supermonstruo que aniquilará al Ultimo Hijo de Krypton.",
-    "cover": "https://image.tmdb.org/t/p/w500/i9l2OBvASDruutxftB0z4dfjLhR.jpg",
-    "trailerKey": null
-  },
-  {
     "id": 2772,
     "title": "SUPERMAN RETURNS: EL REGRESO",
     "year": "2006",
@@ -48029,46 +47869,6 @@
     "tmdb_synced": true,
     "plot": "Hilary (Julia Roberts) es una atractiva joven que ya casi ha renunciado al amor, y el resto de su vida tampoco va demasiado bien. Un día decide contestar a un anuncio en un periódico, en el que se solicita una chica atenta y servicial. Acude a una lujosa mansión, donde conoce a Victor (Campbell Scott), un joven de buena familia que padece una leucemia que todos creen incurable, incluido su dominante padre (David Selby).",
     "cover": "https://image.tmdb.org/t/p/w500/fjR7Cl752iPw959smkNq6nRsJGx.jpg",
-    "trailerKey": null
-  },
-  {
-    "id": 4795,
-    "title": "Loverboy",
-    "year": "1989",
-    "duration": "99 minutos",
-    "director": "Joan Micklin Silver",
-    "actors": [
-      {
-        "name": "Patrick Dempsey",
-        "photo": "https://image.tmdb.org/t/p/w185/2PpaYtXdaDmNi3jap4qPIdyVesL.jpg"
-      },
-      {
-        "name": "Kate Jackson",
-        "photo": "https://image.tmdb.org/t/p/w185/cAyWyDHnmSCL1H0JuwuoH6ECaPg.jpg"
-      },
-      {
-        "name": "Robert Ginty",
-        "photo": "https://image.tmdb.org/t/p/w185/jpPeOev6AMggRqlwikBOz4emSs.jpg"
-      },
-      {
-        "name": "Nancy Valen",
-        "photo": "https://image.tmdb.org/t/p/w185/hIRtm9gXYQVLT2BSeqYMii5seb7.jpg"
-      },
-      {
-        "name": "Dylan Walsh",
-        "photo": "https://image.tmdb.org/t/p/w185/A0XK6UEOuMKf66XpsZ1DBa9kXAR.jpg"
-      }
-    ],
-    "genre": "Comedia, Romance",
-    "rating": "6.1",
-    "telegramLink": "https://t.me/c/2474087426/4795",
-    "fileMessageId": "https://t.me/c/2474087426/4796",
-    "fileName": "Loverboy (1989).mp4",
-    "fileSize": "1,26 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Randy Bodek (Patrick Dempsey) es un joven estudiante que pasa por una \"mala racha\" al comienzo de sus vacaciones veraniegas. Ha acabado el curso con malas notas y, para colmo, su novia decide dejarle porque no se atreve a comunicarle a sus padres que vive con ella. Ante la escasa confianza en la disposición a estudiar de su hijo, el padre de Randy, rehusa pagarle la matrícula para el próximo curso . Para conseguir dinero, acepta un empleo de repartidor en \"Señor Pizza\", ataviado con un ridículo uniforme, que incluye un sombrerito mexicano y un mostacho postizo, con lo que consigue no mas de 4,8 dólares/hora. Pero todo cambia, cuando conoce a una bella y madura mujer: Alex Barnett (Barbara Carrera, \"Nunca digas nunca jamás\"). Rápidamente, Randy, se convierte en \"el doctor del amor de Beverly Hills\"",
-    "cover": "https://image.tmdb.org/t/p/w500/g4xWS9yQXvOhfhHdas7qguTqswb.jpg",
     "trailerKey": null
   },
   {
@@ -71788,46 +71588,6 @@
     "trailerKey": "c1XvQJeGuO8"
   },
   {
-    "id": 7491,
-    "title": "Camino hacia la gloria",
-    "year": "2000",
-    "duration": "114 minutos",
-    "director": "Michael Corrente",
-    "actors": [
-      {
-        "name": "Robert Duvall",
-        "photo": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
-      },
-      {
-        "name": "Michael Keaton",
-        "photo": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
-      },
-      {
-        "name": "Ally McCoist",
-        "photo": "https://image.tmdb.org/t/p/w185/zp837INdHQUFGhytgvgQo7UJK0Q.jpg"
-      },
-      {
-        "name": "Cole Hauser",
-        "photo": "https://image.tmdb.org/t/p/w185/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
-      },
-      {
-        "name": "Brian Cox",
-        "photo": "https://image.tmdb.org/t/p/w185/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
-      }
-    ],
-    "genre": "Drama",
-    "rating": "5.7",
-    "telegramLink": "https://t.me/c/2474087426/7491",
-    "fileMessageId": "https://t.me/c/2474087426/7492",
-    "fileName": "Camino hacia la gloria (2000).mp4",
-    "fileSize": "1,90 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Gordon McLeod (Robert Duvall), una antigua estrella del fútbol, acepta entrenar al equipo de Kilnockie, un pueblo de Escocia, que está atravesando una mala racha de juego y resultados. Ansioso de éxitos, el propietario americano del equipo (Michael Keaton) contrata también a Jackie McQuillan (Ally McCoist), una vieja gloria del fútbol, alcohólico y problemático.",
-    "cover": "https://image.tmdb.org/t/p/w500/6tNyz1FfEh7KL2bf7jTSmzGVgEU.jpg",
-    "trailerKey": null
-  },
-  {
     "id": 7494,
     "title": "Malcolm X",
     "year": "1992",
@@ -81306,86 +81066,6 @@
     "plot": "Amy, Jo, Beth y Meg son cuatro hermanas adolescentes que se embarcan en unas vacaciones con su madre, pero sin su padre, un evangelista itinerante. A medida que atraviesan el estado de Massachusetts, sumido en plena Guerra Civil, descubren el amor y la importancia de los lazos familiares.",
     "cover": "https://image.tmdb.org/t/p/w500/z2wBWFEQ9FE0RcjmWXz3vvSNPfT.jpg",
     "trailerKey": "6SN9-6uST80"
-  },
-  {
-    "id": 8475,
-    "title": "Superdetective en Hollywood",
-    "year": "1984",
-    "duration": "105 minutos",
-    "director": "Martin Brest",
-    "actors": [
-      {
-        "name": "Eddie Murphy",
-        "photo": "https://image.tmdb.org/t/p/w185/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
-      },
-      {
-        "name": "Judge Reinhold",
-        "photo": "https://image.tmdb.org/t/p/w185/sC4Xs0wRHYpC7V19dbYfJn53nFs.jpg"
-      },
-      {
-        "name": "John Ashton",
-        "photo": "https://image.tmdb.org/t/p/w185/8TzYptb6pPxZJXfrJIu0UoZTNkX.jpg"
-      },
-      {
-        "name": "Lisa Eilbacher",
-        "photo": "https://image.tmdb.org/t/p/w185/tYbOrII1dXzNauGSbMlAZRyRUWT.jpg"
-      },
-      {
-        "name": "Ronny Cox",
-        "photo": "https://image.tmdb.org/t/p/w185/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg"
-      }
-    ],
-    "genre": "Comedia, Crimen, Acción",
-    "rating": "7.2",
-    "telegramLink": "https://t.me/c/2474087426/8475",
-    "fileMessageId": "https://t.me/c/2474087426/8476",
-    "fileName": "1984 - Superdetective en Hollywood.mp4",
-    "fileSize": "1,84 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Axel Foley es un impetuoso e inteligente detective de Detroit que sigue la pista del asesino de un amigo suyo hasta los barrios más elegantes de Beverly Hills. Pero antes de que Axel logre su objetivo, va a verse involucrado en una red internacional de contrabandistas y traficantes de droga.",
-    "cover": "https://image.tmdb.org/t/p/w500/q8RtQuLStydGdJmHR4p8jNVssbv.jpg",
-    "trailerKey": "atvorLVDbYY"
-  },
-  {
-    "id": 8478,
-    "title": "Superdetective en Hollywood II",
-    "year": "1987",
-    "duration": "102 minutos",
-    "director": "Tony Scott",
-    "actors": [
-      {
-        "name": "Eddie Murphy",
-        "photo": "https://image.tmdb.org/t/p/w185/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
-      },
-      {
-        "name": "Judge Reinhold",
-        "photo": "https://image.tmdb.org/t/p/w185/sC4Xs0wRHYpC7V19dbYfJn53nFs.jpg"
-      },
-      {
-        "name": "John Ashton",
-        "photo": "https://image.tmdb.org/t/p/w185/8TzYptb6pPxZJXfrJIu0UoZTNkX.jpg"
-      },
-      {
-        "name": "Jürgen Prochnow",
-        "photo": "https://image.tmdb.org/t/p/w185/45gcCuTcZdqpVISh5C8q1N9HyEz.jpg"
-      },
-      {
-        "name": "Ronny Cox",
-        "photo": "https://image.tmdb.org/t/p/w185/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg"
-      }
-    ],
-    "genre": "Acción, Comedia, Crimen",
-    "rating": "6.5",
-    "telegramLink": "https://t.me/c/2474087426/8478",
-    "fileMessageId": "https://t.me/c/2474087426/8479",
-    "fileName": "1987 - Superdetective en Hollywood II.mp4",
-    "fileSize": "1,87 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "El detective de Detroit Axel Foley se entera por las noticias de la tele de que su amigo Andrew Bogomil, capitán de la policía de Beverly Hills, ha sido tiroteado por una mujer. Cuando va a visitarlo al hospital, conoce a su hija Jan. Con la ayuda de dos agentes amigos suyos intenta localizar a la culpable, a pesar de que el jefe de policía Harold Lutz ha intentado encontrar alguna razón para despedir a los dos agentes. Axel y sus amigos descubren que los \"atracos del alfabeto\", que han tenido lugar en la zona, son obra del traficante de armas Maxwell Dent, que ha enviado a su prometida Karla Fry a matar a Bogomil porque éste le iba siguiendo los pasos.",
-    "cover": "https://image.tmdb.org/t/p/w500/19fU9cD8nBp3riUgKZi6nLSMO88.jpg",
-    "trailerKey": "soQDJ2NA8dw"
   },
   {
     "id": 8481,
@@ -98959,46 +98639,6 @@
     "trailerKey": null
   },
   {
-    "id": 9930,
-    "title": "Huérfanos de Brooklyn",
-    "year": "2019",
-    "duration": "145 minutos",
-    "director": "Edward Norton",
-    "actors": [
-      {
-        "name": "Edward Norton",
-        "photo": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
-      },
-      {
-        "name": "Bruce Willis",
-        "photo": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
-      },
-      {
-        "name": "Gugu Mbatha-Raw",
-        "photo": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
-      },
-      {
-        "name": "Alec Baldwin",
-        "photo": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
-      },
-      {
-        "name": "Willem Dafoe",
-        "photo": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
-      }
-    ],
-    "genre": "Drama, Suspense",
-    "rating": "6.7",
-    "telegramLink": "https://t.me/c/2474087426/9930",
-    "fileMessageId": "https://t.me/c/2474087426/9931",
-    "fileName": "video_9931.mp4",
-    "fileSize": "1,76 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Nueva York, 1957. Lionel Essrog, un detective privado que convive con el síndrome de Tourette, trata de resolver el asesinato de su mentor y mejor amigo, armado solo con vagas pistas y la fuerza de su mente obsesiva.",
-    "cover": "https://image.tmdb.org/t/p/w500/2X86f3KRbdStQXk0f8pZovSRpal.jpg",
-    "trailerKey": null
-  },
-  {
     "id": 9933,
     "title": "Rocky",
     "year": "1976",
@@ -101077,46 +100717,6 @@
     "plot": "Es la impresionante historia sobre George Elser, el carpintero de la resistencia que intentó asesinar a Hitler en Munich el 8 de noviembre de 1939. Por solo 13 minutos de diferencia, si el Führer no hubiese abandonado su podio antes de lo previsto, podría haber cambiado la historia.",
     "cover": "https://image.tmdb.org/t/p/w500/gboXPiS00XJusdLQM5CsWwlLrgD.jpg",
     "trailerKey": "2-GSV3Aicno"
-  },
-  {
-    "id": 10131,
-    "title": "Tras la línea enemiga",
-    "year": "2001",
-    "duration": "106 minutos",
-    "director": "John Moore",
-    "actors": [
-      {
-        "name": "Owen Wilson",
-        "photo": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
-      },
-      {
-        "name": "Gene Hackman",
-        "photo": "https://image.tmdb.org/t/p/w185/kMy5BJYiBYuPuDtXD7smRP2rdpk.jpg"
-      },
-      {
-        "name": "Gabriel Macht",
-        "photo": "https://image.tmdb.org/t/p/w185/lacMH4Ju1x9AsKXm7mDkklSsPyV.jpg"
-      },
-      {
-        "name": "Olek Krupa",
-        "photo": "https://image.tmdb.org/t/p/w185/fKI4Upr3oEvJlv1mNuIRhHDDXBf.jpg"
-      },
-      {
-        "name": "Vladímir Mashkov",
-        "photo": "https://image.tmdb.org/t/p/w185/zmahacE9YLCWQOGxmIb3f9QHK7D.jpg"
-      }
-    ],
-    "genre": "Acción, Drama, Suspense, Bélica",
-    "rating": "6.4",
-    "telegramLink": "https://t.me/c/2474087426/10131",
-    "fileMessageId": "https://t.me/c/2474087426/10132",
-    "fileName": "Tras la línea enemiga (2001).mp4",
-    "fileSize": "1,67 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Se supone que la guerra en los Balcanes ha terminado, pero la batalla por la supervivencia apenas ha comenzado. Tras ser tiroteado durante una misión de reconocimiento en Bosnia, el piloto americano Chris Burnett (Owen Wilson) tendrá que luchar por sobrevivir y escapar de las tropas serbias. Con el tiempo en su contra, el jefe de Burnett (Gene Hackman) prepara una arriesgada misión de rescate -en contra de las directivas de la OTAN- para salvarlo.",
-    "cover": "https://image.tmdb.org/t/p/w500/fO9RxmeCKwLV1nggbKd9uSw99ZR.jpg",
-    "trailerKey": null
   },
   {
     "id": 10137,
@@ -128471,46 +128071,6 @@
     "trailerKey": "fvmWbQYprkg"
   },
   {
-    "id": 12462,
-    "title": "Tierra prometida",
-    "year": "2012",
-    "duration": "106 minutos",
-    "director": "Gus Van Sant",
-    "actors": [
-      {
-        "name": "Matt Damon",
-        "photo": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
-      },
-      {
-        "name": "Frances McDormand",
-        "photo": "https://image.tmdb.org/t/p/w185/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg"
-      },
-      {
-        "name": "John Krasinski",
-        "photo": "https://image.tmdb.org/t/p/w185/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
-      },
-      {
-        "name": "Rosemarie DeWitt",
-        "photo": "https://image.tmdb.org/t/p/w185/44sxIdGtYN24R14OmnZbCpcd8J8.jpg"
-      },
-      {
-        "name": "Hal Holbrook",
-        "photo": "https://image.tmdb.org/t/p/w185/rjUwo6mSutAljAHTqGhlnBBd9lO.jpg"
-      }
-    ],
-    "genre": "Drama",
-    "rating": "6.3",
-    "telegramLink": "https://t.me/c/2474087426/12462",
-    "fileMessageId": "https://t.me/c/2474087426/12463",
-    "fileName": "Tierra_Prometida (1988).mp4",
-    "fileSize": "1,88 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Steve Butler (Damon) un ejecutivo de una gran empresa, llega a un pequeño pueblo con su compañera de trabajo, Sue Thomason (Frances McDormand), para comprar los derechos de perforación a los propietarios de las tierras. En esa población, asolada por la crisis económica de los últimos años, Steve tendrá ocasión de reconsiderar lo que ha sido su vida hasta ese momento.",
-    "cover": "https://image.tmdb.org/t/p/w500/5C0b6Wu4Z0V4NuA1cD8SZU7FCkb.jpg",
-    "trailerKey": null
-  },
-  {
     "id": 12465,
     "title": "La ardilla roja",
     "year": "1993",
@@ -139105,46 +138665,6 @@
     "plot": "1850. Los hermanos Charlie y Eli Sisters viven en un mundo salvaje y hostil, en plena fiebre del oro. Tienen las manos manchadas de sangre, tanto de criminales como de personas inocentes. No tienen escrúpulos a la hora de matar. Es su trabajo. Charlie, el hermano pequeño, nació para matar. Eli, sin embargo, sueña con llevar una vida normal. Ambos son contratados por el Comodoro para encontrar y matar a Hermann Kermit Warm, un buscador de oro. De Oregón a California arranca una caza despiadada, un viaje que pondrá a prueba el demencial vínculo entre los dos hermanos.",
     "cover": "https://image.tmdb.org/t/p/w500/v8wlFbdZZZ1oSyVE8Vbl7MdNNSJ.jpg",
     "trailerKey": "s-76uy4Hlt8"
-  },
-  {
-    "id": 13302,
-    "title": "La llamada",
-    "year": "2014",
-    "duration": "108 minutos",
-    "director": "Jason Stone",
-    "actors": [
-      {
-        "name": "Susan Sarandon",
-        "photo": "https://image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
-      },
-      {
-        "name": "Gil Bellows",
-        "photo": "https://image.tmdb.org/t/p/w185/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
-      },
-      {
-        "name": "Ellen Burstyn",
-        "photo": "https://image.tmdb.org/t/p/w185/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
-      },
-      {
-        "name": "Topher Grace",
-        "photo": "https://image.tmdb.org/t/p/w185/y56aFmbJ8UmcOcGei5pswooumnp.jpg"
-      },
-      {
-        "name": "Donald Sutherland",
-        "photo": "https://image.tmdb.org/t/p/w185/yM8WO2BYqFvgQXAvf4CIuCYnY4j.jpg"
-      }
-    ],
-    "genre": "Suspense",
-    "rating": "5.9",
-    "telegramLink": "https://t.me/c/2474087426/13302",
-    "fileMessageId": "https://t.me/c/2474087426/13303",
-    "fileName": "la.llamada.2014.1080p.x265.ac3.mkv",
-    "fileSize": "2,06 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "La detective Hazel Micallef investiga en un pequeño pueblo canadiense el asesinato de una anciana, con la ayuda del oficial de policía local. Juntos empiezan a seguir la pista de un asesino en serie con motivaciones religiosas.",
-    "cover": "https://image.tmdb.org/t/p/w500/3NoTLjc72gHoajErj1zsH4rvllu.jpg",
-    "trailerKey": null
   },
   {
     "id": 13305,
@@ -182436,5 +181956,2205 @@
     "plot": "Una conocida banda de atracadores de bancos mantiene en vilo a la policía. Funcionan como un mecanismo de relojería, entrando y saliendo sin dejar huella alguna y manteniéndose discretamente inactivos entre atraco y atraco. Pero, cuando están organizando un último golpe de veinte millones de dólares, la banda empieza a tener dificultades debido a la intervención de un experimentado detective, empeñado en darles caza.",
     "cover": "https://image.tmdb.org/t/p/w500/y19SicM0TfVx7VwCb2SVw5r2VoR.jpg",
     "trailerKey": null
+  },
+  {
+    "id": 16757,
+    "title": "Un engaño de lujo",
+    "year": "2006",
+    "duration": "105 minutos",
+    "director": "Pierre Salvadori",
+    "actors": [
+      {
+        "name": "Gad Elmaleh",
+        "photo": "https://image.tmdb.org/t/p/w185/oxWWtXt59WrngUja6INnFlyxtD2.jpg"
+      },
+      {
+        "name": "Audrey Tautou",
+        "photo": "https://image.tmdb.org/t/p/w185/d1HVrV8zXy1FJVptmOCkHWG8Jf2.jpg"
+      },
+      {
+        "name": "Marie-Christine Adam",
+        "photo": "https://image.tmdb.org/t/p/w185/ve1H7xsP5V4gg98EWWNvX4fGQhN.jpg"
+      },
+      {
+        "name": "Vernon Dobtcheff",
+        "photo": "https://image.tmdb.org/t/p/w185/o3zjo0Q8BDJQFqHMIIaFbUnckBY.jpg"
+      },
+      {
+        "name": "Jacques Spiesser",
+        "photo": "https://image.tmdb.org/t/p/w185/rDoMNSvz2BZ1KarcFCXI15xiMB3.jpg"
+      }
+    ],
+    "genre": "Drama, Comedia, Romance",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/16757",
+    "fileMessageId": "https://t.me/c/2474087426/16758",
+    "fileName": "Un engaño de lujo (2006) By.Canarion1969.mp4",
+    "fileSize": "2,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Jean es un tímido camarero de un gran hotel que se hace pasar por multimillonario ante Irène, una bella cazafortunas. Ella le rechaza en cuanto descubre quién es en realidad, pero Jean, enamorado de ella, se lanza en su búsqueda hasta encontrarla en la Costa Azul.",
+    "cover": "https://image.tmdb.org/t/p/w500/wnv8Wgc7AkAuVG0WZiNXIo3wHCE.jpg",
+    "trailerKey": "cVSPuu9q3hw"
+  },
+  {
+    "id": 16760,
+    "title": "El imperio de la luz",
+    "year": "2022",
+    "duration": "115 minutos",
+    "director": "Sam Mendes",
+    "actors": [
+      {
+        "name": "Olivia Colman",
+        "photo": "https://image.tmdb.org/t/p/w185/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+      },
+      {
+        "name": "Micheal Ward",
+        "photo": "https://image.tmdb.org/t/p/w185/fnVDz5q9Vtocm2VY5tU3voP6RxG.jpg"
+      },
+      {
+        "name": "Toby Jones",
+        "photo": "https://image.tmdb.org/t/p/w185/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+      },
+      {
+        "name": "Colin Firth",
+        "photo": "https://image.tmdb.org/t/p/w185/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
+      },
+      {
+        "name": "Tom Brooke",
+        "photo": "https://image.tmdb.org/t/p/w185/pUQ3KyfTLPLkBP8KvCcwEyHUMB7.jpg"
+      }
+    ],
+    "genre": "Drama, Romance",
+    "rating": "6.6",
+    "telegramLink": "https://t.me/c/2474087426/16760",
+    "fileMessageId": "https://t.me/c/2474087426/16761",
+    "fileName": "El imperio de la luz (2022).mp4",
+    "fileSize": "1,88 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Una historia de amor ambientada en y alrededor de un antiguo cine, en la costa sur de Inglaterra en la década de 1980.",
+    "cover": "https://image.tmdb.org/t/p/w500/7Y7l9FDxdknampTfpp6qjVWm54O.jpg",
+    "trailerKey": "8iZogFBuAkw"
+  },
+  {
+    "id": 16763,
+    "title": "Tierra",
+    "year": "1996",
+    "duration": "125 minutos",
+    "director": "Julio Medem",
+    "actors": [
+      {
+        "name": "Carmelo Gómez",
+        "photo": "https://image.tmdb.org/t/p/w185/x3BR7fxUAR1HgeAP0MujkWb05ur.jpg"
+      },
+      {
+        "name": "Emma Suárez",
+        "photo": "https://image.tmdb.org/t/p/w185/46VjvDA7znpxJvYmbu4t9PjoGfJ.jpg"
+      },
+      {
+        "name": "Karra Elejalde",
+        "photo": "https://image.tmdb.org/t/p/w185/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+      },
+      {
+        "name": "Silke",
+        "photo": "https://image.tmdb.org/t/p/w185/yHRXT8OxgkAHte8ivRNwTNLqljw.jpg"
+      },
+      {
+        "name": "Nancho Novo",
+        "photo": "https://image.tmdb.org/t/p/w185/76tMiuvM2GHCJ429J8O3BcfMVKP.jpg"
+      }
+    ],
+    "genre": "Drama, Romance",
+    "rating": "6.9",
+    "telegramLink": "https://t.me/c/2474087426/16763",
+    "fileMessageId": "https://t.me/c/2474087426/16764",
+    "fileName": "tierra.1996.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "En alguna parte de ese inmenso océano negro que es el cosmos hay una isla con colinas de tierra roja, a la que llega Ángel para fumigar y exterminar la plaga de cochinilla que produce en el vino un extraño sabor a \"tierra\". Bajo la atmósfera de unos cielos eléctricos y el contacto con unas gentes sencillas, Ángel encuentra la oportunidad de resolver su desdoblamiento de personalidad por medio de la elección entre dos mujeres.",
+    "cover": "https://image.tmdb.org/t/p/w500/r12u3yyhjlt335dVTXoh6DJvVTU.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16766,
+    "title": "La higuera de los bastardos",
+    "year": "2017",
+    "duration": "106 minutos",
+    "director": "Ana Murugarren",
+    "actors": [
+      {
+        "name": "Karra Elejalde",
+        "photo": "https://image.tmdb.org/t/p/w185/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+      },
+      {
+        "name": "Carlos Areces",
+        "photo": "https://image.tmdb.org/t/p/w185/qoJz3KqgNvXUWD52b0SWX0oDplG.jpg"
+      },
+      {
+        "name": "Pepa Aniorte",
+        "photo": "https://image.tmdb.org/t/p/w185/hWuJNXMlZnWTOKVyHatiWRR6jR8.jpg"
+      },
+      {
+        "name": "Mikel Losada",
+        "photo": "https://image.tmdb.org/t/p/w185/uCL4nq9WZUU708By82SOk0D7jxr.jpg"
+      },
+      {
+        "name": "Jordi Sánchez",
+        "photo": "https://image.tmdb.org/t/p/w185/1usE9CnFsHE0SUx16XehBJ3cPZq.jpg"
+      }
+    ],
+    "genre": "Drama, Comedia",
+    "rating": "6.1",
+    "telegramLink": "https://t.me/c/2474087426/16766",
+    "fileMessageId": "https://t.me/c/2474087426/16767",
+    "fileName": "la_higuera_de_los_bastardos_2017_webdl_1080p.mkv",
+    "fileSize": "3,17 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Rogelio Cerón es un falangista encargado de fusilar por cuestiones ideológicas a muchos de los hombres residentes en el municipio vizcaíno de Getxo al poco de concluir la Guerra Civil. Su visión del mundo cambiará cuando conoce a un niño al que le ha arrebatado a sus padres, sabiendo que cuando este crezca le acabará asesinando. Rogelio no podrá seguir siendo el mismo y vigilará la vida del niño e intentará tutelarle para evitar el sentimiento de culpa del pasado.",
+    "cover": "https://image.tmdb.org/t/p/w500/eBQw41u55jdeDrqWUCDFmS13tmT.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16769,
+    "title": "Su juguete preferido",
+    "year": "1982",
+    "duration": "102 minutos",
+    "director": "Richard Donner",
+    "actors": [
+      {
+        "name": "Richard Pryor",
+        "photo": "https://image.tmdb.org/t/p/w185/5hLh0btIkqYPbDmJ0i4WZo9OAt2.jpg"
+      },
+      {
+        "name": "Jackie Gleason",
+        "photo": "https://image.tmdb.org/t/p/w185/5s1b0xpR7fFFRDYwow5QoIXZlU5.jpg"
+      },
+      {
+        "name": "Ned Beatty",
+        "photo": "https://image.tmdb.org/t/p/w185/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+      },
+      {
+        "name": "Scott Schwartz",
+        "photo": "https://image.tmdb.org/t/p/w185/h4GsN59T9UgdWRO8srnL1HOXnzE.jpg"
+      },
+      {
+        "name": "Teresa Ganzel",
+        "photo": "https://image.tmdb.org/t/p/w185/8ZFhsWrzxBrewduX8X6rRNQWpLw.jpg"
+      }
+    ],
+    "genre": "Comedia, Familia",
+    "rating": "5.9",
+    "telegramLink": "https://t.me/c/2474087426/16769",
+    "fileMessageId": "https://t.me/c/2474087426/16770",
+    "fileName": "su.juguete.preferido.1982.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Eric es un niño de nueve años de edad, hijo de un poderoso multimillonario. El joven posee la colección de juguetes más completa del mundo, pero no consigue dejar de aburrirse. La única solución es un divertido juguete real que le entretenga a todas horas. Remake del film francés \"Le jouet\" de 1976.",
+    "cover": "https://image.tmdb.org/t/p/w500/zOLcPzzlTyDVUpJqz3sfgTa4I9K.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16772,
+    "title": "Killer Barbys",
+    "year": "1996",
+    "duration": "87 minutos",
+    "director": "Jesús Franco",
+    "actors": [
+      {
+        "name": "Silvia Superstar",
+        "photo": "https://image.tmdb.org/t/p/w185/exIx38nBPFl8FIG2UofAQ2Kf435.jpg"
+      },
+      {
+        "name": "Billy King",
+        "photo": null
+      },
+      {
+        "name": "Charlie S. Chaplin",
+        "photo": null
+      },
+      {
+        "name": "Aldo Sambrell",
+        "photo": "https://image.tmdb.org/t/p/w185/lJsoZtOeNaer5jZSydSjONL32xp.jpg"
+      },
+      {
+        "name": "Santiago Segura",
+        "photo": "https://image.tmdb.org/t/p/w185/w5gSHzLWoivAN2g4z2yaxCSFyTY.jpg"
+      }
+    ],
+    "genre": "Terror, Música",
+    "rating": "4.1",
+    "telegramLink": "https://t.me/c/2474087426/16772",
+    "fileMessageId": "https://t.me/c/2474087426/16773",
+    "fileName": "[E] Killer Barbys (1996) -## 1080p ##- Spanish.mp4",
+    "fileSize": "3,31 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un grupo musical de moda, después de una gala, sufre un accidente y sus miembros se ven obligados a aceptar la invitación de alojarse en una apartada mansión. La amabilidad de la Condesa y de su mayordomo encubre macabros planes de los que serán víctimas la mayor parte de ellos... (FILMAFFINITY)",
+    "cover": "https://image.tmdb.org/t/p/w500/wJBDGRN3TddeleozfBDuKhUZJu5.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16775,
+    "title": "Dos chalados y muchas curvas",
+    "year": "2005",
+    "duration": "106 minutos",
+    "director": "Jay Chandrasekhar",
+    "actors": [
+      {
+        "name": "Johnny Knoxville",
+        "photo": "https://image.tmdb.org/t/p/w185/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+      },
+      {
+        "name": "Seann William Scott",
+        "photo": "https://image.tmdb.org/t/p/w185/AftiUFP4rYcl3SG3xllxyiLiuXS.jpg"
+      },
+      {
+        "name": "Jessica Simpson",
+        "photo": "https://image.tmdb.org/t/p/w185/kDH7ugn59hYhVVzCdBqc3YyX27z.jpg"
+      },
+      {
+        "name": "Willie Nelson",
+        "photo": "https://image.tmdb.org/t/p/w185/e5rXc3fn4v642bIDVFWUr6UlVM3.jpg"
+      },
+      {
+        "name": "Burt Reynolds",
+        "photo": "https://image.tmdb.org/t/p/w185/5FNuc4f1OR9EF9QcrcnFIr3zZQr.jpg"
+      }
+    ],
+    "genre": "Comedia, Aventura, Acción",
+    "rating": "5.6",
+    "telegramLink": "https://t.me/c/2474087426/16775",
+    "fileMessageId": "https://t.me/c/2474087426/16776",
+    "fileName": "Dos chalados y muchas curvas (2005).mp4",
+    "fileSize": "1,94 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Basada en una popular serie norteamericana de mismo título emitida en los años 1979-1985. La historia relata las aventuras de los primos Bo y Luke Duke, quienes con las ayuda de su prima Daisy y el tío Jesse, intentan salvar la granja familiar de ser destruida por el malvado sheriff Hogg.",
+    "cover": "https://image.tmdb.org/t/p/w500/akwABW6NmtBCp9RHs6UlJ8viZdA.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16778,
+    "title": "RoboCop",
+    "year": "2014",
+    "duration": "113 minutos",
+    "director": "José Padilha",
+    "actors": [
+      {
+        "name": "Joel Kinnaman",
+        "photo": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "photo": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+      },
+      {
+        "name": "Michael Keaton",
+        "photo": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+      },
+      {
+        "name": "Abbie Cornish",
+        "photo": "https://image.tmdb.org/t/p/w185/AgIA8uPnwySIbqaPjr5jEXwZbS.jpg"
+      },
+      {
+        "name": "Jackie Earle Haley",
+        "photo": "https://image.tmdb.org/t/p/w185/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+      }
+    ],
+    "genre": "Acción, Ciencia ficción, Suspense",
+    "rating": "5.9",
+    "telegramLink": "https://t.me/c/2474087426/16778",
+    "fileMessageId": "https://t.me/c/2474087426/16779",
+    "fileName": "Robocop (2014).mp4",
+    "fileSize": "3,83 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "La película comienza con la trágica muerte del agente Murphy, que es asesinado por unos brutales criminales haciéndole saltar por los aires. Un equipo de científicos y doctores reconstruirán sus restos y lo convertirán en un organismo cibernético imparable, programado para combatir el crimen sin descanso. De esta forma crearán a Robocop. Pero lo que nadie se imagina es que bajo su nueva carcasa cibernética, Robocop vive atormentado por los recuerdos de su vida anterior acompañados de pesadillas de su muerte a manos de los despiadados asesinos.",
+    "cover": "https://image.tmdb.org/t/p/w500/2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg",
+    "trailerKey": "8KpSKzT-Fh0"
+  },
+  {
+    "id": 16781,
+    "title": "Pasado de vueltas",
+    "year": "2006",
+    "duration": "108 minutos",
+    "director": "Adam McKay",
+    "actors": [
+      {
+        "name": "Will Ferrell",
+        "photo": "https://image.tmdb.org/t/p/w185/yjGbyQzVjpQl8xFkFGa7JxKZWQb.jpg"
+      },
+      {
+        "name": "John C. Reilly",
+        "photo": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "photo": "https://image.tmdb.org/t/p/w185/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
+      },
+      {
+        "name": "Gary Cole",
+        "photo": "https://image.tmdb.org/t/p/w185/uWsqIlfHbyxkmBJLmq2mR93musF.jpg"
+      },
+      {
+        "name": "Leslie Bibb",
+        "photo": "https://image.tmdb.org/t/p/w185/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/16781",
+    "fileMessageId": "https://t.me/c/2474087426/16782",
+    "fileName": "pasado.de.vueltas.2006.1080p.x264.ac3.mkv",
+    "fileSize": "2,78 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Ricky Bobby se introduce por primera vez en los circuitos de carreras como “jackman” para el descuidado piloto Terry Cheveaux y, accidentalmente, consigue su gran oportunidad para pilotar cuando Cheveaux hace una parada no programada en una carrera para zamparse un sándwich de pollo. Ricky salta dentro del coche y... empieza la balada de Ricky Bobby.",
+    "cover": "https://image.tmdb.org/t/p/w500/ntBk7GBoTUU0cOYCHoyumjp6ggi.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16787,
+    "title": "Rosas rojas",
+    "year": "2006",
+    "duration": "93 minutos",
+    "director": "Ol Parker",
+    "actors": [
+      {
+        "name": "Piper Perabo",
+        "photo": "https://image.tmdb.org/t/p/w185/5XrzISDEox0KubRDzJU668Oxmxy.jpg"
+      },
+      {
+        "name": "Lena Headey",
+        "photo": "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+      },
+      {
+        "name": "Matthew Goode",
+        "photo": "https://image.tmdb.org/t/p/w185/3XaKKl0bKswTWbJ0Lh9nZ4UdAQo.jpg"
+      },
+      {
+        "name": "Celia Imrie",
+        "photo": "https://image.tmdb.org/t/p/w185/eEtVfESOVnkkdPLYkyQpalEwAwj.jpg"
+      },
+      {
+        "name": "Anthony Stewart Head",
+        "photo": "https://image.tmdb.org/t/p/w185/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg"
+      }
+    ],
+    "genre": "Drama, Comedia, Romance",
+    "rating": "7.6",
+    "telegramLink": "https://t.me/c/2474087426/16787",
+    "fileMessageId": "https://t.me/c/2474087426/16788",
+    "fileName": "Rosas rojas [2006] [x264 1080p-AC3 5.1].mkv",
+    "fileSize": "1,76 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "En el día de su boda, camino del altar, Rachel ve a la persona con la que quiere pasar el resto de su vida. No es su prometido, ni siquiera un invitado apuesto... es la chica encargada de las flores de la ceremonia. Todo empieza el día que Rachel se casa con Heck. Mientras sus amigos le ayudan y su familia no hace más que molestar, Luce - la florista - arregla las decoraciones florales en la iglesia. En el exterior, Luce se encuentra con Heck y con el padrino, Cooper, que se siente inmediatamente atraído por ella. Luce hace caso omiso a sus insinuaciones e intentará marcharse aunque al final le convencen para que se siente al lado de la hermana de Rachel de ocho años. Dos semanas después Rachel pasa por la tienda de Luce para invitarla a cenar. Planea emparejarla con Cooper, pero antes de la llegada de éste Luce le cuenta a Heck que es lesbiana. Cooper no tiene ni idea e intenta ligar con ella mientras Rachel y Luce discuten acerca de lo que es el amor....",
+    "cover": "https://image.tmdb.org/t/p/w500/2zTZoOV61Gc7UMjMHRzY9yCEljY.jpg",
+    "trailerKey": "F4G32PRmGjA"
+  },
+  {
+    "id": 16790,
+    "title": "Un talento increíble",
+    "year": "2013",
+    "duration": "103 minutos",
+    "director": "David Frankel",
+    "actors": [
+      {
+        "name": "James Corden",
+        "photo": "https://image.tmdb.org/t/p/w185/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+      },
+      {
+        "name": "Alexandra Roach",
+        "photo": "https://image.tmdb.org/t/p/w185/qyaUWoAi6RFYEQcnFgrEZ4aWxS7.jpg"
+      },
+      {
+        "name": "Julie Walters",
+        "photo": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        "name": "Colm Meaney",
+        "photo": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+      },
+      {
+        "name": "Jemima Rooper",
+        "photo": "https://image.tmdb.org/t/p/w185/gVHOlSXHC07rv2xmID71IlSWaoT.jpg"
+      }
+    ],
+    "genre": "Drama, Comedia, Música",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/16790",
+    "fileMessageId": "https://t.me/c/2474087426/16791",
+    "fileName": "Un.talento.increible.(Dual).HD720.x264-AC3.mkv",
+    "fileSize": "1,88 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Película biográfica sobre la historia de Paul Potts, un tímido dependiente por el día y un cantante de ópera de aficionado por la noche, que se convierte en un artista de éxito tras ganar el concurso \"Britain's Got Talent\" en 2007.",
+    "cover": "https://image.tmdb.org/t/p/w500/xQjB2DganPOKXb5BbKCa7iaocTU.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16793,
+    "title": "#SexPact",
+    "year": "2018",
+    "duration": "102 minutos",
+    "director": "Kay Cannon",
+    "actors": [
+      {
+        "name": "Leslie Mann",
+        "photo": "https://image.tmdb.org/t/p/w185/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg"
+      },
+      {
+        "name": "John Cena",
+        "photo": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+      },
+      {
+        "name": "Ike Barinholtz",
+        "photo": "https://image.tmdb.org/t/p/w185/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg"
+      },
+      {
+        "name": "Kathryn Newton",
+        "photo": "https://image.tmdb.org/t/p/w185/3mos4oK6bps0uhQzW1L7nj5O0Gd.jpg"
+      },
+      {
+        "name": "Geraldine Viswanathan",
+        "photo": "https://image.tmdb.org/t/p/w185/mZ1dKqL2ymRipGEudzr8TQliB52.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/16793",
+    "fileMessageId": "https://t.me/c/2474087426/16794",
+    "fileName": "#SexPact (2018).mp4",
+    "fileSize": "2,73 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Tres padres tratan de impedir que sus hijas tengan relaciones sexuales en la noche del baile de graduación.",
+    "cover": "https://image.tmdb.org/t/p/w500/ncqX1w8zDtn3mIPmdHE0iC4Rzx0.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16796,
+    "title": "Jack Frost",
+    "year": "1998",
+    "duration": "102 minutos",
+    "director": "Troy Miller",
+    "actors": [
+      {
+        "name": "Michael Keaton",
+        "photo": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+      },
+      {
+        "name": "Kelly Preston",
+        "photo": "https://image.tmdb.org/t/p/w185/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg"
+      },
+      {
+        "name": "Joseph Cross",
+        "photo": "https://image.tmdb.org/t/p/w185/gQoRzWwHTTI614l0DETXeeVf4kD.jpg"
+      },
+      {
+        "name": "Mark Addy",
+        "photo": "https://image.tmdb.org/t/p/w185/4ao6jitEAxmQDlJheEOKT8lhJI8.jpg"
+      },
+      {
+        "name": "Andrew Lawrence",
+        "photo": "https://image.tmdb.org/t/p/w185/bysQnLdg7zsEenMd2ZVzdMPCOJ1.jpg"
+      }
+    ],
+    "genre": "Comedia, Familia, Drama, Fantasía",
+    "rating": "6.0",
+    "telegramLink": "https://t.me/c/2474087426/16796",
+    "fileMessageId": "https://t.me/c/2474087426/16797",
+    "fileName": "Jack Frost (1998).mp4",
+    "fileSize": "1,87 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Jack Frost es un cantante que se pasa viajando la mayor parte del tiempo, así que no puede dedicarle tanto como quisiera a su hijo Charlie a pesar de que ambos se quieren mucho. Tras morir en un accidente de automóvil, Charlie se queda muy triste hasta que Jack regresa reencarnado en un muñeco de nieve.",
+    "cover": "https://image.tmdb.org/t/p/w500/jhIxB51zlnQIqJJdI72MCbicsvu.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16799,
+    "title": "Un romance muy peligroso",
+    "year": "1998",
+    "duration": "123 minutos",
+    "director": "Steven Soderbergh",
+    "actors": [
+      {
+        "name": "George Clooney",
+        "photo": "https://image.tmdb.org/t/p/w185/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+      },
+      {
+        "name": "Jennifer Lopez",
+        "photo": "https://image.tmdb.org/t/p/w185/iDiicDZ6CMib20QSCQYB55iynEk.jpg"
+      },
+      {
+        "name": "Ving Rhames",
+        "photo": "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "photo": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+      },
+      {
+        "name": "Steve Zahn",
+        "photo": "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+      }
+    ],
+    "genre": "Romance, Comedia, Crimen",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/16799",
+    "fileMessageId": "https://t.me/c/2474087426/16800",
+    "fileName": "Un romance muy peligroso (1998).mp4",
+    "fileSize": "1,93 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Jack Foley, un elegante atracador de bancos, es detenido tras un atraco fallido e ingresa en prisión. Estando en la cárcel Jack planea un plan de fuga en el que contará con la ayuda de su socio Buddy Bragg. Pero durante la huida se ven obligados a tomar como rehén a Karen Sisco, una agente federal muy propensa a las atracciones fatales por los criminales que debe capturar.",
+    "cover": "https://image.tmdb.org/t/p/w500/mOtCHelBjQFX5WuFRhIbj9K0NjP.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16802,
+    "title": "Los perdedores",
+    "year": "2010",
+    "duration": "98 minutos",
+    "director": "Sylvain White",
+    "actors": [
+      {
+        "name": "Jeffrey Dean Morgan",
+        "photo": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "photo": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+      },
+      {
+        "name": "Idris Elba",
+        "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+      },
+      {
+        "name": "Columbus Short",
+        "photo": "https://image.tmdb.org/t/p/w185/rUHCNAvu9xOmBP7i9jAABR7j5cg.jpg"
+      }
+    ],
+    "genre": "Acción, Aventura, Crimen, Misterio, Suspense",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/16802",
+    "fileMessageId": "https://t.me/c/2474087426/16803",
+    "fileName": "Los perdedores (2010).mp4",
+    "fileSize": "2,67 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Una historia de caminos cruzados y venganza, centrada en un grupo de las Fuerzas Especiales, enviado a la jungla boliviana y traicionado por uno los suyos, del que sólo saben su nombre: Max. Dados por muertos, el grupo hace planes para igualar el marcador, cuando se les une la misteriosa Aisha, que tiene sus propios planes. Trabajan juntos en secreto para seguir la pista del bien custodiado Max, quien pretende involucrar al mundo en una guerra global de alta tecnología.",
+    "cover": "https://image.tmdb.org/t/p/w500/xlGLfRFZZZDm4mKXCzVHKSEb9RS.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16805,
+    "title": "El cuarto protocolo",
+    "year": "1987",
+    "duration": "119 minutos",
+    "director": "John Mackenzie",
+    "actors": [
+      {
+        "name": "Michael Caine",
+        "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+      },
+      {
+        "name": "Pierce Brosnan",
+        "photo": "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+      },
+      {
+        "name": "Ned Beatty",
+        "photo": "https://image.tmdb.org/t/p/w185/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+      },
+      {
+        "name": "Joanna Cassidy",
+        "photo": "https://image.tmdb.org/t/p/w185/cgyR6QLZdC6apR8eHnhgqDQmqyr.jpg"
+      },
+      {
+        "name": "Julian Glover",
+        "photo": "https://image.tmdb.org/t/p/w185/diwVEgax6O2YwJu2VcW8zC0qhot.jpg"
+      }
+    ],
+    "genre": "Acción, Suspense",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/16805",
+    "fileMessageId": "https://t.me/c/2474087426/16806",
+    "fileName": "El cuarto protocolo (1987).mp4",
+    "fileSize": "2,95 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Se basa en una novela de Frederick Forsyth. El gobierno británico busca a un implacable y frío oficial del ejército ruso que llega a Inglaterra con una identidad falsa y se instala cerca de una base militar norteamericana. Se trata de averiguar cuál es su misión para impedir que la lleve a cabo.",
+    "cover": "https://image.tmdb.org/t/p/w500/5Au1PjpvFQlK84JYGvGmEcnHBhm.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16808,
+    "title": "Viceversa",
+    "year": "1988",
+    "duration": "98 minutos",
+    "director": "Brian Gilbert",
+    "actors": [
+      {
+        "name": "Judge Reinhold",
+        "photo": "https://image.tmdb.org/t/p/w185/6R0vCxzSx1CaDAM9y9ZgmejUdiL.jpg"
+      },
+      {
+        "name": "Fred Savage",
+        "photo": "https://image.tmdb.org/t/p/w185/ux4TBPjG2kZDUlDiKb6eBK7BBFl.jpg"
+      },
+      {
+        "name": "Corinne Bohrer",
+        "photo": "https://image.tmdb.org/t/p/w185/3zlALdvKNkRdrhTrxKTsyav8zRP.jpg"
+      },
+      {
+        "name": "Swoosie Kurtz",
+        "photo": "https://image.tmdb.org/t/p/w185/uCHMttpxVITjDXtjs8FS6O7TQHx.jpg"
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "photo": "https://image.tmdb.org/t/p/w185/feFWEstrs4gHDIYNMACdvMGdNb9.jpg"
+      }
+    ],
+    "genre": "Comedia, Fantasía",
+    "rating": "5.8",
+    "telegramLink": "https://t.me/c/2474087426/16808",
+    "fileMessageId": "https://t.me/c/2474087426/16809",
+    "fileName": "Viceversa (1988).mp4",
+    "fileSize": "1,86 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Charlie es un niño que tiene un deseo bastante peculiar: cambiarse por su padre Marshall, un ejecutivo de una empresa de juguetes. Lo malo es que su deseo se cumple, aunque padre e hijo conservan su cuerpo original: mientras Marshall permanece adulto, pero con la mente de un niño de once años, Charlie sigue siendo un niño, pero tiene la sabiduría y la experiencia de su padre. En estas circunstancias, ambos tendrán que enfrentarse a situaciones nuevas y algo disparatadas.",
+    "cover": "https://image.tmdb.org/t/p/w500/6XOY24NV30EI62sqsCOlmZdmKfh.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16811,
+    "title": "Efectos personales",
+    "year": "2009",
+    "duration": "110 minutos",
+    "director": "David Hollander",
+    "actors": [
+      {
+        "name": "Michelle Pfeiffer",
+        "photo": "https://image.tmdb.org/t/p/w185/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
+      },
+      {
+        "name": "Ashton Kutcher",
+        "photo": "https://image.tmdb.org/t/p/w185/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
+      },
+      {
+        "name": "Kathy Bates",
+        "photo": "https://image.tmdb.org/t/p/w185/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+      },
+      {
+        "name": "Spencer Hudson",
+        "photo": null
+      },
+      {
+        "name": "John Mann",
+        "photo": "https://image.tmdb.org/t/p/w185/jU82lyc3bju4kcuJZpiX7J1EERM.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.0",
+    "telegramLink": "https://t.me/c/2474087426/16811",
+    "fileMessageId": "https://t.me/c/2474087426/16812",
+    "fileName": "Efectos personales (2009).mp4",
+    "fileSize": "1,53 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Tras perder a miembros de su familia, tanto Linda (Michelle Pfeiffer) como Walter (Ashton Kutcher) intentan seguir adelante con sus vidas. Por una lado Walter es un joven luchador profesional que regresa al hogar familiar después del brutal asesinato de su hermana, días antes de su boda. Por otro Linda es la madre de un niño sordomudo cuyo marido alcohólico ha muerto a manos de un amigo en un bar. Mientras tienen lugar los juicios por ambos crímenes, Walter y Linda tienen una aventura amorosa.",
+    "cover": "https://image.tmdb.org/t/p/w500/925WbdNIzK6jjVt06Z1LLvcACik.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16814,
+    "title": "Vidas criminales",
+    "year": "2013",
+    "duration": "98 minutos",
+    "director": "Daniel Schechter",
+    "actors": [
+      {
+        "name": "Jennifer Aniston",
+        "photo": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+      },
+      {
+        "name": "John Hawkes",
+        "photo": "https://image.tmdb.org/t/p/w185/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
+      },
+      {
+        "name": "Yasiin Bey",
+        "photo": "https://image.tmdb.org/t/p/w185/cu6pZ0ThtrT9Mo3l2cKk3UjYhmE.jpg"
+      },
+      {
+        "name": "Isla Fisher",
+        "photo": "https://image.tmdb.org/t/p/w185/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+      },
+      {
+        "name": "Will Forte",
+        "photo": "https://image.tmdb.org/t/p/w185/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+      }
+    ],
+    "genre": "Comedia, Crimen",
+    "rating": "5.7",
+    "telegramLink": "https://t.me/c/2474087426/16814",
+    "fileMessageId": "https://t.me/c/2474087426/16815",
+    "fileName": "Vidas criminales (2013).mp4",
+    "fileSize": "2,71 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Los hechos ocurren quince años antes de lo narrado en \"Jackie Brown\". Ordell Robbie y Louis Gara se conocen en la cárcel, a donde han ido a parar por culpa de su afición a robar coches. Una vez en libertad, organizan un gran golpe: el secuestro de la esposa de un rico empresario de Detroit. Con lo que no contaban era con que el marido no tuviese el más mínimo interés en liberarla. Recurren entonces a un plan B, en el que la mujer participará gustosamente para vengarse de su marido.",
+    "cover": "https://image.tmdb.org/t/p/w500/bXv0lbJGNsXGXclMwUakP5vpFJg.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16817,
+    "title": "Kuffs, poli por casualidad",
+    "year": "1992",
+    "duration": "102 minutos",
+    "director": "Bruce A. Evans",
+    "actors": [
+      {
+        "name": "Christian Slater",
+        "photo": "https://image.tmdb.org/t/p/w185/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+      },
+      {
+        "name": "Milla Jovovich",
+        "photo": "https://image.tmdb.org/t/p/w185/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+      },
+      {
+        "name": "Tony Goldwyn",
+        "photo": "https://image.tmdb.org/t/p/w185/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+      },
+      {
+        "name": "Bruce Boxleitner",
+        "photo": "https://image.tmdb.org/t/p/w185/1x99F4oJTFAFY2HR4PbQdxiGyMH.jpg"
+      },
+      {
+        "name": "Troy Evans",
+        "photo": "https://image.tmdb.org/t/p/w185/hRdsLKr430COdIIyeHY3QAdg45e.jpg"
+      }
+    ],
+    "genre": "Acción, Comedia, Crimen",
+    "rating": "5.7",
+    "telegramLink": "https://t.me/c/2474087426/16817",
+    "fileMessageId": "https://t.me/c/2474087426/16818",
+    "fileName": "Kuffs Poli Por Casualidad (1991).Castellano.Bdrip m1080P.mkv",
+    "fileSize": "1,95 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "George Kuffs (Christian Slater) un joven de 21 años algo irresponsable, recién graduado y con su novia Maya (Milla Jovovich) embarazada, sufre un cambio en su vida cuando su hermano Brad (Bruce Boxleitner) es asesinado. George toma el puesto de su hermano, un servicio a la comunidad de protección policial, y busca venganza en sus asesinos. (FILMAFFINITY)",
+    "cover": "https://image.tmdb.org/t/p/w500/ds3D2aCvsjLhjHH6agQAng3QqTu.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16820,
+    "title": "El principiante",
+    "year": "1990",
+    "duration": "121 minutos",
+    "director": "Clint Eastwood",
+    "actors": [
+      {
+        "name": "Clint Eastwood",
+        "photo": "https://image.tmdb.org/t/p/w185/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+      },
+      {
+        "name": "Charlie Sheen",
+        "photo": "https://image.tmdb.org/t/p/w185/48GB5aISoibd9IYXBO40jrSgFRl.jpg"
+      },
+      {
+        "name": "Raúl Juliá",
+        "photo": "https://image.tmdb.org/t/p/w185/zRvv5vdqCxdio38gx0WWmof4cO5.jpg"
+      },
+      {
+        "name": "Sonia Braga",
+        "photo": "https://image.tmdb.org/t/p/w185/8NqF8pH836rfSlcI4ipmPH1NL2g.jpg"
+      },
+      {
+        "name": "Tom Skerritt",
+        "photo": "https://image.tmdb.org/t/p/w185/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg"
+      }
+    ],
+    "genre": "Acción, Crimen, Drama, Suspense",
+    "rating": "5.9",
+    "telegramLink": "https://t.me/c/2474087426/16820",
+    "fileMessageId": "https://t.me/c/2474087426/16821",
+    "fileName": "Rookie, The (1990) [EN-ES].mkv",
+    "fileSize": "2,32 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Pulovski (Eastwood) es un policía veterano y muy temperamental. David Ackerman (Charlie Sheen) es, por el contrario, un policía novato e inseguro. A pesar de sus diferencias, ambos deben trabajar juntos para atrapar a los asesinos de un colega de Pulovski, que pertenecen a una poderosa banda que se dedica a robar coches de lujo para venderlos de nuevo.",
+    "cover": "https://image.tmdb.org/t/p/w500/542tWkfki58i0srl9RY4GPoX1oO.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16823,
+    "title": "Un hombre de familia",
+    "year": "2016",
+    "duration": "110 minutos",
+    "director": "Mark Williams",
+    "actors": [
+      {
+        "name": "Gerard Butler",
+        "photo": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+      },
+      {
+        "name": "Gretchen Mol",
+        "photo": "https://image.tmdb.org/t/p/w185/e3C1D1I09gtSGy4Ej1ewW2FFoew.jpg"
+      },
+      {
+        "name": "Maxwell Jenkins",
+        "photo": "https://image.tmdb.org/t/p/w185/7pAqHa0aMHpK6Z717g2WMxzpYya.jpg"
+      },
+      {
+        "name": "Alison Brie",
+        "photo": "https://image.tmdb.org/t/p/w185/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+      },
+      {
+        "name": "अनुपम खेर",
+        "photo": "https://image.tmdb.org/t/p/w185/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/16823",
+    "fileMessageId": "https://t.me/c/2474087426/16824",
+    "fileName": "Un hombre de familia (2016).mp4",
+    "fileSize": "3,12 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un empresario que se ha centrado más en su trabajo que en su familia, pone su carrera en espera cuando su hijo es diagnosticado con cáncer.",
+    "cover": "https://image.tmdb.org/t/p/w500/iuMxtIlVuDXHLSnKwAASlXW9DLj.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16826,
+    "title": "Machete",
+    "year": "2010",
+    "duration": "105 minutos",
+    "director": "Robert Rodriguez",
+    "actors": [
+      {
+        "name": "Danny Trejo",
+        "photo": "https://image.tmdb.org/t/p/w185/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+      },
+      {
+        "name": "Michelle Rodríguez",
+        "photo": "https://image.tmdb.org/t/p/w185/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+      },
+      {
+        "name": "Jessica Alba",
+        "photo": "https://image.tmdb.org/t/p/w185/hPoy6FRfiCIxguX3w2CoBbDoaEV.jpg"
+      },
+      {
+        "name": "Robert De Niro",
+        "photo": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Steven Seagal",
+        "photo": "https://image.tmdb.org/t/p/w185/fGNIEpn3JqOckY3ahnJX9x3qA94.jpg"
+      }
+    ],
+    "genre": "Acción, Comedia, Suspense",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/16826",
+    "fileMessageId": "https://t.me/c/2474087426/16827",
+    "fileName": "machete.2010.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Adaptación en forma de largometraje del falso tráiler incluido en Grindhouse. Machete es un ex federal mexicano con habilidades que están más que a la altura de su actitud mortífera. Dado por muerto después de un enfrentamiento con el célebre rey de la droga mexicano Torres, Machete huye a Texas para desaparecer y olvidar su trágico pasado. Pero lo que encuentra es una red de corrupción y engaño que termina con una bala en el cuerpo de un senador y con Machete como uno de los hombres más buscados. Machete se dispone a limpiar su nombre y descubrir la oscura e intricada conspiración, pero en su camino se interpone Booth, un implacable hombre de negocios con una interminable nómina de asesinos a sueldo. Para ayudar a equilibrar la balanza, Machete cuenta con Luz, una sexy vendedora ambulante de tacos con espíritu rebelde y corazón revolucionario, y con Padre, un cura que es bueno con las bendiciones pero mucho mejor con las armas.",
+    "cover": "https://image.tmdb.org/t/p/w500/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg",
+    "trailerKey": "6UBU1r7VigA"
+  },
+  {
+    "id": 16829,
+    "title": "Machete Kills",
+    "year": "2013",
+    "duration": "107 minutos",
+    "director": "Robert Rodriguez",
+    "actors": [
+      {
+        "name": "Danny Trejo",
+        "photo": "https://image.tmdb.org/t/p/w185/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+      },
+      {
+        "name": "Mel Gibson",
+        "photo": "https://image.tmdb.org/t/p/w185/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+      },
+      {
+        "name": "Demián Bichir",
+        "photo": "https://image.tmdb.org/t/p/w185/dur9tX8tbDDJE5mSOZkuW2VDGz4.jpg"
+      },
+      {
+        "name": "Amber Heard",
+        "photo": "https://image.tmdb.org/t/p/w185/vnDolRlZWiOLBg1N0hsUTz4OH4C.jpg"
+      },
+      {
+        "name": "Michelle Rodríguez",
+        "photo": "https://image.tmdb.org/t/p/w185/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+      }
+    ],
+    "genre": "Acción, Crimen, Suspense",
+    "rating": "5.6",
+    "telegramLink": "https://t.me/c/2474087426/16829",
+    "fileMessageId": "https://t.me/c/2474087426/16830",
+    "fileName": "machete.kills.2013.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Tras ser contratado por el presidente de Estados Unidos (Charlie Sheen), Machete (Dany Trejo) se embarca en una peligrosa misión: acabar con el líder de un cartel y un traficante de armas multimillonario y excéntrico llamado Luther Voz (Mel Gibson), quien ha ideado un plan para llevar el caos y la destrucción a todo el planeta con una potente arma espacial.",
+    "cover": "https://image.tmdb.org/t/p/w500/uAl0YzUf2NHm7PqjsilmeCDbQNb.jpg",
+    "trailerKey": "aoiTEZWF-HQ"
+  },
+  {
+    "id": 16832,
+    "title": "Los becarios",
+    "year": "2013",
+    "duration": "125 minutos",
+    "director": "Shawn Levy",
+    "actors": [
+      {
+        "name": "Vince Vaughn",
+        "photo": "https://image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+      },
+      {
+        "name": "Owen Wilson",
+        "photo": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+      },
+      {
+        "name": "Rose Byrne",
+        "photo": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+      },
+      {
+        "name": "Aasif Mandvi",
+        "photo": "https://image.tmdb.org/t/p/w185/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+      },
+      {
+        "name": "Max Minghella",
+        "photo": "https://image.tmdb.org/t/p/w185/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "6.2",
+    "telegramLink": "https://t.me/c/2474087426/16832",
+    "fileMessageId": "https://t.me/c/2474087426/16833",
+    "fileName": "los.becarios.2013.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Cuando dos cuarentones vendedores de relojes son despedidos de sus respectivos trabajos, convencidos ambos de que no se han adaptado a los cambios de las nuevas tecnologías, deciden empezar de nuevo y buscar trabajo en la empresa más exitosa de Internet: Google. Finalmente consiguen un contrato de prácticas como becarios. La locura comienza cuando se ven compitiendo para conseguir el puesto con jóvenes veinteañeros, mucho más listos y más familiarizados con el mundo digital que ellos.",
+    "cover": "https://image.tmdb.org/t/p/w500/rh5dGroLv7vmmrVBCCo8tw72MGA.jpg",
+    "trailerKey": "AnqQSehl7tk"
+  },
+  {
+    "id": 16835,
+    "title": "Shooter: El tirador",
+    "year": "2007",
+    "duration": "124 minutos",
+    "director": "Antoine Fuqua",
+    "actors": [
+      {
+        "name": "Mark Wahlberg",
+        "photo": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+      },
+      {
+        "name": "Michael Peña",
+        "photo": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+      },
+      {
+        "name": "Danny Glover",
+        "photo": "https://image.tmdb.org/t/p/w185/7ZyztVlG7OpqD0EhzG8iwYNcd1s.jpg"
+      },
+      {
+        "name": "Kate Mara",
+        "photo": "https://image.tmdb.org/t/p/w185/xZYD8wYHMmN9dMMPiohnKEFoTGx.jpg"
+      },
+      {
+        "name": "Elias Koteas",
+        "photo": "https://image.tmdb.org/t/p/w185/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+      }
+    ],
+    "genre": "Drama, Acción, Suspense",
+    "rating": "7.1",
+    "telegramLink": "https://t.me/c/2474087426/16835",
+    "fileMessageId": "https://t.me/c/2474087426/16836",
+    "fileName": "shooter.tirador.2007.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Bob Lee Swagger (Mark Whalberg) es un ex-tirador de élite del ejército de los Estados Unidos que abandona las fuerzas armadas después del fracaso de una misión extraoficial. Cuando le piden que se reincorpore, regresa al servicio a regañadientes, pero vuelven a engañarlo. A pesar de llevar dos balas en el cuerpo y de ser el objetivo de una caza a nivel nacional, Swagger planea su venganza...",
+    "cover": "https://image.tmdb.org/t/p/w500/regcyuwMtiDV2ZrfF9OWmS6h3aO.jpg",
+    "trailerKey": "0cDsb-SsaDY"
+  },
+  {
+    "id": 16838,
+    "title": "Starman",
+    "year": "1984",
+    "duration": "115 minutos",
+    "director": "John Carpenter",
+    "actors": [
+      {
+        "name": "Jeff Bridges",
+        "photo": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+      },
+      {
+        "name": "Karen Allen",
+        "photo": "https://image.tmdb.org/t/p/w185/75yyZZyinCUcuK8pOSXnggmuiRp.jpg"
+      },
+      {
+        "name": "Charles Martin Smith",
+        "photo": "https://image.tmdb.org/t/p/w185/uzm5v0Q7nCH223EvPiJyh9Y0qiN.jpg"
+      },
+      {
+        "name": "Richard Jaeckel",
+        "photo": "https://image.tmdb.org/t/p/w185/bqPHmgKzNOWU58GtoB2SDiH8MHV.jpg"
+      },
+      {
+        "name": "Robert Phalen",
+        "photo": "https://image.tmdb.org/t/p/w185/3iYiOBKzGkz3Ny9J72aHSqwPfQs.jpg"
+      }
+    ],
+    "genre": "Ciencia ficción, Drama, Romance",
+    "rating": "6.9",
+    "telegramLink": "https://t.me/c/2474087426/16838",
+    "fileMessageId": "https://t.me/c/2474087426/16839",
+    "fileName": "starman.1984.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Jeff Bridges da vida a un extraterrestre de un lejano planeta que aprende lo que significa estar enamorado. Cuando su nave es abatida en Wisconsin, Starman llega al recóndito refugio de una joven y desconsolada viuda, Jenny Hayden, y adopta la forma de su marido fallecido. El extraterrestre convence a Jenny para que le lleve hasta Arizona, diciéndole que si no es rescatado por la nave nodriza en el plazo de tres días, él morirá.",
+    "cover": "https://image.tmdb.org/t/p/w500/snvyq6q3qaZ6JFF6NOl9CuGmpIX.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16841,
+    "title": "Philomena",
+    "year": "2013",
+    "duration": "98 minutos",
+    "director": "Stephen Frears",
+    "actors": [
+      {
+        "name": "Judi Dench",
+        "photo": "https://image.tmdb.org/t/p/w185/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+      },
+      {
+        "name": "Steve Coogan",
+        "photo": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+      },
+      {
+        "name": "Sophie Kennedy Clark",
+        "photo": "https://image.tmdb.org/t/p/w185/bh3MYQUpLONUuQNdr3J2pEOXKG4.jpg"
+      },
+      {
+        "name": "Mare Winningham",
+        "photo": "https://image.tmdb.org/t/p/w185/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+      },
+      {
+        "name": "Barbara Jefford",
+        "photo": "https://image.tmdb.org/t/p/w185/22CXDt5HdV8FjF52WZ0E9ERip8z.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "7.3",
+    "telegramLink": "https://t.me/c/2474087426/16841",
+    "fileMessageId": "https://t.me/c/2474087426/16842",
+    "fileName": "Philomena (2013).mp4",
+    "fileSize": "2,93 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Philomena es la verdadera historia de la búsqueda de una madre por su hijo perdido. Quedando embarazada cuando era un adolescente en Irlanda en 1952, Philomena Lee fue enviada al convento de Roscrea para ser atendidas como una \"mujer en desgracia\". Cuando su hijo era sólo un bebé, las monjas se lo llevaron para darlo en adopción en Estados Unidos. Philomena pasó los próximos cincuenta años buscándolo en vano. Entonces conoció a Martin Sixsmith, un periodista cansado del mundo, tan cínico que Philomena confiaba en él. Juntos partieron hacia América en un viaje que no sólo revelaría la extraordinaria historia del hijo de Philomena, sino que también crearía un vínculo muy cercano e inesperado entre Philomena y Martin.",
+    "cover": "https://image.tmdb.org/t/p/w500/cbZGSZwmadokDFox2cp3keWYKY6.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16844,
+    "title": "Tiptoes",
+    "year": "2002",
+    "duration": "90 minutos",
+    "director": "Matthew Bright",
+    "actors": [
+      {
+        "name": "Matthew McConaughey",
+        "photo": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+      },
+      {
+        "name": "Kate Beckinsale",
+        "photo": "https://image.tmdb.org/t/p/w185/aoIQJzrWRtq9mOeaPadzpUCAaVd.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "photo": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+      },
+      {
+        "name": "Patricia Arquette",
+        "photo": "https://image.tmdb.org/t/p/w185/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+      },
+      {
+        "name": "Peter Dinklage",
+        "photo": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+      }
+    ],
+    "genre": "Drama, Romance, Comedia",
+    "rating": "3.9",
+    "telegramLink": "https://t.me/c/2474087426/16844",
+    "fileMessageId": "https://t.me/c/2474087426/16845",
+    "fileName": "Tiptoes (2003) .mp4",
+    "fileSize": "1,98 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "A pesar de que Steven (McConaughey) pertenece a una familia de enanos, tiene una estatura normal. Su novia Carol (Kate Beckinsale) ignora esta circunstancia, pero acaba enterándose el día en que aparece en su casa Rolfe (Gary Oldman), el hermano de Steven. Cuando Carol se queda embarazada, la pareja teme que su bebé herede los genes de la familia paterna.",
+    "cover": "https://image.tmdb.org/t/p/w500/m609NhpkIUzAyIWgQYaaPSIsWFO.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16847,
+    "title": "El caso Hubener",
+    "year": "2025",
+    "duration": "121 minutos",
+    "director": "Matt Whitaker",
+    "actors": [
+      {
+        "name": "Ewan Horrocks",
+        "photo": "https://image.tmdb.org/t/p/w185/lICEEZLfIKtVaTCGfzLh1ZVlvES.jpg"
+      },
+      {
+        "name": "Rupert Evans",
+        "photo": "https://image.tmdb.org/t/p/w185/YrsdSUjinm0NN6qd8Y2znPf8Cg.jpg"
+      },
+      {
+        "name": "Ferdinand McKay",
+        "photo": "https://image.tmdb.org/t/p/w185/AqpeN6Cz9boCXBEt8Kdm6gWNqqd.jpg"
+      },
+      {
+        "name": "Daf Thomas",
+        "photo": "https://image.tmdb.org/t/p/w185/cVP2W5PW152hFzbMqnChAyTqGWW.jpg"
+      },
+      {
+        "name": "Nye Occomore",
+        "photo": null
+      }
+    ],
+    "genre": "Historia, Drama, Suspense",
+    "rating": "8.0",
+    "telegramLink": "https://t.me/c/2474087426/16847",
+    "fileMessageId": "https://t.me/c/2474087426/16848",
+    "fileName": "El caso Hubener (2025).mp4",
+    "fileSize": "3,54 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Helmuth Hübener, de 16 años, forma un grupo de resistencia con sus amigos Karl y Rudi tras presenciar la detención de su amigo judío por los nazis. Sus valientes acciones los llevan a ser juzgados por el máximo tribunal de la Alemania Nazi.",
+    "cover": "https://image.tmdb.org/t/p/w500/jdugSr7F0kFavNqUaDytcJUgRGW.jpg",
+    "trailerKey": "g23dT8nUHyw"
+  },
+  {
+    "id": 16850,
+    "title": "La tormenta perfecta",
+    "year": "2000",
+    "duration": "130 minutos",
+    "director": "Wolfgang Petersen",
+    "actors": [
+      {
+        "name": "George Clooney",
+        "photo": "https://image.tmdb.org/t/p/w185/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+      },
+      {
+        "name": "Mark Wahlberg",
+        "photo": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+      },
+      {
+        "name": "Diane Lane",
+        "photo": "https://image.tmdb.org/t/p/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+      },
+      {
+        "name": "John C. Reilly",
+        "photo": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "William Fichtner",
+        "photo": "https://image.tmdb.org/t/p/w185/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+      }
+    ],
+    "genre": "Drama, Aventura, Acción, Suspense",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/16850",
+    "fileMessageId": "https://t.me/c/2474087426/16851",
+    "fileName": "La Tormenta Perfecta (2000) - HD1080 Spanish-Subt..mkv",
+    "fileSize": "3,44 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Gloucester (Massachussetts), octubre de 1991. El Andrea Gail es un barco de pesca capitaneado por Billy Tyne, un veterano pescador cuyas últimas salidas se han saldado con paupérrimas capturas. Buscando un golpe de suerte que haga cambiar esta mala racha, se interna en el Flemish Cap, un lugar más allá de las zonas frecuentadas por los pescadores. Lo que ignora es que, a la zona donde faena, se está aproximando la tormenta más aterradora, violenta y destructiva que se pueda concebir.",
+    "cover": "https://image.tmdb.org/t/p/w500/75aRoXgG74D5wbSqEQAYFpFFJ0V.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16853,
+    "title": "Trabajos de amor perdidos",
+    "year": "2000",
+    "duration": "93 minutos",
+    "director": "Kenneth Branagh",
+    "actors": [
+      {
+        "name": "Alessandro Nivola",
+        "photo": "https://image.tmdb.org/t/p/w185/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+      },
+      {
+        "name": "Alicia Silverstone",
+        "photo": "https://image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+      },
+      {
+        "name": "Natascha McElhone",
+        "photo": "https://image.tmdb.org/t/p/w185/9pxaoasotR1pdCXYSfN1pkm0geO.jpg"
+      },
+      {
+        "name": "Kenneth Branagh",
+        "photo": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+      },
+      {
+        "name": "Carmen Ejogo",
+        "photo": "https://image.tmdb.org/t/p/w185/b2qi5NxOwoxK67LPz0MjVwjRcFp.jpg"
+      }
+    ],
+    "genre": "Comedia, Música, Romance",
+    "rating": "5.6",
+    "telegramLink": "https://t.me/c/2474087426/16853",
+    "fileMessageId": "https://t.me/c/2474087426/16854",
+    "fileName": "Trabajos_de_amor_perdidos_Kenneth_Branagh,_2000·Musical·Es·En·Esi·Ess.mkv",
+    "fileSize": "1,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "El Rey de Navarra y sus tres camaradas hacen el solemne y público juramento de estudiar juntos y de renunciar a las mujeres durante tres años. Su honor es inmediatamente puesto a prueba con la llegada de la Princesa de Francia y de sus tres adorables acompañantes. Los cuatro se quedan prendados de las damas francesas, y los esfuerzos que harán para salvaguardar su honor y ocultar sus sentimientos resultarán inútiles.",
+    "cover": "https://image.tmdb.org/t/p/w500/nOrluIOMbDywvGV6HPjYMJwCMVn.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16856,
+    "title": "Tras la línea enemiga",
+    "year": "2001",
+    "duration": "106 minutos",
+    "director": "John Moore",
+    "actors": [
+      {
+        "name": "Owen Wilson",
+        "photo": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+      },
+      {
+        "name": "Gene Hackman",
+        "photo": "https://image.tmdb.org/t/p/w185/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg"
+      },
+      {
+        "name": "Gabriel Macht",
+        "photo": "https://image.tmdb.org/t/p/w185/lacMH4Ju1x9AsKXm7mDkklSsPyV.jpg"
+      },
+      {
+        "name": "Olek Krupa",
+        "photo": "https://image.tmdb.org/t/p/w185/fKI4Upr3oEvJlv1mNuIRhHDDXBf.jpg"
+      },
+      {
+        "name": "Vladímir Mashkov",
+        "photo": "https://image.tmdb.org/t/p/w185/zmahacE9YLCWQOGxmIb3f9QHK7D.jpg"
+      }
+    ],
+    "genre": "Acción, Drama, Suspense, Bélica",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/16856",
+    "fileMessageId": "https://t.me/c/2474087426/16857",
+    "fileName": "Tras.la.linea.enemiga..mp4",
+    "fileSize": "1,94 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Se supone que la guerra en los Balcanes ha terminado, pero la batalla por la supervivencia apenas ha comenzado. Tras ser tiroteado durante una misión de reconocimiento en Bosnia, el piloto americano Chris Burnett (Owen Wilson) tendrá que luchar por sobrevivir y escapar de las tropas serbias. Con el tiempo en su contra, el jefe de Burnett (Gene Hackman) prepara una arriesgada misión de rescate -en contra de las directivas de la OTAN- para salvarlo.",
+    "cover": "https://image.tmdb.org/t/p/w500/fO9RxmeCKwLV1nggbKd9uSw99ZR.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16859,
+    "title": "Superman",
+    "year": "1978",
+    "duration": "143 minutos",
+    "director": "Richard Donner",
+    "actors": [
+      {
+        "name": "Christopher Reeve",
+        "photo": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+      },
+      {
+        "name": "Margot Kidder",
+        "photo": "https://image.tmdb.org/t/p/w185/uJI4BwpmD9fX8D8jBdn2jT5rpvo.jpg"
+      },
+      {
+        "name": "Gene Hackman",
+        "photo": "https://image.tmdb.org/t/p/w185/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg"
+      },
+      {
+        "name": "Marlon Brando",
+        "photo": "https://image.tmdb.org/t/p/w185/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
+      },
+      {
+        "name": "Ned Beatty",
+        "photo": "https://image.tmdb.org/t/p/w185/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+      }
+    ],
+    "genre": "Ciencia ficción, Acción, Aventura",
+    "rating": "7.2",
+    "telegramLink": "https://t.me/c/2474087426/16859",
+    "fileMessageId": "https://t.me/c/2474087426/16860",
+    "fileName": "superman.1978.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Desde una galaxia remota, un recién nacido es enviado por sus padres al espacio debido a la inminente destrucción del planeta donde viven. La nave aterriza en la Tierra, y el niño es adoptado por unos granjeros que le inculcan los mejores valores humanos. Con los años el joven se irá a Metrópolis y allí usará sus poderes sobrenaturales para luchar contra el mal.",
+    "cover": "https://image.tmdb.org/t/p/w500/esDQ66ANmrYR87NxAoP5IpErqwa.jpg",
+    "trailerKey": "vfC6XFYFbyA"
+  },
+  {
+    "id": 16862,
+    "title": "Superman II. La aventura continúa",
+    "year": "1980",
+    "duration": "127 minutos",
+    "director": "Richard Lester",
+    "actors": [
+      {
+        "name": "Christopher Reeve",
+        "photo": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+      },
+      {
+        "name": "Margot Kidder",
+        "photo": "https://image.tmdb.org/t/p/w185/uJI4BwpmD9fX8D8jBdn2jT5rpvo.jpg"
+      },
+      {
+        "name": "Terence Stamp",
+        "photo": "https://image.tmdb.org/t/p/w185/ept9urkuhPbGndVXkERw39R9oid.jpg"
+      },
+      {
+        "name": "Sarah Douglas",
+        "photo": "https://image.tmdb.org/t/p/w185/76YfRJyQodMIBiuO33slvSYEQhS.jpg"
+      },
+      {
+        "name": "Jack O'Halloran",
+        "photo": "https://image.tmdb.org/t/p/w185/3ke5FqVyLEGtYZu5lns9qRvi5K0.jpg"
+      }
+    ],
+    "genre": "Ciencia ficción, Acción, Aventura",
+    "rating": "6.8",
+    "telegramLink": "https://t.me/c/2474087426/16862",
+    "fileMessageId": "https://t.me/c/2474087426/16863",
+    "fileName": "superman.ii.aventura.continua.1980.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Tres criminales, procedentes del planeta Krypton, a los que el padre de Superman condenó a vagar por el espacio, eluden su condena y se dirigen a la Tierra para enfrentarse a Superman, en una batalla cósmica por la supremacía sobre el planeta. Al mismo tiempo, el superhéroe continúa ocultando su identidad tras la tímida personalidad del reportero Clark Kent, aunque su novia Lois Lane comienza a sospechar algo.",
+    "cover": "https://image.tmdb.org/t/p/w500/3ymtd76B8SkEcd51tQ1mzNf36s3.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16865,
+    "title": "Superman III",
+    "year": "1983",
+    "duration": "125 minutos",
+    "director": "Richard Lester",
+    "actors": [
+      {
+        "name": "Christopher Reeve",
+        "photo": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+      },
+      {
+        "name": "Richard Pryor",
+        "photo": "https://image.tmdb.org/t/p/w185/5hLh0btIkqYPbDmJ0i4WZo9OAt2.jpg"
+      },
+      {
+        "name": "Annette O'Toole",
+        "photo": "https://image.tmdb.org/t/p/w185/mCTEEzuNXlCdyl9uM4ot688IfVz.jpg"
+      },
+      {
+        "name": "Robert Vaughn",
+        "photo": "https://image.tmdb.org/t/p/w185/mYaQ9Qv2oC014lwMaXb76A5UL1n.jpg"
+      },
+      {
+        "name": "Annie Ross",
+        "photo": "https://image.tmdb.org/t/p/w185/y2rMACd935o8jieNxoOqxpDxhb1.jpg"
+      }
+    ],
+    "genre": "Comedia, Ciencia ficción, Acción, Aventura",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/16865",
+    "fileMessageId": "https://t.me/c/2474087426/16866",
+    "fileName": "superman.iii.1983.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Superman se tiene que enfrentar con una máquina creada por un genio de los ordenadores llamado Gus Gorman, contra un magnate megalómano que pretende transformar la Tierra y lo que es mucho peor contra un desdoblamiento de personalidad. Pero también habrá tiempo para que Clark Kent vuelva a Smallville, donde se encontrará con Lana Lang, su novia de la adolescencia.",
+    "cover": "https://image.tmdb.org/t/p/w500/d0s7bQpDXKVIeIj3HZZYTvJGCWv.jpg",
+    "trailerKey": "nchUXJ6upXo"
+  },
+  {
+    "id": 16868,
+    "title": "Superman IV. En busca de la paz",
+    "year": "1987",
+    "duration": "90 minutos",
+    "director": "Sidney J. Furie",
+    "actors": [
+      {
+        "name": "Christopher Reeve",
+        "photo": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+      },
+      {
+        "name": "Margot Kidder",
+        "photo": "https://image.tmdb.org/t/p/w185/uJI4BwpmD9fX8D8jBdn2jT5rpvo.jpg"
+      },
+      {
+        "name": "Gene Hackman",
+        "photo": "https://image.tmdb.org/t/p/w185/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg"
+      },
+      {
+        "name": "Mariel Hemingway",
+        "photo": "https://image.tmdb.org/t/p/w185/8SVp3IGeItoZjP7II5zedIU8Y5X.jpg"
+      },
+      {
+        "name": "Jackie Cooper",
+        "photo": "https://image.tmdb.org/t/p/w185/pbdUaMBfLq2qUP1jg7dM9hINRcI.jpg"
+      }
+    ],
+    "genre": "Acción, Aventura, Ciencia ficción",
+    "rating": "4.6",
+    "telegramLink": "https://t.me/c/2474087426/16868",
+    "fileMessageId": "https://t.me/c/2474087426/16869",
+    "fileName": "superman.iv.busca.paz.1987.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Poco despues de que la cumbre USA-URSS para el desarme nuclear fracase, el mundo se ve al borde de la III guerra mundial. Superman recibe la carta del niño Jeremy, quien le pide que salve el mundo de la inminente guerra atómica. Desafiando al espíritu de los sabios de Krypton, el Hombre de Acero anuncia a la ONU que destruirá todas las armas nucleares, tanto del Este como del Oeste. Sin embargo, esto es aprovechado por el genio criminal Lex Luthor, recién fugado de prisión, quien se alía con los militaristas americanos y soviéticos para crear a Nuclear Man, un supermonstruo que aniquilará al Ultimo Hijo de Krypton.",
+    "cover": "https://image.tmdb.org/t/p/w500/b5ux5N1eyjrfn3Iq93Dy2yENTuF.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16871,
+    "title": "La llamada",
+    "year": "2014",
+    "duration": "108 minutos",
+    "director": "Jason Stone",
+    "actors": [
+      {
+        "name": "Susan Sarandon",
+        "photo": "https://image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+      },
+      {
+        "name": "Gil Bellows",
+        "photo": "https://image.tmdb.org/t/p/w185/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+      },
+      {
+        "name": "Ellen Burstyn",
+        "photo": "https://image.tmdb.org/t/p/w185/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "photo": "https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+      },
+      {
+        "name": "Donald Sutherland",
+        "photo": "https://image.tmdb.org/t/p/w185/t9rN5Vni7GYmqqNi9nANCZbmewx.jpg"
+      }
+    ],
+    "genre": "Suspense",
+    "rating": "5.9",
+    "telegramLink": "https://t.me/c/2474087426/16871",
+    "fileMessageId": "https://t.me/c/2474087426/16872",
+    "fileName": "la.llamada.2014.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "La detective Hazel Micallef investiga en un pequeño pueblo canadiense el asesinato de una anciana, con la ayuda del oficial de policía local. Juntos empiezan a seguir la pista de un asesino en serie con motivaciones religiosas.",
+    "cover": "https://image.tmdb.org/t/p/w500/3NoTLjc72gHoajErj1zsH4rvllu.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16874,
+    "title": "Tierra prometida",
+    "year": "2012",
+    "duration": "106 minutos",
+    "director": "Gus Van Sant",
+    "actors": [
+      {
+        "name": "Matt Damon",
+        "photo": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+      },
+      {
+        "name": "Frances McDormand",
+        "photo": "https://image.tmdb.org/t/p/w185/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg"
+      },
+      {
+        "name": "John Krasinski",
+        "photo": "https://image.tmdb.org/t/p/w185/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+      },
+      {
+        "name": "Rosemarie DeWitt",
+        "photo": "https://image.tmdb.org/t/p/w185/44sxIdGtYN24R14OmnZbCpcd8J8.jpg"
+      },
+      {
+        "name": "Hal Holbrook",
+        "photo": "https://image.tmdb.org/t/p/w185/rjUwo6mSutAljAHTqGhlnBBd9lO.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/16874",
+    "fileMessageId": "https://t.me/c/2474087426/16875",
+    "fileName": "Tierra prometida (2012).mp4",
+    "fileSize": "3,59 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Steve Butler (Damon) un ejecutivo de una gran empresa, llega a un pequeño pueblo con su compañera de trabajo, Sue Thomason (Frances McDormand), para comprar los derechos de perforación a los propietarios de las tierras. En esa población, asolada por la crisis económica de los últimos años, Steve tendrá ocasión de reconsiderar lo que ha sido su vida hasta ese momento.",
+    "cover": "https://image.tmdb.org/t/p/w500/5C0b6Wu4Z0V4NuA1cD8SZU7FCkb.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16877,
+    "title": "Huérfanos de Brooklyn",
+    "year": "2019",
+    "duration": "145 minutos",
+    "director": "Edward Norton",
+    "actors": [
+      {
+        "name": "Edward Norton",
+        "photo": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+      },
+      {
+        "name": "Bruce Willis",
+        "photo": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+      },
+      {
+        "name": "Gugu Mbatha-Raw",
+        "photo": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+      },
+      {
+        "name": "Alec Baldwin",
+        "photo": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "photo": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      }
+    ],
+    "genre": "Drama, Suspense",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/16877",
+    "fileMessageId": "https://t.me/c/2474087426/16878",
+    "fileName": "Huerfanos de Brooklyn (2019).mp4",
+    "fileSize": "2,67 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Nueva York, 1957. Lionel Essrog, un detective privado que convive con el síndrome de Tourette, trata de resolver el asesinato de su mentor y mejor amigo, armado solo con vagas pistas y la fuerza de su mente obsesiva.",
+    "cover": "https://image.tmdb.org/t/p/w500/eQEy8Fe6ZnmwNzOh0CLZ1eR2oIX.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16880,
+    "title": "Loverboy",
+    "year": "1989",
+    "duration": "99 minutos",
+    "director": "Joan Micklin Silver",
+    "actors": [
+      {
+        "name": "Patrick Dempsey",
+        "photo": "https://image.tmdb.org/t/p/w185/2PpaYtXdaDmNi3jap4qPIdyVesL.jpg"
+      },
+      {
+        "name": "Kate Jackson",
+        "photo": "https://image.tmdb.org/t/p/w185/cAyWyDHnmSCL1H0JuwuoH6ECaPg.jpg"
+      },
+      {
+        "name": "Robert Ginty",
+        "photo": "https://image.tmdb.org/t/p/w185/jpPeOev6AMggRqlwikBOz4emSs.jpg"
+      },
+      {
+        "name": "Nancy Valen",
+        "photo": "https://image.tmdb.org/t/p/w185/hIRtm9gXYQVLT2BSeqYMii5seb7.jpg"
+      },
+      {
+        "name": "Dylan Walsh",
+        "photo": "https://image.tmdb.org/t/p/w185/A0XK6UEOuMKf66XpsZ1DBa9kXAR.jpg"
+      }
+    ],
+    "genre": "Comedia, Romance",
+    "rating": "6.1",
+    "telegramLink": "https://t.me/c/2474087426/16880",
+    "fileMessageId": "https://t.me/c/2474087426/16881",
+    "fileName": "Loverboy amante a Domicilio (1989) 1920x1080x264pxls.mkv",
+    "fileSize": "1,68 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Randy Bodek (Patrick Dempsey) es un joven estudiante que pasa por una \"mala racha\" al comienzo de sus vacaciones veraniegas. Ha acabado el curso con malas notas y, para colmo, su novia decide dejarle porque no se atreve a comunicarle a sus padres que vive con ella. Ante la escasa confianza en la disposición a estudiar de su hijo, el padre de Randy, rehusa pagarle la matrícula para el próximo curso . Para conseguir dinero, acepta un empleo de repartidor en \"Señor Pizza\", ataviado con un ridículo uniforme, que incluye un sombrerito mexicano y un mostacho postizo, con lo que consigue no mas de 4,8 dólares/hora. Pero todo cambia, cuando conoce a una bella y madura mujer: Alex Barnett (Barbara Carrera, \"Nunca digas nunca jamás\"). Rápidamente, Randy, se convierte en \"el doctor del amor de Beverly Hills\"",
+    "cover": "https://image.tmdb.org/t/p/w500/g4xWS9yQXvOhfhHdas7qguTqswb.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16883,
+    "title": "Camino hacia la gloria",
+    "year": "2000",
+    "duration": "114 minutos",
+    "director": "Michael Corrente",
+    "actors": [
+      {
+        "name": "Robert Duvall",
+        "photo": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+      },
+      {
+        "name": "Michael Keaton",
+        "photo": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+      },
+      {
+        "name": "Ally McCoist",
+        "photo": "https://image.tmdb.org/t/p/w185/zp837INdHQUFGhytgvgQo7UJK0Q.jpg"
+      },
+      {
+        "name": "Cole Hauser",
+        "photo": "https://image.tmdb.org/t/p/w185/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+      },
+      {
+        "name": "Brian Cox",
+        "photo": "https://image.tmdb.org/t/p/w185/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "5.7",
+    "telegramLink": "https://t.me/c/2474087426/16883",
+    "fileMessageId": "https://t.me/c/2474087426/16884",
+    "fileName": "Camino hacia la gloria (2000).mp4",
+    "fileSize": "3,90 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Gordon McLeod (Robert Duvall), una antigua estrella del fútbol, acepta entrenar al equipo de Kilnockie, un pueblo de Escocia, que está atravesando una mala racha de juego y resultados. Ansioso de éxitos, el propietario americano del equipo (Michael Keaton) contrata también a Jackie McQuillan (Ally McCoist), una vieja gloria del fútbol, alcohólico y problemático.",
+    "cover": "https://image.tmdb.org/t/p/w500/6tNyz1FfEh7KL2bf7jTSmzGVgEU.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16886,
+    "title": "Superdetective en Hollywood",
+    "year": "1984",
+    "duration": "105 minutos",
+    "director": "Martin Brest",
+    "actors": [
+      {
+        "name": "Eddie Murphy",
+        "photo": "https://image.tmdb.org/t/p/w185/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+      },
+      {
+        "name": "Judge Reinhold",
+        "photo": "https://image.tmdb.org/t/p/w185/6R0vCxzSx1CaDAM9y9ZgmejUdiL.jpg"
+      },
+      {
+        "name": "John Ashton",
+        "photo": "https://image.tmdb.org/t/p/w185/8TzYptb6pPxZJXfrJIu0UoZTNkX.jpg"
+      },
+      {
+        "name": "Lisa Eilbacher",
+        "photo": "https://image.tmdb.org/t/p/w185/tYbOrII1dXzNauGSbMlAZRyRUWT.jpg"
+      },
+      {
+        "name": "Ronny Cox",
+        "photo": "https://image.tmdb.org/t/p/w185/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg"
+      }
+    ],
+    "genre": "Comedia, Crimen, Acción",
+    "rating": "7.2",
+    "telegramLink": "https://t.me/c/2474087426/16886",
+    "fileMessageId": "https://t.me/c/2474087426/16887",
+    "fileName": "superdetective.hollywood.1984.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Axel Foley es un impetuoso e inteligente detective de Detroit que sigue la pista del asesino de un amigo suyo hasta los barrios más elegantes de Beverly Hills. Pero antes de que Axel logre su objetivo, va a verse involucrado en una red internacional de contrabandistas y traficantes de droga.",
+    "cover": "https://image.tmdb.org/t/p/w500/q8RtQuLStydGdJmHR4p8jNVssbv.jpg",
+    "trailerKey": "atvorLVDbYY"
+  },
+  {
+    "id": 16889,
+    "title": "Superdetective en Hollywood II",
+    "year": "1987",
+    "duration": "102 minutos",
+    "director": "Tony Scott",
+    "actors": [
+      {
+        "name": "Eddie Murphy",
+        "photo": "https://image.tmdb.org/t/p/w185/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+      },
+      {
+        "name": "Judge Reinhold",
+        "photo": "https://image.tmdb.org/t/p/w185/6R0vCxzSx1CaDAM9y9ZgmejUdiL.jpg"
+      },
+      {
+        "name": "John Ashton",
+        "photo": "https://image.tmdb.org/t/p/w185/8TzYptb6pPxZJXfrJIu0UoZTNkX.jpg"
+      },
+      {
+        "name": "Jürgen Prochnow",
+        "photo": "https://image.tmdb.org/t/p/w185/77rzBItlHX1SG4zTe39cBlEgwSL.jpg"
+      },
+      {
+        "name": "Ronny Cox",
+        "photo": "https://image.tmdb.org/t/p/w185/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg"
+      }
+    ],
+    "genre": "Acción, Comedia, Crimen",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/16889",
+    "fileMessageId": "https://t.me/c/2474087426/16890",
+    "fileName": "superdetective.hollywood.ii.1987.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "El detective de Detroit Axel Foley se entera por las noticias de la tele de que su amigo Andrew Bogomil, capitán de la policía de Beverly Hills, ha sido tiroteado por una mujer. Cuando va a visitarlo al hospital, conoce a su hija Jan. Con la ayuda de dos agentes amigos suyos intenta localizar a la culpable, a pesar de que el jefe de policía Harold Lutz ha intentado encontrar alguna razón para despedir a los dos agentes. Axel y sus amigos descubren que los \"atracos del alfabeto\", que han tenido lugar en la zona, son obra del traficante de armas Maxwell Dent, que ha enviado a su prometida Karla Fry a matar a Bogomil porque éste le iba siguiendo los pasos.",
+    "cover": "https://image.tmdb.org/t/p/w500/19fU9cD8nBp3riUgKZi6nLSMO88.jpg",
+    "trailerKey": "soQDJ2NA8dw"
+  },
+  {
+    "id": 16892,
+    "title": "Insidious: Fuera del más allá",
+    "year": "2026",
+    "duration": "106 minutos",
+    "director": "Jacob Chase",
+    "actors": [
+      {
+        "name": "Amelia Eve",
+        "photo": "https://image.tmdb.org/t/p/w185/Am54f1ys9nqZKuFDEkSwkqhRAuo.jpg"
+      },
+      {
+        "name": "Island Austin",
+        "photo": "https://image.tmdb.org/t/p/w185/663fMDrygvPYcV4L567iHVzEfXD.jpg"
+      },
+      {
+        "name": "Brandon Perea",
+        "photo": "https://image.tmdb.org/t/p/w185/hEzljVgsho0Uwd8tg7AGB5Uy3Lr.jpg"
+      },
+      {
+        "name": "Lin Shaye",
+        "photo": "https://image.tmdb.org/t/p/w185/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+      },
+      {
+        "name": "Maisie Richardson-Sellers",
+        "photo": "https://image.tmdb.org/t/p/w185/7Rue8ZtZ8uLb1x0YC9viieunoC0.jpg"
+      }
+    ],
+    "genre": "Terror, Suspense",
+    "rating": "7.4",
+    "telegramLink": "https://t.me/c/2474087426/16892",
+    "fileMessageId": "https://t.me/c/2474087426/16893",
+    "fileName": "Insidious Fuera del más allá (2026).mp4",
+    "fileSize": "3,28 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+    "cover": "https://image.tmdb.org/t/p/w500/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16895,
+    "title": "Strung",
+    "year": "2026",
+    "duration": "119 minutos",
+    "director": "Malcolm D. Lee",
+    "actors": [
+      {
+        "name": "Chlöe Bailey",
+        "photo": "https://image.tmdb.org/t/p/w185/mZxukGTNv2FEZxWvnLGgBRpyMwr.jpg"
+      },
+      {
+        "name": "Lynn Whitfield",
+        "photo": "https://image.tmdb.org/t/p/w185/wXSwJplyOgANJKTRvOAsvqURbP0.jpg"
+      },
+      {
+        "name": "Lucien Laviscount",
+        "photo": "https://image.tmdb.org/t/p/w185/3GndTFV0wMGDwocS4rP5Z194uYu.jpg"
+      },
+      {
+        "name": "Anna Diop",
+        "photo": "https://image.tmdb.org/t/p/w185/1QcuJHVyLXZNnuwmNuqL9Lon4kq.jpg"
+      },
+      {
+        "name": "Romy Woods",
+        "photo": "https://image.tmdb.org/t/p/w185/iAhPozomfubmB8CIndqXFSxNQwu.jpg"
+      }
+    ],
+    "genre": "Misterio, Suspense",
+    "rating": "7.6",
+    "telegramLink": "https://t.me/c/2474087426/16895",
+    "fileMessageId": "https://t.me/c/2474087426/16896",
+    "fileName": "Strung (2026).mp4",
+    "fileSize": "2,99 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Una talentosa violinista consigue un trabajo de ensueño como tutora de la hija de una familia adinerada y reservada, donde descubre que tuvo un tórrido lío de una noche con el patriarca. A medida que se desvelan oscuros secretos, se cuestiona su seguridad, sus ambiciones y su cordura.",
+    "cover": "https://image.tmdb.org/t/p/w500/lbiQYFImxkkb3qkZLXacQE1pagv.jpg",
+    "trailerKey": "CQU0Eu02kAg"
+  },
+  {
+    "id": 16898,
+    "title": "Normal",
+    "year": "2026",
+    "duration": "91 minutos",
+    "director": "Ben Wheatley",
+    "actors": [
+      {
+        "name": "Bob Odenkirk",
+        "photo": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        "name": "Henry Winkler",
+        "photo": "https://image.tmdb.org/t/p/w185/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
+      },
+      {
+        "name": "Lena Headey",
+        "photo": "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+      },
+      {
+        "name": "Billy MacLellan",
+        "photo": "https://image.tmdb.org/t/p/w185/9ObnhjbbeVEhk8g941FrLq4W0r7.jpg"
+      },
+      {
+        "name": "Ryan Allen",
+        "photo": "https://image.tmdb.org/t/p/w185/99O5NjoOmO4uCmTYaQhipj1qMNx.jpg"
+      }
+    ],
+    "genre": "Acción, Crimen, Suspense",
+    "rating": "7.2",
+    "telegramLink": "https://t.me/c/2474087426/16898",
+    "fileMessageId": "https://t.me/c/2474087426/16899",
+    "fileName": "Normal (2026).mkv",
+    "fileSize": "3,08 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+    "cover": "https://image.tmdb.org/t/p/w500/vEv0XaKUajU6Z8LiMLmgTDGmNBM.jpg",
+    "trailerKey": "UlnPsOt6-tI"
+  },
+  {
+    "id": 16901,
+    "title": "Spider-Man: Brand New Day",
+    "year": "2026",
+    "duration": "145 minutos",
+    "director": "Destin Daniel Cretton",
+    "actors": [
+      {
+        "name": "Tom Holland",
+        "photo": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+      },
+      {
+        "name": "Sadie Sink",
+        "photo": "https://image.tmdb.org/t/p/w185/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+      },
+      {
+        "name": "Tramell Tillman",
+        "photo": "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+      },
+      {
+        "name": "Zendaya",
+        "photo": "https://image.tmdb.org/t/p/w185/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+      },
+      {
+        "name": "Jacob Batalon",
+        "photo": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+      }
+    ],
+    "genre": "Ciencia ficción, Acción, Aventura",
+    "rating": "8.2",
+    "telegramLink": "https://t.me/c/2474087426/16901",
+    "fileMessageId": "https://t.me/c/2474087426/16902",
+    "fileName": "Spider-Man Brand New Day (2026).mkv",
+    "fileSize": "3,61 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+    "cover": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+    "trailerKey": "o8EccyRIwQQ"
+  },
+  {
+    "id": 16904,
+    "title": "Mi padre",
+    "year": "1989",
+    "duration": "117 minutos",
+    "director": "Gary David Goldberg",
+    "actors": [
+      {
+        "name": "Jack Lemmon",
+        "photo": "https://image.tmdb.org/t/p/w185/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+      },
+      {
+        "name": "Ted Danson",
+        "photo": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+      },
+      {
+        "name": "Ethan Hawke",
+        "photo": "https://image.tmdb.org/t/p/w185/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Kevin Spacey",
+        "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+      },
+      {
+        "name": "Olympia Dukakis",
+        "photo": "https://image.tmdb.org/t/p/w185/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/16904",
+    "fileMessageId": "https://t.me/c/2474087426/16905",
+    "fileName": "mi.padre.1989.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Jake Tremont, un jubilado que siempre vivió dominado por su esposa y que prestó poca atención a su hijo, repara por primera vez en él cuando su mujer está gravemente enferma. Los cuidados y atenciones de su hijo adulto, un atareado ejecutivo, le devuelven las ganas de vivir. Además, la relación con su nieto, trastornado por la separación de sus padres, lo animará a reconstruir la familia.",
+    "cover": "https://image.tmdb.org/t/p/w500/jKP36yn9lpxGxKzPP8wGaHogqS5.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16907,
+    "title": "Boyhood (Momentos de una vida)",
+    "year": "2014",
+    "duration": "164 minutos",
+    "director": "Richard Linklater",
+    "actors": [
+      {
+        "name": "Ellar Coltrane",
+        "photo": "https://image.tmdb.org/t/p/w185/8r78yVw07oR8smO6c3wNpOnUSxT.jpg"
+      },
+      {
+        "name": "Patricia Arquette",
+        "photo": "https://image.tmdb.org/t/p/w185/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+      },
+      {
+        "name": "Ethan Hawke",
+        "photo": "https://image.tmdb.org/t/p/w185/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Lorelei Linklater",
+        "photo": "https://image.tmdb.org/t/p/w185/8xTFHBYaB0SZT0ZCwUmf9AOczAD.jpg"
+      },
+      {
+        "name": "Libby Villari",
+        "photo": "https://image.tmdb.org/t/p/w185/YjyLmdqVKRkmpkYqn2xVL5EbLO.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "7.5",
+    "telegramLink": "https://t.me/c/2474087426/16907",
+    "fileMessageId": "https://t.me/c/2474087426/16908",
+    "fileName": "boyhood.momentos.vida.2014.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Es la historia de Mason desde los seis años y durante una década poblada de cambios: mudanzas y controversias, relaciones que se tambalean, bodas, diferentes colegios, primeros amores, también desilusiones, momentos maravillosos, de miedo y de una constante mezcla de desgarro y sorpresa. Un viaje íntimo y épico por la euforia de la niñez, los sísmicos cambios de una familia moderna y el paso del tiempo.",
+    "cover": "https://image.tmdb.org/t/p/w500/7wB1OG7YrJRolO74PhvzikeWVCv.jpg",
+    "trailerKey": "khIt84A9zUk"
+  },
+  {
+    "id": 16910,
+    "title": "Click, Click",
+    "year": "1984",
+    "duration": "102 minutos",
+    "director": "Jerry Schatzberg",
+    "actors": [
+      {
+        "name": "Jon Cryer",
+        "photo": "https://image.tmdb.org/t/p/w185/7PB7dDNHP9l5LlCCw6GP8GjaCAE.jpg"
+      },
+      {
+        "name": "Demi Moore",
+        "photo": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+      },
+      {
+        "name": "George Wendt",
+        "photo": "https://image.tmdb.org/t/p/w185/16jaUH9MzkxuIEex1MTETJvy5AV.jpg"
+      },
+      {
+        "name": "Peter Frechette",
+        "photo": "https://image.tmdb.org/t/p/w185/sF2osn6SxsSj7Mex1ZKKmRyQ0LR.jpg"
+      },
+      {
+        "name": "E. G. Daily",
+        "photo": "https://image.tmdb.org/t/p/w185/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg"
+      }
+    ],
+    "genre": "Comedia, Drama, Romance",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/16910",
+    "fileMessageId": "https://t.me/c/2474087426/16911",
+    "fileName": "Click, Click (1984).mp4",
+    "fileSize": "1,68 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Charles (Jon Cryer, conocido por la serie \"Dos hombres y medio\"), un joven fotógrafo amateur de 16 años, saca accidentalmente una foto de Laura (Demi Moore), una bella mujer de 22 de la que se enamora inmediatamente.",
+    "cover": "https://image.tmdb.org/t/p/w500/6ebFKMfltRpillSgAxSksjfASF1.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16913,
+    "title": "Sombras y niebla",
+    "year": "1991",
+    "duration": "85 minutos",
+    "director": "Woody Allen",
+    "actors": [
+      {
+        "name": "Woody Allen",
+        "photo": "https://image.tmdb.org/t/p/w185/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+      },
+      {
+        "name": "Mia Farrow",
+        "photo": "https://image.tmdb.org/t/p/w185/kuLfS2jQOnfIOwCO7RHlwjDIERQ.jpg"
+      },
+      {
+        "name": "John Malkovich",
+        "photo": "https://image.tmdb.org/t/p/w185/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+      },
+      {
+        "name": "John Cusack",
+        "photo": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+      },
+      {
+        "name": "Madonna",
+        "photo": "https://image.tmdb.org/t/p/w185/8XtGxpB4z428QDgwKlFYPktYHFC.jpg"
+      }
+    ],
+    "genre": "Comedia, Misterio, Crimen",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/16913",
+    "fileMessageId": "https://t.me/c/2474087426/16914",
+    "fileName": "Sombras y niebla (1992).mp4",
+    "fileSize": "2,01 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Un estrangulador está sembrando el terror en una ciudad sumida en una espesa niebla. Al insignificante Kleinman lo llaman para que participe en la captura del criminal. Sin embargo, su función dentro de la operación policial no termina de estar clara. Sus temerosos pasos por las calles desiertas se cruzarán con los de una tragasables de circo que acaba de abandonar a su hombre, uno de los payasos.",
+    "cover": "https://image.tmdb.org/t/p/w500/44dA8xJUFGTk8ystIWUZ6iixqGD.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16916,
+    "title": "Broadway Danny Rose",
+    "year": "1984",
+    "duration": "86 minutos",
+    "director": "Woody Allen",
+    "actors": [
+      {
+        "name": "Woody Allen",
+        "photo": "https://image.tmdb.org/t/p/w185/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+      },
+      {
+        "name": "Mia Farrow",
+        "photo": "https://image.tmdb.org/t/p/w185/kuLfS2jQOnfIOwCO7RHlwjDIERQ.jpg"
+      },
+      {
+        "name": "Nick Apollo Forte",
+        "photo": "https://image.tmdb.org/t/p/w185/wAAPSLUVnsr0wX7BpkgOcWCfIsb.jpg"
+      },
+      {
+        "name": "Sandy Baron",
+        "photo": "https://image.tmdb.org/t/p/w185/jBO1Pbeg2xDDNGPpJPsdtcjogbO.jpg"
+      },
+      {
+        "name": "Corbett Monica",
+        "photo": null
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "7.1",
+    "telegramLink": "https://t.me/c/2474087426/16916",
+    "fileMessageId": "https://t.me/c/2474087426/16917",
+    "fileName": "Broadway Danny Rose (Woody Allen) 1984 Hdrip.mp4",
+    "fileSize": "1,71 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Danny Rose es el típico agente de perdedores. Entre sus clientes se encuentran loros que tocan el piano, bailarines de claqué con una sola pierna y ventrílocuos tartamudos. Un día un golpe de \"suerte\" cambia su vida, Lou Canova, un intrigante cantante de la mafia muy codiciado por sus actuaciones en el Waldorf, le pide que le represente... pero con una condición: que Danny acompañe a Tina, su amante, a ver su actuación. ¡El desastre está servido! Enamorado de Tina, dominado por Lou e \"invitado\" por la mafia la cosa no puede ir peor. Danny luchará porque el espectáculo continúe antes de que caiga definitivamente el telón.",
+    "cover": "https://image.tmdb.org/t/p/w500/wIoJAlgkKBP8klERrB78Z1HGP0Y.jpg",
+    "trailerKey": null
+  },
+  {
+    "id": 16919,
+    "title": "Wonder Wheel",
+    "year": "2017",
+    "duration": "101 minutos",
+    "director": "Woody Allen",
+    "actors": [
+      {
+        "name": "Kate Winslet",
+        "photo": "https://image.tmdb.org/t/p/w185/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+      },
+      {
+        "name": "Juno Temple",
+        "photo": "https://image.tmdb.org/t/p/w185/vwCjlWQLQWbmcUT2Lwn9G0O8r2.jpg"
+      },
+      {
+        "name": "Jim Belushi",
+        "photo": "https://image.tmdb.org/t/p/w185/wIvFYH110ER7ukwR0qryQJJDQYH.jpg"
+      },
+      {
+        "name": "Justin Timberlake",
+        "photo": "https://image.tmdb.org/t/p/w185/6Yk5t9RwkdkAT8Qv45934Eez2CA.jpg"
+      },
+      {
+        "name": "Max Casella",
+        "photo": "https://image.tmdb.org/t/p/w185/5CNTDSCBhWPclTLTyTBy8oHUkzb.jpg"
+      }
+    ],
+    "genre": "Drama, Romance",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/16919",
+    "fileMessageId": "https://t.me/c/2474087426/16920",
+    "fileName": "wonder.wheel.2017.1080p.x264.ac3.mkv",
+    "fileSize": "3,54 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "En la Coney Island de la década de 1950 el joven Mickey Rubin (Timberlake), un apuesto salvavidas del parque de atracciones que quiere ser escritor, cuenta la historia de Humpty (Jim Belushi), operador del carrusel del parque, y de su esposa Ginny (Winslet), una actriz con un carácter sumamente volátil que trabaja como camarera. Ginny y Humpty pasan por una crisis porque además él tiene un problema con el alcohol, y por si fuera poco la vida de todos se complica cuando aparece Carolina (Juno Temple), la hija de Humpty, que está huyendo de un grupo de mafiosos.",
+    "cover": "https://image.tmdb.org/t/p/w500/iWez74hf57azpHK8oKBSE8sSfm3.jpg",
+    "trailerKey": "7Y7VfCEb3Kg"
+  },
+  {
+    "id": 16922,
+    "title": "Familia revuelta",
+    "year": "2023",
+    "duration": "101 minutos",
+    "director": "McG",
+    "actors": [
+      {
+        "name": "Jennifer Garner",
+        "photo": "https://image.tmdb.org/t/p/w185/eiX083VOa0RCGSgwENZgVi5MgDi.jpg"
+      },
+      {
+        "name": "Ed Helms",
+        "photo": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+      },
+      {
+        "name": "Emma Myers",
+        "photo": "https://image.tmdb.org/t/p/w185/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
+      },
+      {
+        "name": "Brady Noon",
+        "photo": "https://image.tmdb.org/t/p/w185/qn7dJS2XxKfSoJdK9BVgFiPEeCJ.jpg"
+      },
+      {
+        "name": "Rita Moreno",
+        "photo": "https://image.tmdb.org/t/p/w185/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+      }
+    ],
+    "genre": "Comedia, Fantasía, Familia",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/16922",
+    "fileMessageId": "https://t.me/c/2474087426/16923",
+    "fileName": "Familia revuelta @Todogram.mkv",
+    "fileSize": "2,14 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "plot": "Poco antes de Navidad, el caos sacude a una familia: por una extraña conjunción cósmica, los padres intercambian sus cuerpos con los de sus hijos adolescentes.",
+    "cover": "https://image.tmdb.org/t/p/w500/mDJiZua9gUzHRwefHhw2OaJ8HTF.jpg",
+    "trailerKey": "TEsDg5fuo5w"
   }
 ]
