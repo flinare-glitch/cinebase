@@ -1,0 +1,6 @@
+{
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.2/CineBase.apk",
+    "notes":  "La bÃºsqueda mira en todo el catÃ¡logo y el trÃ¡iler se abre en la app de YouTube (pantalla completa y ATRÃS vuelve a CineBase)."
+}
