@@ -83957,23 +83957,44 @@
   },
   {
     "id": 8695,
-    "title": "From Here/From There (De Aquí/De Allá)",
+    "title": "Here (Aquí)",
     "year": "2024",
-    "duration": "55 minutos",
-    "director": "Marlene 'Mo' Morris",
-    "actors": [],
-    "genre": "Documental",
-    "rating": "0.0",
+    "duration": "104 minutos",
+    "director": "Robert Zemeckis",
+    "actors": [
+      {
+        "name": "Tom Hanks",
+        "photo": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "photo": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+      },
+      {
+        "name": "Paul Bettany",
+        "photo": "https://image.tmdb.org/t/p/w185/awlH20l93cgHOIDPNP6FCnGuIJy.jpg"
+      },
+      {
+        "name": "Kelly Reilly",
+        "photo": "https://image.tmdb.org/t/p/w185/l8aQsryOQvxgX6SdZ4XtzU8KEXn.jpg"
+      },
+      {
+        "name": "Finn Guegan",
+        "photo": "https://image.tmdb.org/t/p/w185/pUoXBQqKjBwA0AvHV8f52kByokB.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.5",
     "telegramLink": "https://t.me/c/2474087426/8695",
     "fileMessageId": "https://t.me/c/2474087426/8696",
     "fileName": "Here (Aquí) 2024 Cast 5 1 Brrip.@Todogram.mp4",
     "fileSize": "3,13 Gb",
     "isFavorite": false,
     "tmdb_synced": true,
-    "plot": "",
-    "cover": "https://image.tmdb.org/t/p/w500/eFAMOH7AIXaPa00zgMtlkBdYKL1.jpg",
-    "trailerKey": null,
-    "ageRatingSpain": ""
+    "plot": "Ambientada en una única habitación, HERE (AQUÍ) sigue a las numerosas generaciones de habitantes que formaron en esa habitación su hogar. Una original historia de amor, pérdida, risas y vida, que nos hará viajar desde un pasado muy remoto hasta un futuro próximo. Este emocionante viaje a lo largo de cientos de miles de años, transcurrirá, de principio a fin, en un solo lugar: AQUÍ.",
+    "cover": "https://image.tmdb.org/t/p/w500/65zTu9QL4v1iTnz1KX4laWNZah2.jpg",
+    "trailerKey": "FOiB80msiiI",
+    "ageRatingSpain": "12"
   },
   {
     "id": 8698,
@@ -179232,35 +179253,43 @@
   },
   {
     "id": 16367,
-    "title": "Arrête de pleurer Pénélope 2",
-    "year": "2007",
-    "duration": "",
-    "director": "Michèle Bernier",
+    "title": "Penélope",
+    "year": "2006",
+    "duration": "89 minutos",
+    "director": "Mark Palansky",
     "actors": [
       {
-        "name": "Christine Anglio",
-        "photo": "https://image.tmdb.org/t/p/w185/6CjrfaV9OlbtYiNR27wjrHOYyjr.jpg"
+        "name": "Christina Ricci",
+        "photo": "https://image.tmdb.org/t/p/w185/m2cY5Er1loPgHkZYdFMEz6YeiwG.jpg"
       },
       {
-        "name": "Juliette Arnaud",
-        "photo": "https://image.tmdb.org/t/p/w185/k3XjC8rh1O46GdemvwTXbBcPoIn.jpg"
+        "name": "James McAvoy",
+        "photo": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
       },
       {
-        "name": "Corinne Puget",
-        "photo": "https://image.tmdb.org/t/p/w185/b4XZ1afxk2JyycT9eZUdufbMiLV.jpg"
+        "name": "Catherine O'Hara",
+        "photo": "https://image.tmdb.org/t/p/w185/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+      },
+      {
+        "name": "Peter Dinklage",
+        "photo": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+      },
+      {
+        "name": "Richard E. Grant",
+        "photo": "https://image.tmdb.org/t/p/w185/92oaBntIXhndCxUXaGywUyILIIE.jpg"
       }
     ],
-    "genre": "Comedia",
-    "rating": "2.0",
+    "genre": "Fantasía, Comedia, Romance",
+    "rating": "6.7",
     "telegramLink": "https://t.me/c/2474087426/16367",
     "fileMessageId": "https://t.me/c/2474087426/16368",
     "fileName": "Penélope (2007).mkv",
     "fileSize": "3,18 Gb",
     "isFavorite": false,
     "tmdb_synced": true,
-    "plot": "",
-    "cover": "https://image.tmdb.org/t/p/w500/eUy9BhOz3jVsq4YfKMEuyJSTjl3.jpg",
-    "trailerKey": null,
+    "plot": "Penélope (Ricci) pertenece a una acaudalada familia sobre la que pesa una maldición: su nariz, igual al hocico de un cerdo, es una prueba de ello. La única esperanza de que la maldición se rompa consiste en que alguien se enamore de ella, aceptándola tal como es. Pero Penelope está harta de esperar, recluida en la mansión de sus padres. Cuando consigue salir al mundo exterior, su foto es publicada en los periódicos y se convierte en un espectáculo, lo que la lleva a reflexionar sobre lo que significa sentirse diferente y lo que significa ser amada.",
+    "cover": "https://image.tmdb.org/t/p/w500/stsGbgMhDo3VjLLsrbeiz0fuj8d.jpg",
+    "trailerKey": "GrZ-7bm9z5s",
     "ageRatingSpain": ""
   },
   {
