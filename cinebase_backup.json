@@ -196568,5 +196568,47 @@
     "cover": "https://image.tmdb.org/t/p/w500/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
     "trailerKey": "hBtSF4-cnzk",
     "ageRatingSpain": "12"
+  },
+  {
+    "id": 17501,
+    "title": "Nada en común",
+    "year": "1986",
+    "duration": "118 minutos",
+    "director": "Garry Marshall",
+    "actors": [
+      {
+        "name": "Tom Hanks",
+        "photo": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Jackie Gleason",
+        "photo": "https://image.tmdb.org/t/p/w185/5s1b0xpR7fFFRDYwow5QoIXZlU5.jpg"
+      },
+      {
+        "name": "Eva Marie Saint",
+        "photo": "https://image.tmdb.org/t/p/w185/nJgTHDaCA3yl8vDu3nP8S6qjhIx.jpg"
+      },
+      {
+        "name": "Héctor Elizondo",
+        "photo": "https://image.tmdb.org/t/p/w185/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+      },
+      {
+        "name": "Barry Corbin",
+        "photo": "https://image.tmdb.org/t/p/w185/avNg0rmudSPg30f8Xt9BwkPDC17.jpg"
+      }
+    ],
+    "genre": "Drama, Comedia",
+    "rating": "5.9",
+    "telegramLink": "https://t.me/c/2474087426/17501",
+    "fileMessageId": "https://t.me/c/2474087426/17502",
+    "fileName": "1986 Nada en comun_Px264.mp4",
+    "fileSize": "2,15 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 29968,
+    "plot": "David Basner, director creativo de una agencia de publicidad, gana mucho dinero y está siempre rodeado de mujeres. Cuando se entera de que su madre, después de 34 años de matrimonio, ha abandonado a su padre, no tiene más remedio que cambiar de vida. Ahora tendrá que repartir su tiempo entre su madre, feliz de haber recuperado la independencia, y su recién jubilado padre, un hombre testarudo y nada sentimental.",
+    "cover": "https://image.tmdb.org/t/p/w500/jkDVX1JE24wZhhBUosIke8R9uFr.jpg",
+    "trailerKey": "8evvm4s-C98",
+    "ageRatingSpain": ""
   }
 ]
