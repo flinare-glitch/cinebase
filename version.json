@@ -1,6 +1,6 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.8",
-    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.8/CineBase.apk",
-    "notes":  "Géneros concretos y Cine Clásico en orden aleatorio cada vez que entras. Estrenos y Todos los géneros siguen por orden de subida."
+    "versionCode":  10,
+    "versionName":  "1.9",
+    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.9/CineBase.apk",
+    "notes":  "El aviso de nueva versión ya no se queda sin foco: ahora puedes elegir Actualizar o Ahora no con el mando."
 }
