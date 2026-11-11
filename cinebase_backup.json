@@ -164055,19 +164055,45 @@
   },
   {
     "id": 15225,
-    "title": "AMOR EN LA COCINA",
+    "title": "Love's Kitchen",
     "year": "2011",
     "duration": "93 minutos",
     "director": "James Hacking",
-    "actors": "Dougray Scott, Claire Forlani, Holly Gibbs, Lee Boardman, Michelle Ryan",
+    "actors": [
+      {
+        "name": "Dougray Scott",
+        "photo": "https://image.tmdb.org/t/p/w185/fDjTHSZuUIEstxxBvHApLrU1fWz.jpg"
+      },
+      {
+        "name": "Claire Forlani",
+        "photo": "https://image.tmdb.org/t/p/w185/e0Uk6QphxHZ9VTtxUT0ZkPgYWNs.jpg"
+      },
+      {
+        "name": "Holly Gibbs",
+        "photo": "https://image.tmdb.org/t/p/w185/nurPwtgelH26lj6zWiPTFBmmjdX.jpg"
+      },
+      {
+        "name": "Lee Boardman",
+        "photo": "https://image.tmdb.org/t/p/w185/ghJ28dk1Zrl5C3KiC62nskgsqUi.jpg"
+      },
+      {
+        "name": "Michelle Ryan",
+        "photo": "https://image.tmdb.org/t/p/w185/ku4bB0mkNqIxrq9inHMurh81ZHg.jpg"
+      }
+    ],
     "genre": "Drama, Romance, Comedia",
-    "rating": "5.4 / 10",
+    "rating": "5.4",
     "telegramLink": "https://t.me/c/2474087426/15225",
     "fileMessageId": "https://t.me/c/2474087426/15226",
     "fileName": "Loves Kitchen con subs.mkv",
     "fileSize": "2,09 Gb",
     "isFavorite": false,
-    "tmdb_synced": true
+    "tmdb_synced": true,
+    "tmdbId": 66945,
+    "plot": "Rob es un reconocido chef de londres,su carrera es un éxito y la vida le sonríe...hasta que un accidente acaba con la vida de su esposa. Superado por la tristeza, Rob pierde su restaurante y su interés por la cocina, hasta que animado por un grupo de amigos y su hija, decide empezar de nuevo y abrir un pequeño restaurante en el campo. Así conocerá a Kate, una crítica gastronómica, que pronto le ayudará a conseguir la receta perfecta, la del amor. La vida de la pequeña aldea y de sus pintorescos personajes se verá completamente alterada cuando el restaurante se convierte en el lugar de moda.",
+    "cover": "https://image.tmdb.org/t/p/w500/mKedM3lkGfqrXfbJdRuaerFwC7z.jpg",
+    "trailerKey": "hMuylrwnNQk",
+    "ageRatingSpain": ""
   },
   {
     "id": 15228,
