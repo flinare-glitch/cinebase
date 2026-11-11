@@ -19791,48 +19791,6 @@
     "tmdbId": 259695
   },
   {
-    "id": 1705,
-    "title": "Irreversible",
-    "year": "2002",
-    "duration": "97 minutos",
-    "director": "Gaspar Noé",
-    "actors": [
-      {
-        "name": "Monica Bellucci",
-        "photo": "https://image.tmdb.org/t/p/w185/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
-      },
-      {
-        "name": "Vincent Cassel",
-        "photo": "https://image.tmdb.org/t/p/w185/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
-      },
-      {
-        "name": "Albert Dupontel",
-        "photo": "https://image.tmdb.org/t/p/w185/gwZFclFz6IQcKadX3wYhagP0r2I.jpg"
-      },
-      {
-        "name": "Jo Prestia",
-        "photo": "https://image.tmdb.org/t/p/w185/owAotRB9XMCf1LkceEl0ygWueQA.jpg"
-      },
-      {
-        "name": "Philippe Nahon",
-        "photo": "https://image.tmdb.org/t/p/w185/CHlLvN1GCXb78eB418z9yfhrSu.jpg"
-      }
-    ],
-    "genre": "Drama, Suspense, Crimen",
-    "rating": "7.2",
-    "telegramLink": "https://t.me/c/2474087426/1705",
-    "fileMessageId": "https://t.me/c/2474087426/1706",
-    "fileName": "Irreversible.mp4",
-    "fileSize": "1,91 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
-    "cover": "https://image.tmdb.org/t/p/w500/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
-    "trailerKey": "e9D7hvIwgj4",
-    "ageRatingSpain": "",
-    "tmdbId": 979
-  },
-  {
     "id": 1708,
     "title": "Magnolia",
     "year": "1999",
@@ -33519,48 +33477,6 @@
     "ageRatingSpain": "16"
   },
   {
-    "id": 3156,
-    "title": "Grease",
-    "year": "1978",
-    "duration": "110 minutos",
-    "director": "Randal Kleiser",
-    "actors": [
-      {
-        "name": "Olivia Newton-John",
-        "photo": "https://image.tmdb.org/t/p/w185/pPgHm4ToBirjWcuOTrEMxS82stP.jpg"
-      },
-      {
-        "name": "John Travolta",
-        "photo": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
-      },
-      {
-        "name": "Stockard Channing",
-        "photo": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
-      },
-      {
-        "name": "Jeff Conaway",
-        "photo": "https://image.tmdb.org/t/p/w185/wsgupkvJSLM1bOCOXGRtgyPtgAh.jpg"
-      },
-      {
-        "name": "Barry Pearl",
-        "photo": "https://image.tmdb.org/t/p/w185/u8jLHqSn55zEMuNMIhgaQZr0UGN.jpg"
-      }
-    ],
-    "genre": "Romance, Comedia",
-    "rating": "7.4",
-    "telegramLink": "https://t.me/c/2474087426/3156",
-    "fileMessageId": "https://t.me/c/2474087426/3157",
-    "fileName": "Vaselina (1978).mp4",
-    "fileSize": "2,41 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Sandy y Danny han pasado un romántico y maravilloso verano juntos, pero las vacaciones se acabaron y sus caminos se separaron. Al regresar al instituto Rydell, ambos vuelven a encontrarse de manera sorpresiva, pero el problema es que la imagen y actitud de Danny no es la misma que durante el verano: ya no es el encantador y atento chico que encandiló a Sandy, sino alguien engreído e insensible que sólo quiere presumir de duro delante de sus amigos.",
-    "cover": "https://image.tmdb.org/t/p/w500/flSy0dexE82TiS6Si2FtulSHk8o.jpg",
-    "trailerKey": "THd96gHV7Tg",
-    "ageRatingSpain": "APTA",
-    "tmdbId": 621
-  },
-  {
     "id": 3162,
     "title": "El hoyo",
     "year": "2019",
@@ -45790,48 +45706,6 @@
     "tmdbId": 10393
   },
   {
-    "id": 4551,
-    "title": "El submarino (Das Boot)",
-    "year": "1981",
-    "duration": "149 minutos",
-    "director": "Wolfgang Petersen",
-    "actors": [
-      {
-        "name": "Jürgen Prochnow",
-        "photo": "https://image.tmdb.org/t/p/w185/77rzBItlHX1SG4zTe39cBlEgwSL.jpg"
-      },
-      {
-        "name": "Herbert Grönemeyer",
-        "photo": "https://image.tmdb.org/t/p/w185/yxYKqI9CaIfbkiCRrmZtfhAYt9r.jpg"
-      },
-      {
-        "name": "Klaus Wennemann",
-        "photo": "https://image.tmdb.org/t/p/w185/xHF0akCqkKjIiiSOn79MquMuNMk.jpg"
-      },
-      {
-        "name": "Hubertus Bengsch",
-        "photo": "https://image.tmdb.org/t/p/w185/rAP0SMlDOsd6yxAepQWPom6N7kG.jpg"
-      },
-      {
-        "name": "Martin Semmelrogge",
-        "photo": "https://image.tmdb.org/t/p/w185/w8UBZMC8SAX9ldIVaFkC1q0hNLo.jpg"
-      }
-    ],
-    "genre": "Drama, Historia, Bélica",
-    "rating": "8.1",
-    "telegramLink": "https://t.me/c/2474087426/4551",
-    "fileMessageId": "https://t.me/c/2474087426/4552",
-    "fileName": "El submarino (Das Boot) 1981.mp4",
-    "fileSize": "1,63 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Un submarino alemán de la Segunda Guerra Mundial es el escenario en el que un grupo de jóvenes soldados, dispuesto a defender su patria, tendrá que someterse a una dura convivencia, tras descubrir que han sido enviados a realizar una misión probablemente suicida.",
-    "cover": "https://image.tmdb.org/t/p/w500/qXeULeu5uHHXYHRsbITzuLN51EB.jpg",
-    "trailerKey": "r37MmBuFoc0",
-    "ageRatingSpain": "",
-    "tmdbId": 387
-  },
-  {
     "id": 4572,
     "title": "El truco final (El prestigio)",
     "year": "2006",
@@ -54757,48 +54631,6 @@
     "ageRatingSpain": "18"
   },
   {
-    "id": 5509,
-    "title": "Elvira, la reina de las tinieblas",
-    "year": "1988",
-    "duration": "96 minutos",
-    "director": "James Signorelli",
-    "actors": [
-      {
-        "name": "Cassandra Peterson",
-        "photo": "https://image.tmdb.org/t/p/w185/tXvakSnVSyauOV48qH4Zr0uzKGT.jpg"
-      },
-      {
-        "name": "William Morgan Sheppard",
-        "photo": "https://image.tmdb.org/t/p/w185/pg6ruMIClxACsA2hBUq9ulKX5AP.jpg"
-      },
-      {
-        "name": "Daniel Greene",
-        "photo": "https://image.tmdb.org/t/p/w185/fQFvA1ksyWXiBBmSuKkgbBGvqZv.jpg"
-      },
-      {
-        "name": "Edie McClurg",
-        "photo": "https://image.tmdb.org/t/p/w185/vU5y4hZe1WhqDAPP5jEfrWv4Iaq.jpg"
-      },
-      {
-        "name": "Susan Kellermann",
-        "photo": "https://image.tmdb.org/t/p/w185/qmdeLIQAskusv6Rm8fGfLWoph5g.jpg"
-      }
-    ],
-    "genre": "Comedia, Fantasía, Terror",
-    "rating": "6.7",
-    "telegramLink": "https://t.me/c/2474087426/5509",
-    "fileMessageId": "https://t.me/c/2474087426/5510",
-    "fileName": "Elvira, Reina De Las Tinieblas @Todogram.mp4",
-    "fileSize": "1,85 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Elvira, una presentadora de televisión de un programa de terror, viaja a Massachussets para recibir la herencia de su fallecida tía Morgana: una casa ruinosa, un perro y un libro de recetas. Poco después, encuentra una misteriosa carta...",
-    "cover": "https://image.tmdb.org/t/p/w500/k3UaVqaernacRyKkvZd2NpqZdZJ.jpg",
-    "trailerKey": "e6ZY8wPSrqk",
-    "ageRatingSpain": "",
-    "tmdbId": 5680
-  },
-  {
     "id": 5512,
     "title": "Bandidas",
     "year": "2006",
@@ -61352,90 +61184,6 @@
     "trailerKey": "n3_iLOp6IhM",
     "ageRatingSpain": "7",
     "tmdbId": 582
-  },
-  {
-    "id": 6300,
-    "title": "Mira quién habla",
-    "year": "1989",
-    "duration": "100 minutos",
-    "director": "Amy Heckerling",
-    "actors": [
-      {
-        "name": "John Travolta",
-        "photo": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
-      },
-      {
-        "name": "Kirstie Alley",
-        "photo": "https://image.tmdb.org/t/p/w185/9XZOeQtmvHdBkuMrlxO5PHPZwJo.jpg"
-      },
-      {
-        "name": "Olympia Dukakis",
-        "photo": "https://image.tmdb.org/t/p/w185/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
-      },
-      {
-        "name": "George Segal",
-        "photo": "https://image.tmdb.org/t/p/w185/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
-      },
-      {
-        "name": "Abe Vigoda",
-        "photo": "https://image.tmdb.org/t/p/w185/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg"
-      }
-    ],
-    "genre": "Comedia, Romance",
-    "rating": "6.3",
-    "telegramLink": "https://t.me/c/2474087426/6300",
-    "fileMessageId": "https://t.me/c/2474087426/6301",
-    "fileName": "Mira quién habla (1989).mp4",
-    "fileSize": "2,75 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Mollie (Kirstie Alley) se ha quedado embarazada de un hombre casado. Entonces decide criar sola a su hijo y buscar para él un padre perfecto. Pero el niño tiene sus propias opiniones al respecto, y no se priva de hacer todo tipo de comentarios sobre los posibles candidatos. Él quiere como padre al taxista (John Travolta) que le ayudó al nacer.",
-    "cover": "https://image.tmdb.org/t/p/w500/3pfesuEGjxA83F8DesrHmkNo9Bh.jpg",
-    "trailerKey": "Fw0rrn_POfM",
-    "ageRatingSpain": "",
-    "tmdbId": 9494
-  },
-  {
-    "id": 6303,
-    "title": "Mira quien habla también",
-    "year": "1990",
-    "duration": "77 minutos",
-    "director": "Amy Heckerling",
-    "actors": [
-      {
-        "name": "John Travolta",
-        "photo": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
-      },
-      {
-        "name": "Kirstie Alley",
-        "photo": "https://image.tmdb.org/t/p/w185/9XZOeQtmvHdBkuMrlxO5PHPZwJo.jpg"
-      },
-      {
-        "name": "Olympia Dukakis",
-        "photo": "https://image.tmdb.org/t/p/w185/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
-      },
-      {
-        "name": "Elias Koteas",
-        "photo": "https://image.tmdb.org/t/p/w185/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
-      },
-      {
-        "name": "Twink Caplan",
-        "photo": "https://image.tmdb.org/t/p/w185/sXBPtdgI2aO6rS0ydS7jupRiUMG.jpg"
-      }
-    ],
-    "genre": "Romance, Comedia",
-    "rating": "5.5",
-    "telegramLink": "https://t.me/c/2474087426/6303",
-    "fileMessageId": "https://t.me/c/2474087426/6304",
-    "fileName": "Mira quién habla también (1990).mp4",
-    "fileSize": "2,31 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "John, el taxista que quiere ser piloto de aviones, se ha casado con Molly, la madre de Mickey. Éste ha aprendido a dar sus primeros pasos y a pronunciar sus primeras palabras. También posee la clásica habilidad infantil para tirar cualquier objeto que encuentre a su paso. Por si fuera poco, nace Julie, su hermanita, dotada con idéntico sarcasmo.",
-    "cover": "https://image.tmdb.org/t/p/w500/tY9cqNnlMnc3vR11LdSxvBl3ERe.jpg",
-    "trailerKey": "_S_ux6f1Z_U",
-    "ageRatingSpain": "",
-    "tmdbId": 9356
   },
   {
     "id": 6306,
@@ -76415,48 +76163,6 @@
     "trailerKey": "Fwb8euJ-Evk",
     "ageRatingSpain": "",
     "tmdbId": 12435
-  },
-  {
-    "id": 8032,
-    "title": "Colega, ¿dónde está mi coche?",
-    "year": "2000",
-    "duration": "83 minutos",
-    "director": "Danny Leiner",
-    "actors": [
-      {
-        "name": "Ashton Kutcher",
-        "photo": "https://image.tmdb.org/t/p/w185/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
-      },
-      {
-        "name": "Seann William Scott",
-        "photo": "https://image.tmdb.org/t/p/w185/AftiUFP4rYcl3SG3xllxyiLiuXS.jpg"
-      },
-      {
-        "name": "Jennifer Garner",
-        "photo": "https://image.tmdb.org/t/p/w185/eiX083VOa0RCGSgwENZgVi5MgDi.jpg"
-      },
-      {
-        "name": "Marla Sokoloff",
-        "photo": "https://image.tmdb.org/t/p/w185/9al9Fhb4cNRIx3YSp2DlzWpWfi3.jpg"
-      },
-      {
-        "name": "Kristy Swanson",
-        "photo": "https://image.tmdb.org/t/p/w185/8gPVElKDCBllmfIP0pjZL9zISKv.jpg"
-      }
-    ],
-    "genre": "Aventura, Comedia, Misterio, Ciencia ficción",
-    "rating": "5.5",
-    "telegramLink": "https://t.me/c/2474087426/8032",
-    "fileMessageId": "https://t.me/c/2474087426/8033",
-    "fileName": "Colega, ¿dónde está mi coche' (2000).mp4",
-    "fileSize": "1,93 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Tras un noche de juerga, dos amigos no recuerdan dónde dejaron aparcado su coche. Su búsqueda significará el comienzo de una serie de sorpresas. Todo empieza cuando los jóvenes Jesse y Chester se despiertan una mañana después de una fiesta muy intensa, pero ninguno de los dos puede recordar qué pasó durante la noche anterior. El coche de Jesse desapareció, y todo parece estar fuera de lugar, así que los dos amigos comienzan la búsqueda del auto y de pistas que les permita reconstruir la noche anterior, aunque a medida que profundizan en los acontecimientos de las últimas veinticuatro horas, la situación se convierte en una salvaje historia que parece extraída de la ciencia-ficción.",
-    "cover": "https://image.tmdb.org/t/p/w500/i3dfiofjoBRb90ByAbQpBPeXj8a.jpg",
-    "trailerKey": "d1wuijgeaaY",
-    "ageRatingSpain": "12",
-    "tmdbId": 8859
   },
   {
     "id": 8035,
@@ -104405,9 +104111,9 @@
   },
   {
     "id": 10459,
-    "title": "The Equalizer II",
-    "year": "2018",
-    "duration": "120 minutos",
+    "title": "The Equalizer",
+    "year": "2014",
+    "duration": "128 minutos",
     "director": "Antoine Fuqua",
     "actors": [
       {
@@ -104415,35 +104121,35 @@
         "photo": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
       },
       {
-        "name": "Pedro Pascal",
-        "photo": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+        "name": "Marton Csokas",
+        "photo": "https://image.tmdb.org/t/p/w185/gmeUY7FR0bFLdu7Ma5kvpH3Gt6B.jpg"
       },
       {
-        "name": "Ashton Sanders",
-        "photo": "https://image.tmdb.org/t/p/w185/2hMKOd6TLQWwLAS6ztUcZj8IZAC.jpg"
+        "name": "Chloë Grace Moretz",
+        "photo": "https://image.tmdb.org/t/p/w185/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
       },
       {
-        "name": "Orson Bean",
-        "photo": "https://image.tmdb.org/t/p/w185/2iz769YdycczgnGPZyXNsaN3TGR.jpg"
+        "name": "David Harbour",
+        "photo": "https://image.tmdb.org/t/p/w185/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
       },
       {
-        "name": "Bill Pullman",
-        "photo": "https://image.tmdb.org/t/p/w185/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+        "name": "Haley Bennett",
+        "photo": "https://image.tmdb.org/t/p/w185/gNJN5I254ilKEH4cKT90ydjYeyJ.jpg"
       }
     ],
-    "genre": "Acción, Suspense, Crimen",
-    "rating": "6.8",
+    "genre": "Suspense, Acción, Crimen",
+    "rating": "7.3",
     "telegramLink": "https://t.me/c/2474087426/10459",
     "fileMessageId": "https://t.me/c/2474087426/10460",
     "fileName": "The Equalizer (1080p)_1.mp4",
     "fileSize": "3,89 Gb",
     "isFavorite": false,
     "tmdb_synced": true,
-    "plot": "Robert McCall imparte una justicia inquebrantable a los explotados y oprimidos, pero eso podría cambiar cuando se trata de un ser querido.",
-    "cover": "https://image.tmdb.org/t/p/w500/bzOMMHrMqvRSLlmsXIlbTJT8vFj.jpg",
-    "trailerKey": "IibsmbB6PXQ",
-    "ageRatingSpain": "18",
-    "tmdbId": 345887
+    "tmdbId": 156022,
+    "plot": "Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.",
+    "cover": "https://image.tmdb.org/t/p/w500/wNKqSUg2lGAFaoingqmPJ05Qft5.jpg",
+    "trailerKey": "rlMaxFG7blg",
+    "ageRatingSpain": ""
   },
   {
     "id": 10462,
@@ -110085,48 +109791,6 @@
     "cover": "https://image.tmdb.org/t/p/w500/yp172JRxaJaRkSyjLO3R9B3tJZJ.jpg",
     "trailerKey": "q0vttO4wCFY",
     "ageRatingSpain": "16"
-  },
-  {
-    "id": 10941,
-    "title": "Mad Max III. Más allá de la cúpula del trueno",
-    "year": "1985",
-    "duration": "107 minutos",
-    "director": "George Ogilvie",
-    "actors": [
-      {
-        "name": "Mel Gibson",
-        "photo": "https://image.tmdb.org/t/p/w185/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
-      },
-      {
-        "name": "Tina Turner",
-        "photo": "https://image.tmdb.org/t/p/w185/rqL6OCQi5IzZPYCZPvtqbKNUKGA.jpg"
-      },
-      {
-        "name": "Helen Buday",
-        "photo": "https://image.tmdb.org/t/p/w185/irvUmcrwIGYZImJKVAk7HqZYTh8.jpg"
-      },
-      {
-        "name": "Bruce Spence",
-        "photo": "https://image.tmdb.org/t/p/w185/kuaIudFTIBahGAdCamThG13jPp7.jpg"
-      },
-      {
-        "name": "Angelo Rossitto",
-        "photo": "https://image.tmdb.org/t/p/w185/rq7EWZ2rHOmA1WIOdOfjRXP9lrK.jpg"
-      }
-    ],
-    "genre": "Acción, Aventura, Ciencia ficción",
-    "rating": "6.2",
-    "telegramLink": "https://t.me/c/2474087426/10941",
-    "fileMessageId": "https://t.me/c/2474087426/10942",
-    "fileName": "Mad Max 3. Más allá de la cúpula del trueno (1985).mp4",
-    "fileSize": "1,94 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Tras la catástrofe nuclear, Mad Max cruza un desierto donde pierde su caravana de camellos. Llega a una ciudad donde le proponen cambiárselos a cambio de que ataque al tirano de la ciudad subterránea, un enano que fabrica gas metano con excrementos de cerdo.",
-    "cover": "https://image.tmdb.org/t/p/w500/u9gVwCajHkJpVAaVRau2xSOeHcl.jpg",
-    "trailerKey": "vynTmqiizog",
-    "ageRatingSpain": "12",
-    "tmdbId": 9355
   },
   {
     "id": 10944,
@@ -129856,48 +129520,6 @@
     "trailerKey": "ROg4MoaAXvY",
     "ageRatingSpain": "",
     "tmdbId": 9605
-  },
-  {
-    "id": 12555,
-    "title": "Allan Quatermain y la ciudad perdida de oro",
-    "year": "1986",
-    "duration": "95 minutos",
-    "director": "Gary Nelson",
-    "actors": [
-      {
-        "name": "Richard Chamberlain",
-        "photo": "https://image.tmdb.org/t/p/w185/cfMMR8EZrqMzjGExZ4Hb0fCFuLw.jpg"
-      },
-      {
-        "name": "Sharon Stone",
-        "photo": "https://image.tmdb.org/t/p/w185/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
-      },
-      {
-        "name": "James Earl Jones",
-        "photo": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
-      },
-      {
-        "name": "Henry Silva",
-        "photo": "https://image.tmdb.org/t/p/w185/lPXDv2K8tkFMnEQsDGmeIMSPxiq.jpg"
-      },
-      {
-        "name": "Robert Donner",
-        "photo": "https://image.tmdb.org/t/p/w185/f1eVXNa1hCxPhwsl25hZTHo4NPI.jpg"
-      }
-    ],
-    "genre": "Aventura, Acción, Comedia, Misterio",
-    "rating": "4.9",
-    "telegramLink": "https://t.me/c/2474087426/12555",
-    "fileMessageId": "https://t.me/c/2474087426/12556",
-    "fileName": "allan_quatermain_y_la_ciudad_perdida_del_oro_1986_1080p_x264_ac3.mkv",
-    "fileSize": "2,41 Gb",
-    "isFavorite": false,
-    "tmdb_synced": true,
-    "plot": "Cuando ya iba a partir en barco a América para casarse allá con su novia Jesse Huston, el cazador inglés Allan Quatermain rescata en la selva a un moribundo amigo, Dumont, quien es perseguido por misteriosos nativos. Antes de ser asesinado, Dumont le informa que Robeson Quatermain, hermano de Allan, se encuentra en Milosis, la ciudad de oro de una antigua leyenda, gobernada por una raza blanca. Posponiendo su viaje a USA, Quatermain parte en busca de su hermano, acompañado por Jesse, el gigantesco zulú Umslopogaas y el cobarde hindú Swarma. Tras atravesar desiertos y selvas plagadas de todo tipo de peligros fantásticos y enfrentar a los salvajes Eshowe, el grupo llega a la dorada Milosis, ciudad gobernada por primitivos hombres blancos, gobernados por las reinas Nyleptha y Sorais.",
-    "cover": "https://image.tmdb.org/t/p/w500/zgQTZN3tMSMrz6QAoqfU5nVAyyP.jpg",
-    "trailerKey": "h5IuW2hW5BI",
-    "ageRatingSpain": "",
-    "tmdbId": 9710
   },
   {
     "id": 12558,
@@ -197198,5 +196820,1223 @@
     "cover": "https://image.tmdb.org/t/p/w500/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
     "trailerKey": "Rh24D89hFMg",
     "ageRatingSpain": ""
+  },
+  {
+    "id": 17638,
+    "title": "El Halcón Y La Flecha",
+    "year": "1950",
+    "duration": "88 minutos",
+    "director": "Jacques Tourneur",
+    "actors": [
+      {
+        "name": "Burt Lancaster",
+        "photo": "https://image.tmdb.org/t/p/w185/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg"
+      },
+      {
+        "name": "Virginia Mayo",
+        "photo": "https://image.tmdb.org/t/p/w185/mee14a8stk8an2Pi1sulXI9rbTn.jpg"
+      },
+      {
+        "name": "Robert Douglas",
+        "photo": "https://image.tmdb.org/t/p/w185/4UGnE8M7DiIxt8v47UyeQLFCCRU.jpg"
+      },
+      {
+        "name": "Aline MacMahon",
+        "photo": "https://image.tmdb.org/t/p/w185/qFZBPrb53DQo0z0zKuAElvjPkT4.jpg"
+      },
+      {
+        "name": "Frank Allenby",
+        "photo": "https://image.tmdb.org/t/p/w185/wMAofIYZu9FVKWWKvkHrqh2SmNy.jpg"
+      }
+    ],
+    "genre": "Aventura, Historia",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/17638",
+    "fileMessageId": "https://t.me/c/2474087426/17639",
+    "fileName": "el.halcon.flecha.1950.1080p.mp4",
+    "fileSize": "2,90 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 32563,
+    "plot": "El principal enemigo de Dardo (Lancaster) es el Duque Urbis, alias \"El Halcón\", por haber secuestrado a su mujer y a su hijo. Este noble, en nombre del emperador, ejerce una auténtica tiranía sobre los habitantes de los pueblos de Lombardía. Un día Dardo, buscando venganza, secuestra a la sobrina del Duque.",
+    "cover": "https://image.tmdb.org/t/p/w500/9l08sjH1tS5Q3RvNnyden91wqPZ.jpg",
+    "trailerKey": "dTXnQawQzOk",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17640,
+    "title": "Ivanhoe",
+    "year": "1952",
+    "duration": "106 minutos",
+    "director": "Richard Thorpe",
+    "actors": [
+      {
+        "name": "Robert Taylor",
+        "photo": "https://image.tmdb.org/t/p/w185/1CDILPhiOQztlvZwsU55kKBspIV.jpg"
+      },
+      {
+        "name": "Elizabeth Taylor",
+        "photo": "https://image.tmdb.org/t/p/w185/eMUUN7yGSSH4G4dcqnKAZTquZP.jpg"
+      },
+      {
+        "name": "Joan Fontaine",
+        "photo": "https://image.tmdb.org/t/p/w185/y5Hl4TyipNN7463zZpPq5KFB3aM.jpg"
+      },
+      {
+        "name": "George Sanders",
+        "photo": "https://image.tmdb.org/t/p/w185/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg"
+      },
+      {
+        "name": "Emlyn Williams",
+        "photo": "https://image.tmdb.org/t/p/w185/ri3bPiWWE4g3zEkinSuna34TNl3.jpg"
+      }
+    ],
+    "genre": "Aventura, Romance, Historia",
+    "rating": "6.8",
+    "telegramLink": "https://t.me/c/2474087426/17640",
+    "fileMessageId": "https://t.me/c/2474087426/17641",
+    "fileName": "ivanhoe.1952.1080p.x264.flac.mkv",
+    "fileSize": "2,54 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 26175,
+    "plot": "A su vuelta de las Cruzadas, el Rey Ricardo Corazón de León es apresado en Austria. Su hermano Juan se niega a pagar la elevada suma de dinero que exigen a cambio de su libertad, ya que así puede seguir usurpando el trono de Inglaterra. El caballero Ivanhoe, uno de los partidarios de Ricardo, intentará por todos los medios conseguir el dinero del rescate.",
+    "cover": "https://image.tmdb.org/t/p/w500/xVYaKHgq1gEoz4FPwYT7HUWLWB9.jpg",
+    "trailerKey": "3Ch5eUAhPtE",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17642,
+    "title": "El coloso en llamas",
+    "year": "1974",
+    "duration": "165 minutos",
+    "director": "John Guillermin",
+    "actors": [
+      {
+        "name": "Steve McQueen",
+        "photo": "https://image.tmdb.org/t/p/w185/xUxg7SAM17eEc0rF90gz59Ap0w1.jpg"
+      },
+      {
+        "name": "Paul Newman",
+        "photo": "https://image.tmdb.org/t/p/w185/5K9gQEzuQ0DeNO6KKEb5xK8iOVD.jpg"
+      },
+      {
+        "name": "William Holden",
+        "photo": "https://image.tmdb.org/t/p/w185/eMdXRtJVvescfdxHAINVf7dcpAV.jpg"
+      },
+      {
+        "name": "Faye Dunaway",
+        "photo": "https://image.tmdb.org/t/p/w185/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+      },
+      {
+        "name": "Fred Astaire",
+        "photo": "https://image.tmdb.org/t/p/w185/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
+      }
+    ],
+    "genre": "Acción, Drama, Suspense",
+    "rating": "7.0",
+    "telegramLink": "https://t.me/c/2474087426/17642",
+    "fileMessageId": "https://t.me/c/2474087426/17643",
+    "fileName": "el.coloso.llamas.1974.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 5919,
+    "plot": "La noche en que se inaugura un gigantesco rascacielos de 138 plantas en la ciudad de San Francisco y se celebra una fiesta a la que acude un amplio grupo de personas, que incluye a las autoridades locales y a las principales personalidades de la ciudad, un cortocircuito en el piso 81 genera un terrible incendio que termina en tragedia.",
+    "cover": "https://image.tmdb.org/t/p/w500/7ktKwJnZp87FjT23CEpAC7y8h7o.jpg",
+    "trailerKey": "nyTqrtZFWeQ",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17644,
+    "title": "La batalla del planeta de los ewoks",
+    "year": "1985",
+    "duration": "94 minutos",
+    "director": "Jim Wheat",
+    "actors": [
+      {
+        "name": "Wilford Brimley",
+        "photo": "https://image.tmdb.org/t/p/w185/tB0DdWX6FeNB3tjffJIaC0EOLBB.jpg"
+      },
+      {
+        "name": "Warwick Davis",
+        "photo": "https://image.tmdb.org/t/p/w185/vUwjgAYcBEcCv0OVAN00qUUXX3V.jpg"
+      },
+      {
+        "name": "Aubree Miller",
+        "photo": "https://image.tmdb.org/t/p/w185/pidg9iw4FwWhUi1HWTwje84z9lO.jpg"
+      },
+      {
+        "name": "Siân Phillips",
+        "photo": "https://image.tmdb.org/t/p/w185/k2OIQZUWLTlZYfHjpS5X8csYbSY.jpg"
+      },
+      {
+        "name": "Carel Struycken",
+        "photo": "https://image.tmdb.org/t/p/w185/lmVuJQVeNVQo9x05WKLYmFBCpwA.jpg"
+      }
+    ],
+    "genre": "Aventura, Familia, Película de TV, Ciencia ficción, Fantasía",
+    "rating": "5.4",
+    "telegramLink": "https://t.me/c/2474087426/17644",
+    "fileMessageId": "https://t.me/c/2474087426/17645",
+    "fileName": "la.batalla.planeta.ewoks.1985.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 10372,
+    "plot": "Un ejército de merodeadores, bajo las órdenes del Rey Terak y la bruja Charal, atacan el Poblado Ewok. Cindel y Wicket huyen al bosque, donde se encuentran con Teek y el ermitaño Noa. Cindel y Wicket necesitarán la ayuda de Noa para derrotar a los merodeadores...",
+    "cover": "https://image.tmdb.org/t/p/w500/oOrJ6N7K2wgiG4UitDqSa7mvjqU.jpg",
+    "trailerKey": "lfMWlAF5RW0",
+    "ageRatingSpain": "7"
+  },
+  {
+    "id": 17646,
+    "title": "Las minas del rey Salomón",
+    "year": "1985",
+    "duration": "100 minutos",
+    "director": "J. Lee Thompson",
+    "actors": [
+      {
+        "name": "Richard Chamberlain",
+        "photo": "https://image.tmdb.org/t/p/w185/cfMMR8EZrqMzjGExZ4Hb0fCFuLw.jpg"
+      },
+      {
+        "name": "Sharon Stone",
+        "photo": "https://image.tmdb.org/t/p/w185/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+      },
+      {
+        "name": "Herbert Lom",
+        "photo": "https://image.tmdb.org/t/p/w185/1sqfpn8EzsCgQdwmB8NP4bLWYlP.jpg"
+      },
+      {
+        "name": "John Rhys-Davies",
+        "photo": "https://image.tmdb.org/t/p/w185/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+      },
+      {
+        "name": "Ken Gampu",
+        "photo": "https://image.tmdb.org/t/p/w185/9Wv1WIzrettH5GbgZhVoQk1oxmq.jpg"
+      }
+    ],
+    "genre": "Acción, Aventura, Comedia",
+    "rating": "5.4",
+    "telegramLink": "https://t.me/c/2474087426/17646",
+    "fileMessageId": "https://t.me/c/2474087426/17647",
+    "fileName": "las.minas.rey.salomon.1985.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 9838,
+    "plot": "Allan Quatermain, un famoso cazador, emprende un safari por el corazón de Africa. Al mismo tiempo, Elizabeth Curtis, acompañada de su hermano John, se interna en la zona más inhóspita del continente para buscar a su marido, desaparecido mientras buscaba las minas del Rey.",
+    "cover": "https://image.tmdb.org/t/p/w500/jHrjJGM3bizZXaiI35aWWN3MTj5.jpg",
+    "trailerKey": "LI4xsKHBx8c",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17648,
+    "title": "Daño colateral",
+    "year": "2002",
+    "duration": "115 minutos",
+    "director": "Andrew Davis",
+    "actors": [
+      {
+        "name": "Arnold Schwarzenegger",
+        "photo": "https://image.tmdb.org/t/p/w185/4jM3vsHIEQVeNFifiTAUDVAmiUo.jpg"
+      },
+      {
+        "name": "Francesca Neri",
+        "photo": "https://image.tmdb.org/t/p/w185/1aDT4mtTdnp6xh60NnjUXI62Poy.jpg"
+      },
+      {
+        "name": "Elias Koteas",
+        "photo": "https://image.tmdb.org/t/p/w185/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+      },
+      {
+        "name": "Cliff Curtis",
+        "photo": "https://image.tmdb.org/t/p/w185/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
+      },
+      {
+        "name": "John Leguizamo",
+        "photo": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+      }
+    ],
+    "genre": "Acción, Suspense, Drama",
+    "rating": "5.8",
+    "telegramLink": "https://t.me/c/2474087426/17648",
+    "fileMessageId": "https://t.me/c/2474087426/17649",
+    "fileName": "dano.colateral.2002.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 9884,
+    "plot": "La familia de Gordy Brewer (Arnold Schwarzenegger), un bombero de Los Ángeles, muere a manos de un grupo terrorista colombiano en un atentado con bomba en el centro de la ciudad, y él es testigo del horrible suceso. Convencido de que la justicia nunca detendrá a los que han arruinado su vida matando a su mujer y su hijo, Brewer decide viajar a la selva colombiana para vengarse por su cuenta.",
+    "cover": "https://image.tmdb.org/t/p/w500/2zSBTVpUA2FGvIOJw7GlcnsbSgz.jpg",
+    "trailerKey": "_SLvpM2IpT8",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17650,
+    "title": "Una historia real",
+    "year": "2015",
+    "duration": "100 minutos",
+    "director": "Rupert Goold",
+    "actors": [
+      {
+        "name": "Jonah Hill",
+        "photo": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+      },
+      {
+        "name": "James Franco",
+        "photo": "https://image.tmdb.org/t/p/w185/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+      },
+      {
+        "name": "Felicity Jones",
+        "photo": "https://image.tmdb.org/t/p/w185/35KdWSfTldNEdsn4MUGFIRoxJEu.jpg"
+      },
+      {
+        "name": "Maria Dizzia",
+        "photo": "https://image.tmdb.org/t/p/w185/sMsBH9o1kuFeVgjX2QoXvxccKJQ.jpg"
+      },
+      {
+        "name": "Ethan Suplee",
+        "photo": "https://image.tmdb.org/t/p/w185/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+      }
+    ],
+    "genre": "Crimen, Drama, Historia",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/17650",
+    "fileMessageId": "https://t.me/c/2474087426/17651",
+    "fileName": "Una historia real (2015).mp4",
+    "fileSize": "2,94 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 245706,
+    "plot": "Cuando Michael Finkel (Jonah Hill), un desacreditado reportero del New York Times, conoce a Christian Longo (James Franco), un asesino buscado por el FBI, éste se apodera de su identidad. Su investigación se convierte entonces en una especie de juego del gato y el ratón. Basada en hechos reales, narra la incesante búsqueda de la verdadera historia de Longo por parte de Finkel.",
+    "cover": "https://image.tmdb.org/t/p/w500/9MIj60A45VbmtUFYObXgvg7ztkG.jpg",
+    "trailerKey": "MpaJIjlwgAM",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17652,
+    "title": "Red Rock West",
+    "year": "1993",
+    "duration": "98 minutos",
+    "director": "John Dahl",
+    "actors": [
+      {
+        "name": "Nicolas Cage",
+        "photo": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+      },
+      {
+        "name": "Dennis Hopper",
+        "photo": "https://image.tmdb.org/t/p/w185/hfrzsJhkX7Vphe3pVYk8lA9BNfg.jpg"
+      },
+      {
+        "name": "Lara Flynn Boyle",
+        "photo": "https://image.tmdb.org/t/p/w185/1VL97IlddM29sypHuI36XY2h5Z2.jpg"
+      },
+      {
+        "name": "J.T. Walsh",
+        "photo": "https://image.tmdb.org/t/p/w185/mBa1UnbbKryNtQKT3VOnzER1HiQ.jpg"
+      },
+      {
+        "name": "Timothy Carhart",
+        "photo": "https://image.tmdb.org/t/p/w185/jfEzqYXfX7sH0BFmmiXty6kB1Lq.jpg"
+      }
+    ],
+    "genre": "Crimen, Suspense",
+    "rating": "6.8",
+    "telegramLink": "https://t.me/c/2474087426/17652",
+    "fileMessageId": "https://t.me/c/2474087426/17653",
+    "fileName": "red.rock.west.1993.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 10427,
+    "plot": "Michael busca un futuro más prometedor a más de 1900 km. de su hogar, pero sus sueños se vienen abajo al llegar a Red Rock West. A la caza de un trabajo, se convierte en presa de criminales y asesinos a sueldo en la tierra sin ley de este pequeño pueblo petrolífero del estado de Texas. A ello le sigue una vertiginosa cadena de acontecimientos que incluyen dobles identidades, codicia y asesinatos a lo largo de su lucha para sobrevivir.",
+    "cover": "https://image.tmdb.org/t/p/w500/oQq5DODegH6bT8hIp5PhHZ7wckl.jpg",
+    "trailerKey": "1kP0yuB0W-o",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17654,
+    "title": "Máximo riesgo",
+    "year": "1993",
+    "duration": "112 minutos",
+    "director": "Renny Harlin",
+    "actors": [
+      {
+        "name": "Sylvester Stallone",
+        "photo": "https://image.tmdb.org/t/p/w185/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+      },
+      {
+        "name": "John Lithgow",
+        "photo": "https://image.tmdb.org/t/p/w185/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+      },
+      {
+        "name": "Michael Rooker",
+        "photo": "https://image.tmdb.org/t/p/w185/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+      },
+      {
+        "name": "Janine Turner",
+        "photo": "https://image.tmdb.org/t/p/w185/sstY4R6okeEKWfhFkwCF5dWoCiq.jpg"
+      },
+      {
+        "name": "Rex Linn",
+        "photo": "https://image.tmdb.org/t/p/w185/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
+      }
+    ],
+    "genre": "Acción, Aventura, Suspense",
+    "rating": "6.5",
+    "telegramLink": "https://t.me/c/2474087426/17654",
+    "fileMessageId": "https://t.me/c/2474087426/17655",
+    "fileName": "maximo.riesgo.1993.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 9350,
+    "plot": "Gabe Walker, un alpinista dedicado al rescate de alta montaña, todavía no ha superado la muerte de su compañera en una caída al vacío un año atrás. Ahora le piden que vuelva a la misma montaña de la tragedia para rescatar a un grupo de personas extraviadas. Lo que Gabe desconoce es que se trata de peligrosos delincuentes que acaban de perpetrar un asalto a un avión para hacerse con un botín de cien millones de dólares.",
+    "cover": "https://image.tmdb.org/t/p/w500/1nwcgnpP6Clb3TXuFzvrEFreWZ6.jpg",
+    "trailerKey": "FMSxpwJ_q-Y",
+    "ageRatingSpain": "18"
+  },
+  {
+    "id": 17656,
+    "title": "El secreto de Thomas Crown",
+    "year": "1999",
+    "duration": "113 minutos",
+    "director": "John McTiernan",
+    "actors": [
+      {
+        "name": "Pierce Brosnan",
+        "photo": "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+      },
+      {
+        "name": "Rene Russo",
+        "photo": "https://image.tmdb.org/t/p/w185/yWPSqrv3nfPPKC6I2S0sRTWZ5Yi.jpg"
+      },
+      {
+        "name": "Denis Leary",
+        "photo": "https://image.tmdb.org/t/p/w185/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+      },
+      {
+        "name": "Frankie Faison",
+        "photo": "https://image.tmdb.org/t/p/w185/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+      },
+      {
+        "name": "Faye Dunaway",
+        "photo": "https://image.tmdb.org/t/p/w185/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+      }
+    ],
+    "genre": "Drama, Crimen, Romance",
+    "rating": "6.8",
+    "telegramLink": "https://t.me/c/2474087426/17656",
+    "fileMessageId": "https://t.me/c/2474087426/17657",
+    "fileName": "el.secreto.thomas.crown.1999.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 913,
+    "plot": "A los cuarenta años, al multimillonario y distinguido Thomas Crown no le queda nada que demostrar: es un triunfador nato. Pero no se siente satisfecho, así que planea robar un Monet del Museo de Nueva York. La policía nunca sospecharía de él, pero sí lo hace una experta y bella detective privada que trabaja para la agencia de seguros del museo. Por esta razón empieza a tantear a Crown por medio de un peligroso juego de inteligencia y seducción.",
+    "cover": "https://image.tmdb.org/t/p/w500/l7wKClInRHuJi1LO2Lfp1eYkz6f.jpg",
+    "trailerKey": "XSGTgwGsP1U",
+    "ageRatingSpain": "APTA"
+  },
+  {
+    "id": 17658,
+    "title": "Cara a cara",
+    "year": "1997",
+    "duration": "138 minutos",
+    "director": "吴宇森",
+    "actors": [
+      {
+        "name": "John Travolta",
+        "photo": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+      },
+      {
+        "name": "Nicolas Cage",
+        "photo": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+      },
+      {
+        "name": "Joan Allen",
+        "photo": "https://image.tmdb.org/t/p/w185/aLYQFv11lb8hyBuP7ewkuxWbK8q.jpg"
+      },
+      {
+        "name": "Alessandro Nivola",
+        "photo": "https://image.tmdb.org/t/p/w185/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+      },
+      {
+        "name": "Gina Gershon",
+        "photo": "https://image.tmdb.org/t/p/w185/khuZCNBmgNJ5jC4ejCkcsc8k79p.jpg"
+      }
+    ],
+    "genre": "Acción, Crimen, Ciencia ficción",
+    "rating": "7.1",
+    "telegramLink": "https://t.me/c/2474087426/17658",
+    "fileMessageId": "https://t.me/c/2474087426/17659",
+    "fileName": "cara.cara.1997.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 754,
+    "plot": "Para vengar la muerte de su hijo, el Agente del FBI San Archer se hace una peligrosa operación consistente en cambiar su cara por la del terrorista Castor Troy, que está en estado de coma. Peor cuando Castor despierta y toma la identidad de Sean, comienza para éste su peor pesadilla, teniendo que luchar no sólo por salvar su vida sino la de su mujer e hija.",
+    "cover": "https://image.tmdb.org/t/p/w500/alizmPaRHq7sGHW5eoshoYzWjf9.jpg",
+    "trailerKey": "i4Vi61_Laxc",
+    "ageRatingSpain": "18"
+  },
+  {
+    "id": 17660,
+    "title": "El juego del halcón",
+    "year": "1985",
+    "duration": "131 minutos",
+    "director": "John Schlesinger",
+    "actors": [
+      {
+        "name": "Timothy Hutton",
+        "photo": "https://image.tmdb.org/t/p/w185/oWVtWGEauBs0zXrk0cWqiqYxJtN.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "photo": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Pat Hingle",
+        "photo": "https://image.tmdb.org/t/p/w185/pSvLdAxEwluDOee7H1FV4yiq3a2.jpg"
+      },
+      {
+        "name": "Joyce Van Patten",
+        "photo": "https://image.tmdb.org/t/p/w185/vbt3LzgBiQ7UhL5tDwn1wV4ndBd.jpg"
+      },
+      {
+        "name": "Art Camacho",
+        "photo": "https://image.tmdb.org/t/p/w185/5r43Lo6EYrtqnRdzHKgioyrNruN.jpg"
+      }
+    ],
+    "genre": "Suspense, Drama, Crimen",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/17660",
+    "fileMessageId": "https://t.me/c/2474087426/17661",
+    "fileName": "El juego del halcón (1985).mp4",
+    "fileSize": "1,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 26578,
+    "plot": "Christopher Boyce (Timothy Hutton), un joven seminarista, y su amigo Daulton Lee (Sean Penn) son dos tipos normales, amigos desde la infancia, que sin querer se ven envueltos en una intriga de espionaje en plena guerra fría... Basada en hechos reales. El guión es del reputado Steve Zaillian (\"The Schindler's List\", \"Searching Bobby Fisher\").",
+    "cover": "https://image.tmdb.org/t/p/w500/o5l23R2gNFzMyJPBEJp0pdZEBhr.jpg",
+    "trailerKey": "pvI9A8NGpdg",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17662,
+    "title": "El regreso de Ben",
+    "year": "2018",
+    "duration": "105 minutos",
+    "director": "Peter Hedges",
+    "actors": [
+      {
+        "name": "Julia Roberts",
+        "photo": "https://image.tmdb.org/t/p/w185/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+      },
+      {
+        "name": "Lucas Hedges",
+        "photo": "https://image.tmdb.org/t/p/w185/8WP1uXUwm6Z1vzrMaIiKj89M6kX.jpg"
+      },
+      {
+        "name": "Courtney B. Vance",
+        "photo": "https://image.tmdb.org/t/p/w185/6ci3wf6oecjz875QRwryOsapW0Y.jpg"
+      },
+      {
+        "name": "Kathryn Newton",
+        "photo": "https://image.tmdb.org/t/p/w185/3mos4oK6bps0uhQzW1L7nj5O0Gd.jpg"
+      },
+      {
+        "name": "Rachel Bay Jones",
+        "photo": "https://image.tmdb.org/t/p/w185/tpRPZq95tM9v1GOzDYtxPu4isPq.jpg"
+      }
+    ],
+    "genre": "Drama",
+    "rating": "6.6",
+    "telegramLink": "https://t.me/c/2474087426/17662",
+    "fileMessageId": "https://t.me/c/2474087426/17663",
+    "fileName": "El regreso de Ben (2018).mkv",
+    "fileSize": "3,88 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 492452,
+    "plot": "Trata sobre el encantador pero problemático Ben Burns, quien regresa a su hogar con su familia una fatídica víspera de Navidad. La cautelosa madre de Ben, Holly Burns, recibe el regreso de su amado hijo, pero pronto se entera de que todavía está en peligro. Durante 24 horas que pueden cambiar sus vidas para siempre, Holly debe hacer todo lo que esté a su alcance para evitar la caída de la familia.",
+    "cover": "https://image.tmdb.org/t/p/w500/8YX8AhxJJcKcQ69j33oarYGFvvw.jpg",
+    "trailerKey": "Y80GOOGiSUs",
+    "ageRatingSpain": "12"
+  },
+  {
+    "id": 17664,
+    "title": "Caprichos del destino",
+    "year": "1999",
+    "duration": "133 minutos",
+    "director": "Sydney Pollack",
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "photo": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+      },
+      {
+        "name": "Kristin Scott Thomas",
+        "photo": "https://image.tmdb.org/t/p/w185/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
+      },
+      {
+        "name": "Charles S. Dutton",
+        "photo": "https://image.tmdb.org/t/p/w185/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg"
+      },
+      {
+        "name": "Richard Jenkins",
+        "photo": "https://image.tmdb.org/t/p/w185/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+      },
+      {
+        "name": "Dennis Haysbert",
+        "photo": "https://image.tmdb.org/t/p/w185/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+      }
+    ],
+    "genre": "Drama, Romance, Suspense",
+    "rating": "5.6",
+    "telegramLink": "https://t.me/c/2474087426/17664",
+    "fileMessageId": "https://t.me/c/2474087426/17665",
+    "fileName": "caprichos.destino.1999.1080p.mp4",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 12618,
+    "plot": "Dutch Van Den Broek (Harrison Ford) es un policía de asuntos internos felizmente casado. Por su parte, Kay Chandler (Kristin Scott Thomas) es una importante congresista, también casada y madre de una hija adolescente. Debido a un accidente de avión, ambos descubrirán cuál era la verdadera situación de sus respectivos matrimonios. (FILMAFFINITY)",
+    "cover": "https://image.tmdb.org/t/p/w500/jBgDuD93et0VnB84zPAPUWcR1G6.jpg",
+    "trailerKey": "aLHMJZ5eKjs",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17666,
+    "title": "Killing Zoe",
+    "year": "1993",
+    "duration": "100 minutos",
+    "director": "Roger Avary",
+    "actors": [
+      {
+        "name": "Eric Stoltz",
+        "photo": "https://image.tmdb.org/t/p/w185/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+      },
+      {
+        "name": "Julie Delpy",
+        "photo": "https://image.tmdb.org/t/p/w185/rd40f4QpAUUne3hMaUhHrZtcK2c.jpg"
+      },
+      {
+        "name": "Jean-Hugues Anglade",
+        "photo": "https://image.tmdb.org/t/p/w185/cpSxpZLgtzuizHyEmdkh9rgKkRs.jpg"
+      },
+      {
+        "name": "Tai Thai",
+        "photo": "https://image.tmdb.org/t/p/w185/h0b76A1cJYIOLEvJDGgRoSyrifs.jpg"
+      },
+      {
+        "name": "Bruce Ramsay",
+        "photo": "https://image.tmdb.org/t/p/w185/xvVbXMzHqZ0kMs77EScQ76S4gWH.jpg"
+      }
+    ],
+    "genre": "Acción, Crimen, Drama, Suspense",
+    "rating": "6.2",
+    "telegramLink": "https://t.me/c/2474087426/17666",
+    "fileMessageId": "https://t.me/c/2474087426/17667",
+    "fileName": "killing.zoe.1993.1080p.ac3.mkv",
+    "fileSize": "3,09 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 507,
+    "plot": "Zed (Eric Stoltz) es un ladrón de cajas fuertes americano que llega a París para ayudar a Eric (Jean-Hughes Anglade), su amigo de la infancia, a atracar un banco. Al llegar a la capital francesa un taxista le ofrece a Zed \"una esposa para la noche\". Al abrir la puerta de su habitación del hotel, Zed se encuentra a una adorable parisina llamada Zoe (Julie Delpy). Pero la pasión entre ambos se interrumpe bruscamente cuando Eric irrumpe en la habitación, echa a Zoe, aún desnuda, y arrastra a Zed fuera para que conozca a los miembros de la banda. Al día siguiente, todos irrumpen en el banco tomando a rehenes, incluida Zoe que, durante el día, trabaja como secretaria en el banco. Pero una vez dentro la tensión va en aumento, los atracadores pierden el control de la situación con los rehenes, los cadáveres van en aumento y la policía rodea el edificio.",
+    "cover": "https://image.tmdb.org/t/p/w500/8znqXHh4W1l4qgLimEsHlQdPdG6.jpg",
+    "trailerKey": "u_4mhnd-098",
+    "ageRatingSpain": "18"
+  },
+  {
+    "id": 17668,
+    "title": "Salvaje",
+    "year": "2020",
+    "duration": "91 minutos",
+    "director": "Derrick Borte",
+    "actors": [
+      {
+        "name": "Russell Crowe",
+        "photo": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+      },
+      {
+        "name": "Caren Pistorius",
+        "photo": "https://image.tmdb.org/t/p/w185/nvvxpXZfVGDi0Mb1jJ8CuX993m1.jpg"
+      },
+      {
+        "name": "Gabriel Bateman",
+        "photo": "https://image.tmdb.org/t/p/w185/6qNrduicWPPaMR2Vst2BJL4XyQb.jpg"
+      },
+      {
+        "name": "Jimmi Simpson",
+        "photo": "https://image.tmdb.org/t/p/w185/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
+      },
+      {
+        "name": "Austin P. McKenzie",
+        "photo": "https://image.tmdb.org/t/p/w185/qjt5yYvOvNWsHBZZbTsMwptRFeF.jpg"
+      }
+    ],
+    "genre": "Acción, Suspense, Terror",
+    "rating": "6.4",
+    "telegramLink": "https://t.me/c/2474087426/17668",
+    "fileMessageId": "https://t.me/c/2474087426/17669",
+    "fileName": "Salvaje.@MasQueCine.mkv",
+    "fileSize": "3,25 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 625568,
+    "plot": "Tom es un hombre cuya vida ha dejado de tener sentido. En pleno colapso mental se cruza en la carretera con Rachel, una joven que llega tarde a trabajar y que, nerviosa, recrimina a Tom con el claxon que no mueva su coche en un semáforo. A partir de entonces dará comienzo un peligroso juego del gato y el ratón en el que el torbellino de esta ira en la carretera traspasará cualquier límite que Rachel jamás haya imaginado.  Salvaje toma como testigo la adrenalina y el pánico de otras películas con psicópatas al volante como El diablo sobre ruedas, Nunca juegues con extraños o Death Proof.",
+    "cover": "https://image.tmdb.org/t/p/w500/38XTUyRV6BMb1IOU34pwrBCwaXX.jpg",
+    "trailerKey": "eZ-N73KFAy8",
+    "ageRatingSpain": "16"
+  },
+  {
+    "id": 17670,
+    "title": "Allan Quatermain y la ciudad perdida de oro",
+    "year": "1986",
+    "duration": "95 minutos",
+    "director": "Gary Nelson",
+    "actors": [
+      {
+        "name": "Richard Chamberlain",
+        "photo": "https://image.tmdb.org/t/p/w185/cfMMR8EZrqMzjGExZ4Hb0fCFuLw.jpg"
+      },
+      {
+        "name": "Sharon Stone",
+        "photo": "https://image.tmdb.org/t/p/w185/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+      },
+      {
+        "name": "James Earl Jones",
+        "photo": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+      },
+      {
+        "name": "Henry Silva",
+        "photo": "https://image.tmdb.org/t/p/w185/lPXDv2K8tkFMnEQsDGmeIMSPxiq.jpg"
+      },
+      {
+        "name": "Robert Donner",
+        "photo": "https://image.tmdb.org/t/p/w185/f1eVXNa1hCxPhwsl25hZTHo4NPI.jpg"
+      }
+    ],
+    "genre": "Aventura, Acción, Comedia, Misterio",
+    "rating": "4.9",
+    "telegramLink": "https://t.me/c/2474087426/17670",
+    "fileMessageId": "https://t.me/c/2474087426/17671",
+    "fileName": "allan.quatermain.ciudad.perdida.oro.1986.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 9710,
+    "plot": "Cuando ya iba a partir en barco a América para casarse allá con su novia Jesse Huston, el cazador inglés Allan Quatermain rescata en la selva a un moribundo amigo, Dumont, quien es perseguido por misteriosos nativos. Antes de ser asesinado, Dumont le informa que Robeson Quatermain, hermano de Allan, se encuentra en Milosis, la ciudad de oro de una antigua leyenda, gobernada por una raza blanca. Posponiendo su viaje a USA, Quatermain parte en busca de su hermano, acompañado por Jesse, el gigantesco zulú Umslopogaas y el cobarde hindú Swarma. Tras atravesar desiertos y selvas plagadas de todo tipo de peligros fantásticos y enfrentar a los salvajes Eshowe, el grupo llega a la dorada Milosis, ciudad gobernada por primitivos hombres blancos, gobernados por las reinas Nyleptha y Sorais.",
+    "cover": "https://image.tmdb.org/t/p/w500/zgQTZN3tMSMrz6QAoqfU5nVAyyP.jpg",
+    "trailerKey": "h5IuW2hW5BI",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17672,
+    "title": "Elvira, la reina de las tinieblas",
+    "year": "1988",
+    "duration": "96 minutos",
+    "director": "James Signorelli",
+    "actors": [
+      {
+        "name": "Cassandra Peterson",
+        "photo": "https://image.tmdb.org/t/p/w185/tXvakSnVSyauOV48qH4Zr0uzKGT.jpg"
+      },
+      {
+        "name": "William Morgan Sheppard",
+        "photo": "https://image.tmdb.org/t/p/w185/pg6ruMIClxACsA2hBUq9ulKX5AP.jpg"
+      },
+      {
+        "name": "Daniel Greene",
+        "photo": "https://image.tmdb.org/t/p/w185/fQFvA1ksyWXiBBmSuKkgbBGvqZv.jpg"
+      },
+      {
+        "name": "Edie McClurg",
+        "photo": "https://image.tmdb.org/t/p/w185/vU5y4hZe1WhqDAPP5jEfrWv4Iaq.jpg"
+      },
+      {
+        "name": "Susan Kellermann",
+        "photo": "https://image.tmdb.org/t/p/w185/qmdeLIQAskusv6Rm8fGfLWoph5g.jpg"
+      }
+    ],
+    "genre": "Comedia, Fantasía, Terror",
+    "rating": "6.7",
+    "telegramLink": "https://t.me/c/2474087426/17672",
+    "fileMessageId": "https://t.me/c/2474087426/17673",
+    "fileName": "elvira.reina.tinieblas.1988.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 5680,
+    "plot": "Elvira, una presentadora de televisión de un programa de terror, viaja a Massachussets para recibir la herencia de su fallecida tía Morgana: una casa ruinosa, un perro y un libro de recetas. Poco después, encuentra una misteriosa carta...",
+    "cover": "https://image.tmdb.org/t/p/w500/k3UaVqaernacRyKkvZd2NpqZdZJ.jpg",
+    "trailerKey": "e6ZY8wPSrqk",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17674,
+    "title": "El submarino (Das Boot)",
+    "year": "1981",
+    "duration": "149 minutos",
+    "director": "Wolfgang Petersen",
+    "actors": [
+      {
+        "name": "Jürgen Prochnow",
+        "photo": "https://image.tmdb.org/t/p/w185/4489XcYBPCY0CoqLHN04Bjz4A3q.jpg"
+      },
+      {
+        "name": "Herbert Grönemeyer",
+        "photo": "https://image.tmdb.org/t/p/w185/yxYKqI9CaIfbkiCRrmZtfhAYt9r.jpg"
+      },
+      {
+        "name": "Klaus Wennemann",
+        "photo": "https://image.tmdb.org/t/p/w185/xHF0akCqkKjIiiSOn79MquMuNMk.jpg"
+      },
+      {
+        "name": "Hubertus Bengsch",
+        "photo": "https://image.tmdb.org/t/p/w185/rAP0SMlDOsd6yxAepQWPom6N7kG.jpg"
+      },
+      {
+        "name": "Martin Semmelrogge",
+        "photo": "https://image.tmdb.org/t/p/w185/w8UBZMC8SAX9ldIVaFkC1q0hNLo.jpg"
+      }
+    ],
+    "genre": "Drama, Historia, Bélica",
+    "rating": "8.1",
+    "telegramLink": "https://t.me/c/2474087426/17674",
+    "fileMessageId": "https://t.me/c/2474087426/17675",
+    "fileName": "el.submarino.das.boot.1981.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 387,
+    "plot": "Un submarino alemán de la Segunda Guerra Mundial es el escenario en el que un grupo de jóvenes soldados, dispuesto a defender su patria, tendrá que someterse a una dura convivencia, tras descubrir que han sido enviados a realizar una misión probablemente suicida.",
+    "cover": "https://image.tmdb.org/t/p/w500/qXeULeu5uHHXYHRsbITzuLN51EB.jpg",
+    "trailerKey": "r37MmBuFoc0",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17676,
+    "title": "Irreversible",
+    "year": "2002",
+    "duration": "97 minutos",
+    "director": "Gaspar Noé",
+    "actors": [
+      {
+        "name": "Monica Bellucci",
+        "photo": "https://image.tmdb.org/t/p/w185/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg"
+      },
+      {
+        "name": "Vincent Cassel",
+        "photo": "https://image.tmdb.org/t/p/w185/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+      },
+      {
+        "name": "Albert Dupontel",
+        "photo": "https://image.tmdb.org/t/p/w185/gwZFclFz6IQcKadX3wYhagP0r2I.jpg"
+      },
+      {
+        "name": "Jo Prestia",
+        "photo": "https://image.tmdb.org/t/p/w185/owAotRB9XMCf1LkceEl0ygWueQA.jpg"
+      },
+      {
+        "name": "Philippe Nahon",
+        "photo": "https://image.tmdb.org/t/p/w185/CHlLvN1GCXb78eB418z9yfhrSu.jpg"
+      }
+    ],
+    "genre": "Drama, Suspense, Crimen",
+    "rating": "7.2",
+    "telegramLink": "https://t.me/c/2474087426/17676",
+    "fileMessageId": "https://t.me/c/2474087426/17677",
+    "fileName": "irreversible.2002.1080p.x264.aac.mkv",
+    "fileSize": "3,86 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 979,
+    "plot": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
+    "cover": "https://image.tmdb.org/t/p/w500/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
+    "trailerKey": "e9D7hvIwgj4",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17678,
+    "title": "Colega, ¿dónde está mi coche?",
+    "year": "2000",
+    "duration": "83 minutos",
+    "director": "Danny Leiner",
+    "actors": [
+      {
+        "name": "Ashton Kutcher",
+        "photo": "https://image.tmdb.org/t/p/w185/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
+      },
+      {
+        "name": "Seann William Scott",
+        "photo": "https://image.tmdb.org/t/p/w185/AftiUFP4rYcl3SG3xllxyiLiuXS.jpg"
+      },
+      {
+        "name": "Jennifer Garner",
+        "photo": "https://image.tmdb.org/t/p/w185/eiX083VOa0RCGSgwENZgVi5MgDi.jpg"
+      },
+      {
+        "name": "Marla Sokoloff",
+        "photo": "https://image.tmdb.org/t/p/w185/9al9Fhb4cNRIx3YSp2DlzWpWfi3.jpg"
+      },
+      {
+        "name": "Kristy Swanson",
+        "photo": "https://image.tmdb.org/t/p/w185/8gPVElKDCBllmfIP0pjZL9zISKv.jpg"
+      }
+    ],
+    "genre": "Aventura, Comedia, Misterio, Ciencia ficción",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/17678",
+    "fileMessageId": "https://t.me/c/2474087426/17679",
+    "fileName": "colega.donde.esta.coche.2000.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 8859,
+    "plot": "Tras un noche de juerga, dos amigos no recuerdan dónde dejaron aparcado su coche. Su búsqueda significará el comienzo de una serie de sorpresas. Todo empieza cuando los jóvenes Jesse y Chester se despiertan una mañana después de una fiesta muy intensa, pero ninguno de los dos puede recordar qué pasó durante la noche anterior. El coche de Jesse desapareció, y todo parece estar fuera de lugar, así que los dos amigos comienzan la búsqueda del auto y de pistas que les permita reconstruir la noche anterior, aunque a medida que profundizan en los acontecimientos de las últimas veinticuatro horas, la situación se convierte en una salvaje historia que parece extraída de la ciencia-ficción.",
+    "cover": "https://image.tmdb.org/t/p/w500/i3dfiofjoBRb90ByAbQpBPeXj8a.jpg",
+    "trailerKey": "d1wuijgeaaY",
+    "ageRatingSpain": "12"
+  },
+  {
+    "id": 17680,
+    "title": "Mad Max III. Más allá de la cúpula del trueno",
+    "year": "1985",
+    "duration": "107 minutos",
+    "director": "George Miller",
+    "actors": [
+      {
+        "name": "Mel Gibson",
+        "photo": "https://image.tmdb.org/t/p/w185/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+      },
+      {
+        "name": "Tina Turner",
+        "photo": "https://image.tmdb.org/t/p/w185/rqL6OCQi5IzZPYCZPvtqbKNUKGA.jpg"
+      },
+      {
+        "name": "Helen Buday",
+        "photo": "https://image.tmdb.org/t/p/w185/irvUmcrwIGYZImJKVAk7HqZYTh8.jpg"
+      },
+      {
+        "name": "Bruce Spence",
+        "photo": "https://image.tmdb.org/t/p/w185/kuaIudFTIBahGAdCamThG13jPp7.jpg"
+      },
+      {
+        "name": "Angelo Rossitto",
+        "photo": "https://image.tmdb.org/t/p/w185/rq7EWZ2rHOmA1WIOdOfjRXP9lrK.jpg"
+      }
+    ],
+    "genre": "Acción, Aventura, Ciencia ficción",
+    "rating": "6.2",
+    "telegramLink": "https://t.me/c/2474087426/17680",
+    "fileMessageId": "https://t.me/c/2474087426/17681",
+    "fileName": "mad.max.iii.mas.alla.cupula.trueno.1985.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 9355,
+    "plot": "Tras la catástrofe nuclear, Mad Max cruza un desierto donde pierde su caravana de camellos. Llega a una ciudad donde le proponen cambiárselos a cambio de que ataque al tirano de la ciudad subterránea, un enano que fabrica gas metano con excrementos de cerdo.",
+    "cover": "https://image.tmdb.org/t/p/w500/u9gVwCajHkJpVAaVRau2xSOeHcl.jpg",
+    "trailerKey": "vynTmqiizog",
+    "ageRatingSpain": "12"
+  },
+  {
+    "id": 17682,
+    "title": "Grease",
+    "year": "1978",
+    "duration": "110 minutos",
+    "director": "Randal Kleiser",
+    "actors": [
+      {
+        "name": "Olivia Newton-John",
+        "photo": "https://image.tmdb.org/t/p/w185/pPgHm4ToBirjWcuOTrEMxS82stP.jpg"
+      },
+      {
+        "name": "John Travolta",
+        "photo": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+      },
+      {
+        "name": "Stockard Channing",
+        "photo": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+      },
+      {
+        "name": "Jeff Conaway",
+        "photo": "https://image.tmdb.org/t/p/w185/wsgupkvJSLM1bOCOXGRtgyPtgAh.jpg"
+      },
+      {
+        "name": "Barry Pearl",
+        "photo": "https://image.tmdb.org/t/p/w185/u8jLHqSn55zEMuNMIhgaQZr0UGN.jpg"
+      }
+    ],
+    "genre": "Romance, Comedia",
+    "rating": "7.4",
+    "telegramLink": "https://t.me/c/2474087426/17682",
+    "fileMessageId": "https://t.me/c/2474087426/17683",
+    "fileName": "grease.1978.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 621,
+    "plot": "Sandy y Danny han pasado un romántico y maravilloso verano juntos, pero las vacaciones se acabaron y sus caminos se separaron. Al regresar al instituto Rydell, ambos vuelven a encontrarse de manera sorpresiva, pero el problema es que la imagen y actitud de Danny no es la misma que durante el verano: ya no es el encantador y atento chico que encandiló a Sandy, sino alguien engreído e insensible que sólo quiere presumir de duro delante de sus amigos.",
+    "cover": "https://image.tmdb.org/t/p/w500/flSy0dexE82TiS6Si2FtulSHk8o.jpg",
+    "trailerKey": "THd96gHV7Tg",
+    "ageRatingSpain": "APTA"
+  },
+  {
+    "id": 17684,
+    "title": "Mira quién habla",
+    "year": "1989",
+    "duration": "100 minutos",
+    "director": "Amy Heckerling",
+    "actors": [
+      {
+        "name": "John Travolta",
+        "photo": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+      },
+      {
+        "name": "Kirstie Alley",
+        "photo": "https://image.tmdb.org/t/p/w185/9XZOeQtmvHdBkuMrlxO5PHPZwJo.jpg"
+      },
+      {
+        "name": "Olympia Dukakis",
+        "photo": "https://image.tmdb.org/t/p/w185/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
+      },
+      {
+        "name": "George Segal",
+        "photo": "https://image.tmdb.org/t/p/w185/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+      },
+      {
+        "name": "Abe Vigoda",
+        "photo": "https://image.tmdb.org/t/p/w185/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg"
+      }
+    ],
+    "genre": "Comedia, Romance",
+    "rating": "6.3",
+    "telegramLink": "https://t.me/c/2474087426/17684",
+    "fileMessageId": "https://t.me/c/2474087426/17685",
+    "fileName": "mira.quien.habla.1989.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 9494,
+    "plot": "Mollie (Kirstie Alley) se ha quedado embarazada de un hombre casado. Entonces decide criar sola a su hijo y buscar para él un padre perfecto. Pero el niño tiene sus propias opiniones al respecto, y no se priva de hacer todo tipo de comentarios sobre los posibles candidatos. Él quiere como padre al taxista (John Travolta) que le ayudó al nacer.",
+    "cover": "https://image.tmdb.org/t/p/w500/ie38UMn61xRzPYepgb4GZUlsTZ4.jpg",
+    "trailerKey": "Fw0rrn_POfM",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17686,
+    "title": "Mira quien habla también",
+    "year": "1990",
+    "duration": "77 minutos",
+    "director": "Amy Heckerling",
+    "actors": [
+      {
+        "name": "John Travolta",
+        "photo": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+      },
+      {
+        "name": "Kirstie Alley",
+        "photo": "https://image.tmdb.org/t/p/w185/9XZOeQtmvHdBkuMrlxO5PHPZwJo.jpg"
+      },
+      {
+        "name": "Olympia Dukakis",
+        "photo": "https://image.tmdb.org/t/p/w185/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
+      },
+      {
+        "name": "Elias Koteas",
+        "photo": "https://image.tmdb.org/t/p/w185/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+      },
+      {
+        "name": "Twink Caplan",
+        "photo": "https://image.tmdb.org/t/p/w185/sXBPtdgI2aO6rS0ydS7jupRiUMG.jpg"
+      }
+    ],
+    "genre": "Romance, Comedia",
+    "rating": "5.5",
+    "telegramLink": "https://t.me/c/2474087426/17686",
+    "fileMessageId": "https://t.me/c/2474087426/17687",
+    "fileName": "mira.quien.habla.tambien.1990.1080p.x264.ac3.mkv",
+    "fileSize": "3,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 9356,
+    "plot": "John, el taxista que quiere ser piloto de aviones, se ha casado con Molly, la madre de Mickey. Éste ha aprendido a dar sus primeros pasos y a pronunciar sus primeras palabras. También posee la clásica habilidad infantil para tirar cualquier objeto que encuentre a su paso. Por si fuera poco, nace Julie, su hermanita, dotada con idéntico sarcasmo.",
+    "cover": "https://image.tmdb.org/t/p/w500/wSzFkFW5hZzhhlVnz5XmQRwPzW8.jpg",
+    "trailerKey": "_S_ux6f1Z_U",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17688,
+    "title": "9 lunas",
+    "year": "2026",
+    "duration": "90 minutos",
+    "director": "Patricia Ortega",
+    "actors": [
+      {
+        "name": "Zack Gómez-Rolls",
+        "photo": null
+      },
+      {
+        "name": "Sara Sálamo",
+        "photo": "https://image.tmdb.org/t/p/w185/oFCyXMAZktpOpxnUyjPfLiWdE2i.jpg"
+      },
+      {
+        "name": "Jorge Sanz",
+        "photo": "https://image.tmdb.org/t/p/w185/acwgrhueqESEzWM7CyK3GJCwCf5.jpg"
+      },
+      {
+        "name": "María León",
+        "photo": "https://image.tmdb.org/t/p/w185/emO3kZWopALDhGYEJwbtcKd8gQZ.jpg"
+      },
+      {
+        "name": "Kiti Mánver",
+        "photo": "https://image.tmdb.org/t/p/w185/1hMLpxmw3HP6yx6LtH0UgMiFGmA.jpg"
+      }
+    ],
+    "genre": "Comedia",
+    "rating": "7.0",
+    "telegramLink": "https://t.me/c/2474087426/17688",
+    "fileMessageId": "https://t.me/c/2474087426/17689",
+    "fileName": "9 lunas (2026).mp4",
+    "fileSize": "2,41 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 1447420,
+    "plot": "Un hombre trans descubre que está embarazado y debe decidir si completa o no su transición.",
+    "cover": "https://image.tmdb.org/t/p/w500/aQ9uc9CtgN05qedbD8aSFp6NQn5.jpg",
+    "trailerKey": "dPp0bd7MqZI",
+    "ageRatingSpain": ""
+  },
+  {
+    "id": 17690,
+    "title": "Triple 9",
+    "year": "2016",
+    "duration": "115 minutos",
+    "director": "John Hillcoat",
+    "actors": [
+      {
+        "name": "Casey Affleck",
+        "photo": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "photo": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+      },
+      {
+        "name": "Anthony Mackie",
+        "photo": "https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "photo": "https://image.tmdb.org/t/p/w185/surklDlLW6g2D7EqycEQwHXsoD1.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "photo": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      }
+    ],
+    "genre": "Acción, Crimen, Aventura, Suspense",
+    "rating": "6.0",
+    "telegramLink": "https://t.me/c/2474087426/17690",
+    "fileMessageId": "https://t.me/c/2474087426/17691",
+    "fileName": "triple.9.2016.1080p.x264.ac3.mkv",
+    "fileSize": "2,52 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 146198,
+    "plot": "\"Triple Nine\" es un código policial que significa ayuda inmediata. Un grupo de criminales y policías corruptos de Los Ángeles planean activar esta alerta para así desviar toda la atención de la policía hacia la otra punta de la ciudad del lugar en el que están perpetrando un gran robo.",
+    "cover": "https://image.tmdb.org/t/p/w500/7PIPr0X5kmiigySp2szq12bkira.jpg",
+    "trailerKey": "e69UeN9s11w",
+    "ageRatingSpain": "18"
+  },
+  {
+    "id": 17692,
+    "title": "Steve Jobs",
+    "year": "2015",
+    "duration": "122 minutos",
+    "director": "Danny Boyle",
+    "actors": [
+      {
+        "name": "Michael Fassbender",
+        "photo": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "photo": "https://image.tmdb.org/t/p/w185/surklDlLW6g2D7EqycEQwHXsoD1.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "photo": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+      },
+      {
+        "name": "Jeff Daniels",
+        "photo": "https://image.tmdb.org/t/p/w185/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+      },
+      {
+        "name": "Michael Stuhlbarg",
+        "photo": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+      }
+    ],
+    "genre": "Drama, Historia",
+    "rating": "6.8",
+    "telegramLink": "https://t.me/c/2474087426/17692",
+    "fileMessageId": "https://t.me/c/2474087426/17693",
+    "fileName": "steve.jobs.2015.1080p.x264.ac3.mkv",
+    "fileSize": "3,19 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 321697,
+    "plot": "Biopic del mítico empresario y programador informático Steve Jobs (1955-2011), centrado en la época en la que lanzó los tres productos icónicos de Apple.",
+    "cover": "https://image.tmdb.org/t/p/w500/tifv0KBpDWCcrIwlScgZeUKwq2m.jpg",
+    "trailerKey": "CPSJaP5m_3w",
+    "ageRatingSpain": "7"
+  },
+  {
+    "id": 17694,
+    "title": "La vida de David Gale",
+    "year": "2003",
+    "duration": "130 minutos",
+    "director": "Alan Parker",
+    "actors": [
+      {
+        "name": "Kevin Spacey",
+        "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "photo": "https://image.tmdb.org/t/p/w185/surklDlLW6g2D7EqycEQwHXsoD1.jpg"
+      },
+      {
+        "name": "Laura Linney",
+        "photo": "https://image.tmdb.org/t/p/w185/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg"
+      },
+      {
+        "name": "Rhona Mitra",
+        "photo": "https://image.tmdb.org/t/p/w185/1YThpok3Wk3BBy0pcUTcpuZyOBB.jpg"
+      },
+      {
+        "name": "Gabriel Mann",
+        "photo": "https://image.tmdb.org/t/p/w185/mrqiMfwoQnLBGGP3zvfHrwPKHJW.jpg"
+      }
+    ],
+    "genre": "Drama, Suspense, Crimen",
+    "rating": "7.4",
+    "telegramLink": "https://t.me/c/2474087426/17694",
+    "fileMessageId": "https://t.me/c/2474087426/17695",
+    "fileName": "la.vida.david.gale.2003.1080p.x265.ac3.mkv",
+    "fileSize": "2,91 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 11615,
+    "plot": "La vida de David Gale (Spacey), profesor universitario y activista contra la pena de muerte, da un vuelco inesperado cuando es acusado y condenado por la violación y muerte de su colega, la activista Constance Harraway (Linney). A sólo tres días de su ejecución, Gale acepta conceder una entrevista exclusiva a una joven y ambiciosa reportera (Winslet).",
+    "cover": "https://image.tmdb.org/t/p/w500/1TuVaT4OyBwVk7cbMrGujvNQj6m.jpg",
+    "trailerKey": "BnbNu4vl2Q0",
+    "ageRatingSpain": "18"
   }
 ]
