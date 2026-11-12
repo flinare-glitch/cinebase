@@ -1,6 +1,6 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.11",
-    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.11/CineBase.apk",
-    "notes":  "Aviso de nueva versión: el foco ya no se va a las películas, se queda en los botones. Y nuevo género Sagas."
+    "versionCode":  13,
+    "versionName":  "1.12",
+    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.12/CineBase.apk",
+    "notes":  "Sagas: pantalla con los pósters de las sagas; al abrir una salen sus películas de la más vieja a la más nueva. Las sagas con una sola película ya no se muestran."
 }
