@@ -1,6 +1,6 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.12",
-    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.12/CineBase.apk",
-    "notes":  "Sagas: pantalla con los pósters de las sagas; al abrir una salen sus películas de la más vieja a la más nueva. Las sagas con una sola película ya no se muestran."
+    "versionCode":  14,
+    "versionName":  "1.13",
+    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.13/CineBase.apk",
+    "notes":  "Sagas: ahora solo salen las sagas con 3 o más películas en el catálogo (antes salían 278 y eran demasiadas; ahora 118)."
 }
