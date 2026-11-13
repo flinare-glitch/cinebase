@@ -1,6 +1,6 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.14",
-    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.14/CineBase.apk",
-    "notes":  "Arreglado el corte que paraba la película a mitad (ERROR_CODE_IO_NETWORK_CONNECTION_TIMEOUT): ahora el reproductor espera más y, si se corta, se reconecta solo en el mismo minuto. Los avisos salen en castellano y con OK se reintenta."
+    "versionCode":  16,
+    "versionName":  "1.15",
+    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.15/CineBase.apk",
+    "notes":  "Reproductor más ágil si Telegram va lento: trozos más pequeños (el vídeo arranca antes), aviso \u0027La conexión va lenta\u0027 a los 8 segundos y reconexión automática en el mismo minuto si se corta."
 }
