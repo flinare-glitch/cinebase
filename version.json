@@ -1,6 +1,6 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.13",
-    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.13/CineBase.apk",
-    "notes":  "Sagas: ahora solo salen las sagas con 3 o más películas en el catálogo (antes salían 278 y eran demasiadas; ahora 118)."
+    "versionCode":  15,
+    "versionName":  "1.14",
+    "apkUrl":  "https://github.com/flinare-glitch/cinebase/releases/download/v1.14/CineBase.apk",
+    "notes":  "Arreglado el corte que paraba la película a mitad (ERROR_CODE_IO_NETWORK_CONNECTION_TIMEOUT): ahora el reproductor espera más y, si se corta, se reconecta solo en el mismo minuto. Los avisos salen en castellano y con OK se reintenta."
 }
