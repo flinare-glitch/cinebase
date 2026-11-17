@@ -211967,5 +211967,50 @@
     "sagaName": null,
     "sagaPoster": null,
     "ageRatingSpain": ""
+  },
+  {
+    "id": 17880,
+    "title": "La Odisea",
+    "year": "2026",
+    "duration": "173 minutos",
+    "director": "Christopher Nolan",
+    "actors": [
+      {
+        "name": "Matt Damon",
+        "photo": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+      },
+      {
+        "name": "Tom Holland",
+        "photo": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+      },
+      {
+        "name": "Anne Hathaway",
+        "photo": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+      },
+      {
+        "name": "Robert Pattinson",
+        "photo": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+      },
+      {
+        "name": "Himesh Patel",
+        "photo": "https://image.tmdb.org/t/p/w185/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+      }
+    ],
+    "genre": "Aventura, Acción, Fantasía",
+    "rating": "8.0",
+    "telegramLink": "https://t.me/c/2474087426/17880",
+    "fileMessageId": "https://t.me/c/2474087426/17881",
+    "fileName": "La odisea (2026).mp4",
+    "fileSize": "3,87 Gb",
+    "isFavorite": false,
+    "tmdb_synced": true,
+    "tmdbId": 1368337,
+    "plot": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+    "cover": "https://image.tmdb.org/t/p/w500/wLSZhzbKI2lwYkS1uRjHyfi8CPQ.jpg",
+    "trailerKey": "X9nUrOnHlz0",
+    "sagaId": null,
+    "sagaName": null,
+    "sagaPoster": null,
+    "ageRatingSpain": "16"
   }
 ]
